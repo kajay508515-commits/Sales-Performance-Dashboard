@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Name,Region,Category,Product_Name,Sales,Sales_Level,Profit,Profit_Status,Quantity,Sales_Channel
+1001,23-01-25,Ramesh,South,Furniture,Chair,994,Low Sales,6274,Profit,6,Offline
+1002,06-01-25,Kiran,North,Technology,Headphones,34024,High Sales,0,No Profit,10,Online
+1003,11-01-25,Ramesh,West,Furniture,Table,6338,Low Sales,0,No Profit,1,Offline
+1004,25-01-25,Unknown Customer,North,Technology,Tablet,48427,High Sales,7285,Profit,1,Online
+1005,02-01-25,Pooja,North,Technology,Laptop,46791,High Sales,1310,Profit,1,Online
+1006,10-01-25,Ravi,North,Office Supplies,Marker,12850,Medium Sales,-3178,Loss,1,Online
+1007,03-01-25,Kiran,West,Furniture,Table,27057,Medium Sales,4368,Profit,1,Online
+1008,24-01-25,Ramesh,West,Office Supplies,Notebook,57620,High Sales,-1271,Loss,5,Online
+1009,26-01-25,Pooja,North,Technology,Headphones,4913,Low Sales,0,No Profit,1,Offline
+1010,26-01-25,Suman,North,Office Supplies,Pen Set,26444,Medium Sales,0,No Profit,1,Offline
+1011,21-01-25,Suman,East,Technology,Laptop,56630,High Sales,0,No Profit,1,Online
+1012,08-01-25,Ramesh,West,Office Supplies,Notebook,37367,High Sales,-3303,Loss,1,Offline
+1013,31-01-25,Meena,East,Furniture,Table,33557,High Sales,-403,Loss,1,Online
+1014,19-01-25,Unknown Customer,North,Office Supplies,Marker,41273,High Sales,672,Profit,3,Offline
+1015,28-01-25,Kiran,South,Technology,Tablet,29210,Medium Sales,0,No Profit,1,Online
+1016,12-01-25,Pooja,East,Furniture,Table,32321,High Sales,0,No Profit,1,Online
+1017,17-01-25,Unknown Customer,North,Office Supplies,Notebook,4218,Low Sales,-387,Loss,1,Offline
+1018,01-01-25,Arun,South,Office Supplies,Notebook,20674,Medium Sales,0,No Profit,4,Online
+1019,26-01-25,Sunil,West,Office Supplies,Pen Set,31023,High Sales,0,No Profit,7,Offline
+1020,05-01-25,Neha,South,Technology,Laptop,35565,High Sales,9730,Profit,1,Offline
+1021,26-01-25,Arun,South,Office Supplies,Pen Set,16418,Medium Sales,0,No Profit,5,Offline
+1022,01-01-25,Neha,South,Technology,Mobile phone,43409,High Sales,457,Profit,1,Offline
+1023,19-01-25,Ramesh,East,Office Supplies,Notebook,21768,Medium Sales,0,No Profit,5,Offline
+1024,19-01-25,Arun,East,Office Supplies,Marker,39014,High Sales,3861,Profit,6,Online
+1025,24-01-25,Ajay Kumar,North,Technology,Headphones,41792,High Sales,0,No Profit,1,Online
+1026,01-01-25,Suman,East,Technology,Laptop,45740,High Sales,9759,Profit,1,Offline
+1027,16-01-25,Ramesh,West,Office Supplies,Pen Set,59003,High Sales,3203,Profit,1,Offline
+1028,25-01-25,Sunil,West,Office Supplies,Pen Set,9704,Low Sales,7664,Profit,1,Offline
+1029,22-01-25,Arun,North,Technology,Tablet,31057,High Sales,0,No Profit,1,Offline
+1030,08-01-25,Neha,West,Furniture,Table,18968,Medium Sales,0,No Profit,8,Offline
+1031,05-01-25,Kiran,East,Technology,Tablet,16876,Medium Sales,0,No Profit,1,Online
+1032,22-01-25,Suman,South,Technology,Mobile phone,52383,High Sales,8939,Profit,2,Online
+1033,25-01-25,Neha,North,Technology,Laptop,20999,Medium Sales,-2843,Loss,9,Offline
+1034,24-01-25,Pooja,South,Furniture,Chair,54177,High Sales,-2125,Loss,6,Online
+1035,01-01-25,Neha,North,Office Supplies,Notebook,10222,Medium Sales,0,No Profit,1,Offline
+1036,11-01-25,Arun,South,Office Supplies,Notebook,28684,Medium Sales,8733,Profit,1,Offline
+1037,27-01-25,Suman,East,Office Supplies,Notebook,27740,Medium Sales,0,No Profit,2,Offline
+1038,30-01-25,Sunil,North,Office Supplies,Pen Set,54700,High Sales,-1885,Loss,8,Online
+1039,03-01-25,Unknown Customer,East,Furniture,Chair,44458,High Sales,0,No Profit,9,Online
+1040,30-01-25,Meena,West,Office Supplies,Notebook,44594,High Sales,9151,Profit,1,Online
+1041,31-01-25,Pooja,North,Technology,Headphones,6807,Low Sales,4621,Profit,1,Online
+1042,25-01-25,Arun,East,Furniture,Table,24616,Medium Sales,-3376,Loss,8,Offline
+1043,17-01-25,Arun,East,Technology,Headphones,27028,Medium Sales,1596,Profit,1,Offline
+1044,11-01-25,Ravi,North,Office Supplies,Notebook,48707,High Sales,0,No Profit,2,Offline
+1045,06-01-25,Meena,South,Furniture,Chair,35577,High Sales,738,Profit,1,Online
+1046,04-01-25,Meena,West,Furniture,Chair,22864,Medium Sales,0,No Profit,1,Offline
+1047,15-01-25,Suman,South,Furniture,Chair,23630,Medium Sales,0,No Profit,9,Online
+1048,15-01-25,Suman,North,Furniture,Table,27209,Medium Sales,0,No Profit,6,Offline
+1049,16-01-25,Ravi,West,Furniture,Chair,6630,Low Sales,4528,Profit,1,Online
+1050,12-01-25,Suman,North,Furniture,Table,18936,Medium Sales,-754,Loss,1,Online
+1051,12-01-25,Kiran,West,Office Supplies,Marker,43820,High Sales,3433,Profit,1,Offline
+1052,29-01-25,Unknown Customer,West,Technology,Tablet,40813,High Sales,0,No Profit,8,Online
+1053,04-01-25,Sunil,South,Furniture,Chair,40552,High Sales,-2,Loss,1,Offline
+1054,09-01-25,Arun,East,Office Supplies,Pen Set,31537,High Sales,7658,Profit,1,Online
+1055,31-01-25,Meena,East,Office Supplies,Marker,17581,Medium Sales,1219,Profit,1,Offline
+1056,18-01-25,Suman,East,Technology,Headphones,41490,High Sales,-789,Loss,5,Online
+1057,12-01-25,Sunil,South,Technology,Headphones,57235,High Sales,6591,Profit,5,Offline
+1058,23-01-25,Pooja,East,Furniture,Chair,3174,Low Sales,0,No Profit,1,Online
+1059,14-01-25,Pooja,South,Technology,Laptop,7289,Low Sales,0,No Profit,1,Online
+1060,13-01-25,Arun,South,Furniture,Table,11689,Medium Sales,0,No Profit,1,Offline
+1061,20-01-25,Meena,North,Technology,Mobile phone,46978,High Sales,0,No Profit,7,Online
+1062,26-01-25,Suman,West,Technology,Mobile phone,57401,High Sales,7643,Profit,1,Online
+1063,23-01-25,Sunil,North,Furniture,Chair,45352,High Sales,7547,Profit,1,Offline
+1064,28-01-25,Ravi,South,Office Supplies,Notebook,50753,High Sales,4362,Profit,7,Online
+1065,21-01-25,Neha,South,Furniture,Sofa,56635,High Sales,0,No Profit,1,Online
+1066,18-01-25,Unknown Customer,East,Technology,Mobile phone,20149,Medium Sales,6470,Profit,2,Online
+1067,31-01-25,Ajay Kumar,North,Office Supplies,Pen Set,57579,High Sales,0,No Profit,9,Offline
+1068,01-01-25,Ajay Kumar,North,Technology,Mobile phone,37290,High Sales,0,No Profit,5,Online
+1069,19-01-25,Ravi,North,Furniture,Chair,59695,High Sales,-227,Loss,1,Online
+1070,08-01-25,Meena,West,Technology,Tablet,7924,Low Sales,4134,Profit,1,Offline
+1071,22-01-25,Pooja,East,Office Supplies,Marker,1218,Low Sales,0,No Profit,1,Online
+1072,28-01-25,Suman,South,Furniture,Chair,514,Low Sales,0,No Profit,5,Online
+1073,13-01-25,Pooja,South,Technology,Headphones,42875,High Sales,-590,Loss,5,Offline
+1074,15-01-25,Arun,South,Furniture,Table,25529,Medium Sales,0,No Profit,3,Online
+1075,18-01-25,Pooja,East,Technology,Mobile phone,32694,High Sales,5179,Profit,1,Offline
+1076,21-01-25,Sunil,South,Furniture,Sofa,19468,Medium Sales,0,No Profit,4,Online
+1077,18-01-25,Ramesh,South,Technology,Tablet,9979,Low Sales,0,No Profit,10,Online
+1078,18-01-25,Pooja,West,Technology,Mobile phone,29161,Medium Sales,0,No Profit,1,Offline
+1079,28-01-25,Unknown Customer,South,Office Supplies,Marker,42156,High Sales,0,No Profit,1,Offline
+1080,03-01-25,Ajay Kumar,East,Office Supplies,Pen Set,16356,Medium Sales,0,No Profit,1,Offline
+1081,15-01-25,Ajay Kumar,West,Furniture,Chair,22443,Medium Sales,-995,Loss,1,Online
+1082,29-01-25,Arun,South,Technology,Laptop,47610,High Sales,-4311,Loss,6,Offline
+1083,30-01-25,Arun,North,Furniture,Table,46599,High Sales,0,No Profit,1,Offline
+1084,26-01-25,Ramesh,North,Technology,Tablet,8056,Low Sales,-2128,Loss,1,Online
+1085,23-01-25,Sunil,North,Technology,Mobile phone,53047,High Sales,8212,Profit,2,Offline
+1086,23-01-25,Arun,South,Furniture,Chair,48624,High Sales,0,No Profit,1,Offline
+1087,08-01-25,Sunil,West,Office Supplies,Pen Set,40520,High Sales,2866,Profit,1,Offline
+1088,28-01-25,Kiran,North,Furniture,Chair,54027,High Sales,0,No Profit,6,Offline
+1089,06-01-25,Ramesh,East,Office Supplies,Marker,38348,High Sales,0,No Profit,1,Online
+1090,21-01-25,Meena,East,Technology,Mobile phone,8827,Low Sales,-1018,Loss,3,Offline
+1091,05-01-25,Ajay Kumar,South,Technology,Tablet,54444,High Sales,-3081,Loss,5,Offline
+1092,03-01-25,Neha,West,Technology,Headphones,55253,High Sales,3782,Profit,5,Online
+1093,16-01-25,Arun,West,Technology,Headphones,3764,Low Sales,0,No Profit,4,Offline
+1094,15-01-25,Sunil,South,Furniture,Chair,18866,Medium Sales,0,No Profit,8,Offline
+1095,16-01-25,Suman,North,Furniture,Table,27693,Medium Sales,4415,Profit,1,Offline
+1096,05-01-25,Pooja,North,Furniture,Chair,43759,High Sales,2461,Profit,1,Offline
+1097,06-01-25,Meena,North,Technology,Tablet,13785,Medium Sales,5590,Profit,3,Offline
+1098,10-01-25,Suman,North,Technology,Tablet,40815,High Sales,0,No Profit,1,Online
+1099,21-01-25,Meena,West,Office Supplies,Pen Set,24195,Medium Sales,-174,Loss,5,Online
+1100,23-01-25,Unknown Customer,South,Furniture,Table,39453,High Sales,79,Profit,1,Offline
+1101,18-01-25,Pooja,South,Furniture,Table,752,Low Sales,0,No Profit,8,Online
+1102,28-01-25,Suman,South,Furniture,Table,31409,High Sales,0,No Profit,1,Offline
+1103,15-01-25,Neha,South,Office Supplies,Marker,56594,High Sales,0,No Profit,1,Online
+1104,23-01-25,Kiran,West,Furniture,Chair,30684,High Sales,0,No Profit,6,Online
+1105,12-01-25,Unknown Customer,East,Office Supplies,Pen Set,53191,High Sales,0,No Profit,10,Offline
+1106,27-01-25,Ramesh,South,Furniture,Chair,8544,Low Sales,0,No Profit,1,Online
+1107,30-01-25,Meena,South,Technology,Headphones,23847,Medium Sales,0,No Profit,1,Offline
+1108,08-01-25,Meena,East,Technology,Headphones,29861,Medium Sales,5863,Profit,8,Online
+1109,23-01-25,Unknown Customer,East,Technology,Mobile phone,57728,High Sales,0,No Profit,1,Online
+1110,28-01-25,Meena,North,Furniture,Table,839,Low Sales,0,No Profit,1,Offline
+1111,21-01-25,Meena,South,Furniture,Sofa,56530,High Sales,0,No Profit,1,Online
+1112,20-01-25,Ajay Kumar,North,Office Supplies,Marker,8265,Low Sales,0,No Profit,1,Offline
+1113,05-01-25,Sunil,South,Office Supplies,Marker,26524,Medium Sales,0,No Profit,2,Offline
+1114,04-01-25,Meena,East,Office Supplies,Pen Set,12506,Medium Sales,-3567,Loss,2,Offline
+1115,04-01-25,Sunil,West,Furniture,Table,10656,Medium Sales,0,No Profit,1,Offline
+1116,01-01-25,Sunil,North,Technology,Mobile phone,51015,High Sales,-1989,Loss,9,Offline
+1117,07-01-25,Suman,West,Technology,Tablet,52757,High Sales,3562,Profit,9,Offline
+1118,09-01-25,Pooja,East,Furniture,Table,6040,Low Sales,5673,Profit,2,Offline
+1119,09-01-25,Suman,East,Technology,Mobile phone,24980,Medium Sales,9777,Profit,1,Offline
+1120,29-01-25,Meena,East,Furniture,Sofa,40898,High Sales,-2769,Loss,1,Offline
+1121,02-01-25,Pooja,East,Furniture,Sofa,21064,Medium Sales,9930,Profit,1,Online
+1122,12-01-25,Pooja,South,Furniture,Chair,50288,High Sales,0,No Profit,8,Offline
+1123,10-01-25,Arun,East,Technology,Headphones,16052,Medium Sales,-4700,Loss,3,Online
+1124,22-01-25,Ramesh,West,Office Supplies,Notebook,30773,High Sales,0,No Profit,1,Online
+1125,26-01-25,Sunil,West,Technology,Laptop,34632,High Sales,997,Profit,2,Offline
+1126,19-01-25,Suman,South,Furniture,Sofa,56273,High Sales,-4035,Loss,1,Online
+1127,22-01-25,Ajay Kumar,East,Furniture,Table,38969,High Sales,3279,Profit,10,Online
+1128,07-01-25,Sunil,North,Furniture,Sofa,17892,Medium Sales,0,No Profit,1,Online
+1129,07-01-25,Arun,South,Office Supplies,Pen Set,47022,High Sales,6611,Profit,8,Offline
+1130,28-01-25,Ravi,South,Technology,Laptop,22786,Medium Sales,0,No Profit,1,Offline
+1131,09-01-25,Ajay Kumar,East,Technology,Mobile phone,6527,Low Sales,1748,Profit,1,Online
+1132,13-01-25,Arun,East,Office Supplies,Marker,16160,Medium Sales,0,No Profit,1,Offline
+1133,09-01-25,Sunil,West,Technology,Mobile phone,12932,Medium Sales,0,No Profit,4,Online
+1134,13-01-25,Kiran,South,Office Supplies,Notebook,33379,High Sales,5285,Profit,1,Online
+1135,31-01-25,Kiran,North,Furniture,Table,28053,Medium Sales,2598,Profit,1,Offline
+1136,28-01-25,Ramesh,East,Furniture,Sofa,7316,Low Sales,0,No Profit,1,Online
+1137,24-01-25,Neha,South,Furniture,Chair,3397,Low Sales,1529,Profit,10,Online
+1138,29-01-25,Neha,South,Furniture,Chair,25894,Medium Sales,0,No Profit,8,Offline
+1139,27-01-25,Meena,West,Office Supplies,Notebook,21877,Medium Sales,0,No Profit,1,Offline
+1140,30-01-25,Sunil,East,Technology,Headphones,42739,High Sales,0,No Profit,5,Offline
+1141,24-01-25,Sunil,South,Furniture,Table,44355,High Sales,0,No Profit,3,Offline
+1142,04-01-25,Kiran,North,Technology,Laptop,7567,Low Sales,0,No Profit,8,Offline
+1143,28-01-25,Ajay Kumar,West,Office Supplies,Notebook,19215,Medium Sales,0,No Profit,1,Online
+1144,04-01-25,Kiran,West,Office Supplies,Pen Set,8311,Low Sales,2808,Profit,1,Online
+1145,22-01-25,Unknown Customer,West,Technology,Headphones,13469,Medium Sales,2382,Profit,8,Offline
+1146,23-01-25,Sunil,North,Technology,Laptop,26209,Medium Sales,6703,Profit,1,Online
+1147,22-01-25,Sunil,South,Technology,Headphones,45743,High Sales,332,Profit,7,Offline
+1148,21-01-25,Ajay Kumar,South,Technology,Mobile phone,13881,Medium Sales,-2278,Loss,9,Offline
+1149,06-01-25,Meena,West,Furniture,Sofa,47672,High Sales,0,No Profit,1,Online
+1150,05-01-25,Neha,South,Office Supplies,Pen Set,8782,Low Sales,0,No Profit,1,Online
+1151,21-01-25,Suman,South,Office Supplies,Pen Set,57405,High Sales,0,No Profit,4,Offline
+1152,11-01-25,Arun,West,Technology,Mobile phone,30154,High Sales,2915,Profit,1,Offline
+1153,05-01-25,Neha,East,Technology,Tablet,7694,Low Sales,6898,Profit,1,Online
+1154,04-01-25,Meena,North,Office Supplies,Pen Set,53314,High Sales,5507,Profit,3,Online
+1155,19-01-25,Ajay Kumar,West,Technology,Tablet,46642,High Sales,0,No Profit,10,Online
+1156,09-01-25,Suman,West,Furniture,Table,3992,Low Sales,0,No Profit,2,Offline
+1157,20-01-25,Arun,South,Office Supplies,Pen Set,2279,Low Sales,1934,Profit,6,Online
+1158,07-01-25,Unknown Customer,East,Furniture,Table,10642,Medium Sales,9502,Profit,1,Online
+1159,10-01-25,Arun,West,Technology,Mobile phone,55423,High Sales,2004,Profit,4,Offline
+1160,18-01-25,Pooja,South,Office Supplies,Pen Set,29587,Medium Sales,-4919,Loss,1,Offline
+1161,29-01-25,Sunil,East,Furniture,Table,15772,Medium Sales,1722,Profit,1,Online
+1162,19-01-25,Pooja,West,Furniture,Sofa,34574,High Sales,2103,Profit,1,Online
+1163,09-01-25,Neha,South,Technology,Laptop,18857,Medium Sales,-4138,Loss,10,Online
+1164,07-01-25,Suman,West,Technology,Tablet,18115,Medium Sales,4543,Profit,1,Online
+1165,07-01-25,Meena,North,Furniture,Sofa,49485,High Sales,0,No Profit,1,Online
+1166,09-01-25,Meena,West,Office Supplies,Marker,38259,High Sales,-2946,Loss,1,Online
+1167,28-01-25,Ravi,South,Furniture,Chair,36513,High Sales,-4455,Loss,1,Offline
+1168,07-01-25,Pooja,East,Technology,Headphones,54260,High Sales,0,No Profit,3,Online
+1169,09-01-25,Meena,South,Office Supplies,Notebook,17347,Medium Sales,0,No Profit,7,Online
+1170,08-01-25,Sunil,East,Furniture,Table,14000,Medium Sales,0,No Profit,5,Online
+1171,11-01-25,Pooja,South,Office Supplies,Notebook,30848,High Sales,910,Profit,1,Offline
+1172,16-01-25,Ravi,West,Furniture,Chair,31500,High Sales,1122,Profit,1,Offline
+1173,19-01-25,Suman,South,Furniture,Chair,8901,Low Sales,0,No Profit,1,Offline
+1174,15-01-25,Ravi,South,Office Supplies,Pen Set,17435,Medium Sales,1347,Profit,1,Online
+1175,26-01-25,Ajay Kumar,East,Technology,Tablet,1683,Low Sales,9802,Profit,3,Online
+1176,01-01-25,Ramesh,East,Office Supplies,Marker,9238,Low Sales,0,No Profit,1,Offline
+1177,10-01-25,Arun,South,Office Supplies,Marker,9587,Low Sales,0,No Profit,1,Online
+1178,11-01-25,Unknown Customer,North,Furniture,Sofa,24887,Medium Sales,-1642,Loss,7,Offline
+1179,20-01-25,Suman,South,Office Supplies,Notebook,56149,High Sales,0,No Profit,1,Online
+1180,18-01-25,Arun,West,Office Supplies,Marker,50455,High Sales,3643,Profit,1,Offline
+1181,08-01-25,Arun,North,Office Supplies,Marker,2422,Low Sales,5355,Profit,1,Offline
+1182,13-01-25,Neha,West,Furniture,Sofa,34822,High Sales,-4918,Loss,1,Offline
+1183,06-01-25,Ravi,West,Furniture,Chair,36780,High Sales,4730,Profit,4,Online
+1184,31-01-25,Ramesh,West,Office Supplies,Marker,27266,Medium Sales,0,No Profit,1,Online
+1185,04-01-25,Meena,West,Office Supplies,Pen Set,38470,High Sales,0,No Profit,7,Online
+1186,09-01-25,Kiran,North,Furniture,Sofa,25559,Medium Sales,0,No Profit,1,Offline
+1187,06-01-25,Neha,East,Furniture,Table,35110,High Sales,0,No Profit,1,Online
+1188,28-01-25,Kiran,East,Office Supplies,Notebook,49290,High Sales,0,No Profit,1,Online
+1189,20-01-25,Kiran,North,Furniture,Chair,5091,Low Sales,0,No Profit,2,Online
+1190,21-01-25,Ajay Kumar,West,Office Supplies,Notebook,34440,High Sales,8013,Profit,10,Offline
+1191,09-01-25,Ajay Kumar,North,Furniture,Chair,15084,Medium Sales,0,No Profit,1,Offline
+1192,06-01-25,Ravi,East,Office Supplies,Pen Set,890,Low Sales,0,No Profit,6,Offline
+1193,26-01-25,Ajay Kumar,South,Furniture,Sofa,13338,Medium Sales,-2264,Loss,1,Offline
+1194,20-01-25,Arun,North,Furniture,Chair,20641,Medium Sales,4742,Profit,1,Online
+1195,02-01-25,Sunil,West,Furniture,Chair,57781,High Sales,2157,Profit,1,Offline
+1196,06-01-25,Ramesh,North,Office Supplies,Pen Set,14244,Medium Sales,-351,Loss,6,Online
+1197,17-01-25,Arun,South,Furniture,Sofa,19977,Medium Sales,0,No Profit,1,Online
+1198,14-01-25,Ravi,South,Furniture,Chair,10550,Medium Sales,-4866,Loss,4,Offline
+1199,25-01-25,Unknown Customer,East,Technology,Mobile phone,40044,High Sales,4702,Profit,6,Online
+1200,25-01-25,Ravi,North,Technology,Mobile phone,7610,Low Sales,3349,Profit,10,Online
+1201,13-01-25,Kiran,South,Office Supplies,Notebook,7931,Low Sales,0,No Profit,6,Offline
+1202,20-01-25,Suman,West,Furniture,Sofa,24884,Medium Sales,0,No Profit,1,Online
+1203,08-01-25,Sunil,North,Furniture,Chair,10909,Medium Sales,7387,Profit,2,Online
+1204,15-01-25,Meena,East,Furniture,Table,52873,High Sales,0,No Profit,1,Offline
+1205,19-01-25,Kiran,West,Technology,Laptop,24671,Medium Sales,-751,Loss,1,Offline
+1206,22-01-25,Suman,West,Office Supplies,Pen Set,6981,Low Sales,8083,Profit,1,Online
+1207,20-01-25,Kiran,East,Office Supplies,Marker,21631,Medium Sales,0,No Profit,1,Online
+1208,02-01-25,Neha,South,Office Supplies,Pen Set,56142,High Sales,0,No Profit,1,Online
+1209,21-01-25,Ajay Kumar,South,Furniture,Sofa,40955,High Sales,0,No Profit,6,Online
+1210,01-01-25,Pooja,North,Furniture,Sofa,13060,Medium Sales,1170,Profit,1,Online
+1211,29-01-25,Meena,North,Office Supplies,Notebook,46957,High Sales,-2577,Loss,1,Online
+1212,03-01-25,Ravi,North,Technology,Headphones,12109,Medium Sales,0,No Profit,1,Offline
+1213,24-01-25,Sunil,West,Technology,Laptop,23999,Medium Sales,0,No Profit,1,Online
+1214,26-01-25,Sunil,South,Furniture,Table,9556,Low Sales,0,No Profit,1,Online
+1215,30-01-25,Sunil,North,Furniture,Chair,53326,High Sales,0,No Profit,7,Online
+1216,12-01-25,Ravi,North,Furniture,Sofa,47725,High Sales,0,No Profit,9,Online
+1217,19-01-25,Sunil,East,Furniture,Chair,54256,High Sales,0,No Profit,2,Online
+1218,03-01-25,Ajay Kumar,East,Technology,Tablet,47022,High Sales,0,No Profit,9,Online
+1219,09-01-25,Ravi,North,Office Supplies,Notebook,27156,Medium Sales,0,No Profit,1,Online
+1220,29-01-25,Ravi,South,Furniture,Sofa,5730,Low Sales,0,No Profit,1,Offline
+1221,01-01-25,Ravi,South,Furniture,Sofa,4797,Low Sales,0,No Profit,8,Online
+1222,14-01-25,Ramesh,South,Furniture,Sofa,55743,High Sales,0,No Profit,1,Online
+1223,25-01-25,Pooja,West,Furniture,Table,21210,Medium Sales,0,No Profit,1,Online
+1224,04-01-25,Kiran,East,Office Supplies,Pen Set,53880,High Sales,-4212,Loss,6,Offline
+1225,01-01-25,Arun,West,Office Supplies,Marker,58308,High Sales,0,No Profit,8,Online
+1226,30-01-25,Meena,North,Technology,Tablet,26402,Medium Sales,0,No Profit,10,Offline
+1227,30-01-25,Ravi,South,Technology,Tablet,32329,High Sales,-642,Loss,1,Offline
+1228,27-01-25,Ramesh,North,Furniture,Table,19724,Medium Sales,1269,Profit,1,Online
+1229,01-01-25,Ajay Kumar,South,Office Supplies,Notebook,45791,High Sales,0,No Profit,5,Online
+1230,11-01-25,Ravi,East,Office Supplies,Pen Set,49760,High Sales,1600,Profit,9,Online
+1231,30-01-25,Ravi,West,Technology,Tablet,12917,Medium Sales,0,No Profit,2,Online
+1232,22-01-25,Unknown Customer,South,Furniture,Table,25342,Medium Sales,0,No Profit,1,Online
+1233,21-01-25,Arun,South,Technology,Laptop,33647,High Sales,1897,Profit,8,Online
+1234,18-01-25,Kiran,West,Office Supplies,Marker,27271,Medium Sales,0,No Profit,10,Offline
+1235,14-01-25,Pooja,South,Furniture,Table,28167,Medium Sales,0,No Profit,1,Online
+1236,16-01-25,Kiran,South,Furniture,Table,51593,High Sales,0,No Profit,1,Offline
+1237,25-01-25,Meena,South,Furniture,Chair,50590,High Sales,0,No Profit,5,Offline
+1238,04-01-25,Meena,East,Office Supplies,Marker,16083,Medium Sales,0,No Profit,1,Online
+1239,20-01-25,Sunil,North,Furniture,Table,44794,High Sales,5255,Profit,1,Offline
+1240,03-01-25,Unknown Customer,East,Furniture,Chair,51981,High Sales,0,No Profit,1,Online
+1241,06-01-25,Arun,North,Technology,Tablet,35560,High Sales,6887,Profit,1,Online
+1242,23-01-25,Neha,North,Furniture,Sofa,20362,Medium Sales,0,No Profit,4,Offline
+1243,27-01-25,Kiran,East,Furniture,Chair,36731,High Sales,7033,Profit,1,Online
+1244,04-01-25,Suman,North,Technology,Mobile phone,12729,Medium Sales,-2168,Loss,1,Offline
+1245,29-01-25,Ravi,West,Furniture,Table,19909,Medium Sales,0,No Profit,1,Online
+1246,25-01-25,Sunil,North,Technology,Tablet,53873,High Sales,2526,Profit,6,Online
+1247,24-01-25,Neha,North,Technology,Tablet,7256,Low Sales,304,Profit,7,Offline
+1248,08-01-25,Suman,East,Technology,Headphones,49679,High Sales,5304,Profit,6,Online
+1249,22-01-25,Meena,South,Office Supplies,Notebook,4021,Low Sales,1624,Profit,10,Online
+1250,03-01-25,Arun,West,Technology,Headphones,45365,High Sales,2517,Profit,1,Online
+1251,26-01-25,Sunil,West,Technology,Tablet,57644,High Sales,0,No Profit,4,Online
+1252,02-01-25,Ajay Kumar,North,Technology,Tablet,3915,Low Sales,0,No Profit,2,Offline
+1253,29-01-25,Sunil,North,Office Supplies,Marker,54933,High Sales,-4614,Loss,1,Online
+1254,29-01-25,Ajay Kumar,North,Technology,Headphones,11274,Medium Sales,0,No Profit,2,Offline
+1255,12-01-25,Ramesh,North,Technology,Mobile phone,38301,High Sales,0,No Profit,1,Online
+1256,24-01-25,Suman,East,Office Supplies,Marker,55599,High Sales,-344,Loss,7,Online
+1257,27-01-25,Unknown Customer,East,Furniture,Sofa,11279,Medium Sales,6884,Profit,1,Online
+1258,25-01-25,Suman,North,Furniture,Table,57933,High Sales,0,No Profit,1,Online
+1259,29-01-25,Unknown Customer,West,Technology,Tablet,34995,High Sales,2168,Profit,6,Online
+1260,21-01-25,Meena,South,Furniture,Sofa,27639,Medium Sales,0,No Profit,9,Online
+1261,26-01-25,Unknown Customer,East,Office Supplies,Pen Set,12738,Medium Sales,5936,Profit,1,Offline
+1262,05-01-25,Ajay Kumar,South,Furniture,Sofa,8786,Low Sales,0,No Profit,1,Offline
+1263,17-01-25,Arun,North,Technology,Headphones,22852,Medium Sales,2829,Profit,4,Offline
+1264,29-01-25,Ramesh,South,Office Supplies,Notebook,34683,High Sales,-2163,Loss,9,Offline
+1265,07-01-25,Neha,East,Technology,Mobile phone,4762,Low Sales,3011,Profit,4,Online
+1266,17-01-25,Arun,East,Furniture,Chair,21300,Medium Sales,0,No Profit,1,Offline
+1267,18-01-25,Pooja,West,Office Supplies,Marker,28201,Medium Sales,0,No Profit,9,Online
+1268,14-01-25,Ajay Kumar,West,Technology,Mobile phone,10401,Medium Sales,-3160,Loss,1,Offline
+1269,19-01-25,Ajay Kumar,North,Technology,Tablet,26542,Medium Sales,-3264,Loss,1,Online
+1270,26-01-25,Neha,North,Furniture,Sofa,53816,High Sales,2845,Profit,1,Online
+1271,06-01-25,Pooja,North,Office Supplies,Marker,43274,High Sales,0,No Profit,10,Offline
+1272,01-01-25,Suman,West,Technology,Tablet,30118,High Sales,0,No Profit,10,Online
+1273,27-01-25,Suman,North,Furniture,Sofa,26682,Medium Sales,0,No Profit,1,Online
+1274,24-01-25,Pooja,West,Office Supplies,Pen Set,39862,High Sales,0,No Profit,1,Offline
+1275,16-01-25,Ajay Kumar,East,Furniture,Chair,45914,High Sales,0,No Profit,1,Online
+1276,03-01-25,Neha,West,Office Supplies,Marker,40282,High Sales,0,No Profit,8,Offline
+1277,13-01-25,Arun,West,Furniture,Chair,6449,Low Sales,0,No Profit,1,Online
+1278,21-01-25,Meena,North,Technology,Tablet,15412,Medium Sales,0,No Profit,7,Offline
+1279,11-01-25,Arun,South,Furniture,Table,39160,High Sales,-1129,Loss,9,Offline
+1280,28-01-25,Neha,North,Office Supplies,Pen Set,59012,High Sales,504,Profit,9,Offline
+1281,13-01-25,Suman,East,Technology,Laptop,7837,Low Sales,6428,Profit,1,Offline
+1282,13-01-25,Neha,East,Furniture,Table,15139,Medium Sales,-4084,Loss,8,Online
+1283,25-01-25,Ramesh,South,Office Supplies,Marker,4095,Low Sales,6509,Profit,1,Online
+1284,26-01-25,Arun,East,Office Supplies,Marker,21957,Medium Sales,1579,Profit,1,Offline
+1285,02-01-25,Kiran,West,Office Supplies,Notebook,31992,High Sales,3051,Profit,1,Online
+1286,29-01-25,Unknown Customer,West,Office Supplies,Pen Set,26161,Medium Sales,-1300,Loss,3,Online
+1287,05-01-25,Meena,West,Office Supplies,Notebook,7011,Low Sales,0,No Profit,4,Online
+1288,22-01-25,Ravi,East,Technology,Headphones,55789,High Sales,0,No Profit,4,Offline
+1289,07-01-25,Unknown Customer,South,Technology,Tablet,28574,Medium Sales,721,Profit,1,Offline
+1290,23-01-25,Ajay Kumar,South,Technology,Tablet,50925,High Sales,0,No Profit,1,Online
+1291,28-01-25,Arun,East,Technology,Laptop,45782,High Sales,8250,Profit,1,Online
+1292,23-01-25,Ajay Kumar,North,Technology,Tablet,9122,Low Sales,0,No Profit,6,Offline
+1293,10-01-25,Neha,South,Office Supplies,Notebook,26316,Medium Sales,7173,Profit,1,Offline
+1294,07-01-25,Neha,West,Furniture,Table,10958,Medium Sales,0,No Profit,1,Offline
+1295,22-01-25,Ajay Kumar,East,Furniture,Sofa,2372,Low Sales,0,No Profit,1,Online
+1296,16-01-25,Meena,East,Office Supplies,Pen Set,34451,High Sales,299,Profit,1,Offline
+1297,07-01-25,Sunil,North,Furniture,Sofa,34017,High Sales,-4889,Loss,1,Online
+1298,12-01-25,Ravi,East,Office Supplies,Notebook,52018,High Sales,-4897,Loss,1,Offline
+1299,27-01-25,Pooja,East,Technology,Headphones,45857,High Sales,0,No Profit,1,Online
+1300,11-01-25,Meena,South,Technology,Mobile phone,31939,High Sales,-2252,Loss,1,Offline
+1301,14-01-25,Ravi,North,Furniture,Chair,9024,Low Sales,0,No Profit,4,Online
+1302,14-01-25,Unknown Customer,South,Technology,Laptop,17172,Medium Sales,8198,Profit,1,Online
+1303,24-01-25,Suman,West,Furniture,Table,41443,High Sales,9311,Profit,6,Offline
+1304,16-01-25,Pooja,South,Office Supplies,Marker,5105,Low Sales,0,No Profit,6,Offline
+1305,01-01-25,Ajay Kumar,West,Technology,Laptop,591,Low Sales,-1340,Loss,1,Offline
+1306,04-01-25,Ramesh,East,Technology,Tablet,1463,Low Sales,0,No Profit,1,Offline
+1307,13-01-25,Neha,West,Furniture,Table,18633,Medium Sales,0,No Profit,1,Offline
+1308,27-01-25,Unknown Customer,West,Office Supplies,Notebook,44677,High Sales,0,No Profit,9,Online
+1309,12-01-25,Sunil,West,Technology,Laptop,32120,High Sales,712,Profit,1,Offline
+1310,10-01-25,Ravi,North,Technology,Laptop,14602,Medium Sales,9181,Profit,3,Offline
+1311,22-01-25,Unknown Customer,North,Technology,Headphones,9442,Low Sales,575,Profit,1,Offline
+1312,03-01-25,Pooja,South,Furniture,Table,9804,Low Sales,0,No Profit,5,Offline
+1313,11-01-25,Suman,West,Technology,Headphones,27007,Medium Sales,-3291,Loss,10,Offline
+1314,03-01-25,Arun,North,Technology,Laptop,33960,High Sales,-663,Loss,10,Online
+1315,29-01-25,Arun,North,Furniture,Table,54774,High Sales,4903,Profit,1,Offline
+1316,03-01-25,Neha,East,Technology,Headphones,10022,Medium Sales,-1309,Loss,2,Offline
+1317,11-01-25,Arun,East,Office Supplies,Notebook,47742,High Sales,0,No Profit,3,Offline
+1318,16-01-25,Kiran,North,Office Supplies,Notebook,42340,High Sales,-2068,Loss,3,Offline
+1319,11-01-25,Suman,North,Technology,Mobile phone,50792,High Sales,758,Profit,1,Online
+1320,10-01-25,Sunil,East,Furniture,Chair,59151,High Sales,3924,Profit,8,Offline
+1321,14-01-25,Sunil,South,Office Supplies,Notebook,50572,High Sales,0,No Profit,1,Online
+1322,01-01-25,Unknown Customer,East,Furniture,Sofa,19248,Medium Sales,0,No Profit,1,Online
+1323,26-01-25,Ramesh,North,Technology,Tablet,3509,Low Sales,-3580,Loss,6,Online
+1324,12-01-25,Ajay Kumar,North,Furniture,Table,17412,Medium Sales,0,No Profit,5,Online
+1325,21-01-25,Unknown Customer,North,Technology,Mobile phone,52042,High Sales,0,No Profit,1,Offline
+1326,01-01-25,Suman,East,Office Supplies,Marker,26740,Medium Sales,275,Profit,6,Online
+1327,09-01-25,Ajay Kumar,West,Technology,Laptop,17380,Medium Sales,8592,Profit,8,Online
+1328,01-01-25,Ravi,West,Office Supplies,Notebook,52372,High Sales,-1817,Loss,1,Offline
+1329,09-01-25,Neha,East,Technology,Mobile phone,27293,Medium Sales,8845,Profit,1,Online
+1330,15-01-25,Ajay Kumar,East,Technology,Laptop,49139,High Sales,0,No Profit,4,Offline
+1331,29-01-25,Kiran,West,Technology,Tablet,39201,High Sales,0,No Profit,1,Online
+1332,08-01-25,Ajay Kumar,South,Furniture,Chair,57493,High Sales,-4282,Loss,9,Offline
+1333,02-01-25,Sunil,West,Technology,Mobile phone,34583,High Sales,0,No Profit,1,Offline
+1334,22-01-25,Suman,South,Office Supplies,Pen Set,35330,High Sales,-1713,Loss,1,Online
+1335,31-01-25,Neha,North,Technology,Headphones,8728,Low Sales,7796,Profit,1,Offline
+1336,17-01-25,Sunil,North,Furniture,Table,53014,High Sales,0,No Profit,2,Online
+1337,22-01-25,Pooja,West,Technology,Headphones,44441,High Sales,0,No Profit,1,Online
+1338,02-01-25,Kiran,West,Furniture,Table,23174,Medium Sales,53,Profit,1,Offline
+1339,17-01-25,Arun,East,Furniture,Chair,49876,High Sales,0,No Profit,1,Offline
+1340,24-01-25,Pooja,North,Office Supplies,Marker,3073,Low Sales,0,No Profit,1,Offline
+1341,28-01-25,Ajay Kumar,East,Furniture,Table,52783,High Sales,0,No Profit,8,Online
+1342,04-01-25,Ravi,South,Furniture,Sofa,20781,Medium Sales,6728,Profit,1,Offline
+1343,15-01-25,Unknown Customer,South,Technology,Mobile phone,12200,Medium Sales,3112,Profit,2,Offline
+1344,28-01-25,Ajay Kumar,South,Office Supplies,Pen Set,17000,Medium Sales,4877,Profit,1,Offline
+1345,12-01-25,Neha,South,Furniture,Table,21790,Medium Sales,0,No Profit,5,Online
+1346,29-01-25,Sunil,West,Technology,Laptop,28019,Medium Sales,0,No Profit,1,Online
+1347,31-01-25,Ravi,East,Furniture,Table,36595,High Sales,-3954,Loss,1,Offline
+1348,31-01-25,Meena,North,Technology,Tablet,59247,High Sales,1184,Profit,1,Offline
+1349,17-01-25,Kiran,South,Furniture,Table,51818,High Sales,0,No Profit,1,Offline
+1350,15-01-25,Neha,North,Furniture,Chair,11470,Medium Sales,0,No Profit,6,Online
+1351,25-01-25,Ravi,South,Office Supplies,Notebook,49402,High Sales,-2368,Loss,1,Online
+1352,22-01-25,Sunil,West,Furniture,Chair,41920,High Sales,5006,Profit,7,Offline
+1353,29-01-25,Unknown Customer,South,Technology,Tablet,35655,High Sales,0,No Profit,1,Offline
+1354,26-01-25,Unknown Customer,South,Office Supplies,Marker,59202,High Sales,3154,Profit,1,Offline
+1355,02-01-25,Arun,North,Office Supplies,Pen Set,32265,High Sales,0,No Profit,1,Offline
+1356,14-01-25,Sunil,South,Office Supplies,Notebook,52439,High Sales,0,No Profit,1,Offline
+1357,05-01-25,Ramesh,West,Technology,Tablet,57420,High Sales,-1713,Loss,10,Offline
+1358,27-01-25,Meena,West,Furniture,Chair,47276,High Sales,0,No Profit,10,Online
+1359,30-01-25,Ravi,South,Office Supplies,Pen Set,34577,High Sales,0,No Profit,1,Offline
+1360,11-01-25,Meena,South,Office Supplies,Notebook,21904,Medium Sales,0,No Profit,7,Online
+1361,13-01-25,Meena,West,Office Supplies,Notebook,32117,High Sales,0,No Profit,4,Offline
+1362,02-01-25,Kiran,West,Furniture,Chair,40437,High Sales,0,No Profit,9,Online
+1363,18-01-25,Ajay Kumar,West,Technology,Mobile phone,43327,High Sales,2343,Profit,1,Online
+1364,30-01-25,Pooja,South,Technology,Mobile phone,16046,Medium Sales,7183,Profit,1,Online
+1365,29-01-25,Sunil,East,Furniture,Chair,41308,High Sales,-4483,Loss,4,Offline
+1366,08-01-25,Sunil,North,Furniture,Table,16613,Medium Sales,0,No Profit,1,Online
+1367,20-01-25,Meena,East,Technology,Mobile phone,49816,High Sales,-2967,Loss,1,Online
+1368,10-01-25,Sunil,South,Office Supplies,Notebook,24857,Medium Sales,-3528,Loss,1,Offline
+1369,14-01-25,Ramesh,West,Technology,Mobile phone,8715,Low Sales,103,Profit,4,Online
+1370,03-01-25,Neha,South,Furniture,Table,22972,Medium Sales,3775,Profit,1,Offline
+1371,16-01-25,Unknown Customer,North,Office Supplies,Notebook,56220,High Sales,9807,Profit,9,Online
+1372,07-01-25,Ajay Kumar,East,Office Supplies,Pen Set,11240,Medium Sales,0,No Profit,7,Online
+1373,07-01-25,Kiran,North,Furniture,Table,14349,Medium Sales,0,No Profit,10,Online
+1374,26-01-25,Neha,West,Technology,Headphones,28497,Medium Sales,0,No Profit,1,Offline
+1375,11-01-25,Unknown Customer,East,Technology,Laptop,28197,Medium Sales,0,No Profit,6,Offline
+1376,30-01-25,Ajay Kumar,East,Furniture,Table,27731,Medium Sales,2144,Profit,1,Online
+1377,27-01-25,Kiran,North,Office Supplies,Notebook,6335,Low Sales,0,No Profit,1,Online
+1378,18-01-25,Neha,East,Technology,Laptop,25039,Medium Sales,0,No Profit,1,Online
+1379,02-01-25,Sunil,South,Office Supplies,Pen Set,5933,Low Sales,-1620,Loss,1,Online
+1380,27-01-25,Pooja,East,Technology,Mobile phone,6688,Low Sales,0,No Profit,1,Offline
+1381,07-01-25,Suman,South,Furniture,Table,24333,Medium Sales,-3271,Loss,1,Offline
+1382,10-01-25,Meena,South,Technology,Tablet,53437,High Sales,0,No Profit,5,Online
+1383,26-01-25,Suman,North,Technology,Headphones,9769,Low Sales,1670,Profit,8,Online
+1384,17-01-25,Sunil,North,Technology,Tablet,10265,Medium Sales,4085,Profit,4,Offline
+1385,01-01-25,Sunil,East,Office Supplies,Marker,48575,High Sales,-851,Loss,9,Offline
+1386,27-01-25,Kiran,East,Office Supplies,Pen Set,59859,High Sales,7702,Profit,4,Online
+1387,01-01-25,Pooja,North,Office Supplies,Notebook,59938,High Sales,0,No Profit,5,Online
+1388,09-01-25,Pooja,East,Technology,Mobile phone,17376,Medium Sales,7322,Profit,3,Online
+1389,01-01-25,Neha,North,Furniture,Chair,17774,Medium Sales,2419,Profit,1,Offline
+1390,24-01-25,Suman,North,Technology,Tablet,26202,Medium Sales,3714,Profit,6,Offline
+1391,03-01-25,Unknown Customer,West,Furniture,Sofa,25903,Medium Sales,0,No Profit,1,Offline
+1392,30-01-25,Meena,South,Technology,Tablet,25223,Medium Sales,3431,Profit,5,Online
+1393,03-01-25,Kiran,North,Furniture,Sofa,13784,Medium Sales,0,No Profit,3,Online
+1394,09-01-25,Unknown Customer,East,Furniture,Chair,30700,High Sales,194,Profit,1,Online
+1395,06-01-25,Ajay Kumar,South,Office Supplies,Notebook,6871,Low Sales,2358,Profit,1,Online
+1396,15-01-25,Pooja,East,Technology,Tablet,29479,Medium Sales,1768,Profit,4,Offline
+1397,06-01-25,Neha,East,Furniture,Sofa,36341,High Sales,9407,Profit,1,Online
+1398,28-01-25,Arun,South,Furniture,Table,3938,Low Sales,0,No Profit,1,Online
+1399,19-01-25,Ramesh,East,Furniture,Table,54525,High Sales,3916,Profit,9,Offline
+1400,13-01-25,Neha,South,Furniture,Chair,6749,Low Sales,0,No Profit,10,Online
+1401,14-01-25,Ajay Kumar,West,Technology,Laptop,23814,Medium Sales,3699,Profit,10,Online
+1402,31-01-25,Ajay Kumar,West,Technology,Tablet,12084,Medium Sales,0,No Profit,1,Online
+1403,11-01-25,Unknown Customer,North,Furniture,Table,57657,High Sales,0,No Profit,3,Online
+1404,11-01-25,Suman,South,Office Supplies,Marker,16340,Medium Sales,0,No Profit,1,Online
+1405,07-01-25,Ravi,East,Furniture,Table,32799,High Sales,0,No Profit,5,Offline
+1406,05-01-25,Unknown Customer,East,Technology,Tablet,23710,Medium Sales,320,Profit,1,Online
+1407,24-01-25,Meena,South,Technology,Tablet,58303,High Sales,5253,Profit,2,Online
+1408,16-01-25,Sunil,South,Office Supplies,Notebook,1942,Low Sales,0,No Profit,2,Online
+1409,15-01-25,Kiran,West,Technology,Laptop,12677,Medium Sales,0,No Profit,1,Offline
+1410,31-01-25,Ajay Kumar,East,Office Supplies,Notebook,28361,Medium Sales,6575,Profit,4,Offline
+1411,27-01-25,Ravi,South,Office Supplies,Marker,43088,High Sales,8216,Profit,7,Offline
+1412,01-01-25,Pooja,South,Technology,Laptop,28753,Medium Sales,0,No Profit,1,Online
+1413,30-01-25,Neha,South,Furniture,Table,5977,Low Sales,3792,Profit,1,Online
+1414,19-01-25,Ramesh,South,Technology,Laptop,1798,Low Sales,0,No Profit,1,Offline
+1415,18-01-25,Sunil,East,Technology,Headphones,37682,High Sales,-3511,Loss,1,Offline
+1416,14-01-25,Neha,South,Furniture,Chair,3169,Low Sales,0,No Profit,7,Offline
+1417,20-01-25,Pooja,West,Furniture,Table,27946,Medium Sales,0,No Profit,1,Online
+1418,17-01-25,Meena,South,Technology,Laptop,2483,Low Sales,0,No Profit,1,Online
+1419,28-01-25,Meena,North,Office Supplies,Notebook,11715,Medium Sales,5948,Profit,1,Online
+1420,20-01-25,Unknown Customer,South,Office Supplies,Pen Set,23340,Medium Sales,0,No Profit,9,Online
+1421,19-01-25,Unknown Customer,East,Office Supplies,Notebook,25092,Medium Sales,0,No Profit,1,Offline
+1422,10-01-25,Ajay Kumar,North,Office Supplies,Marker,24761,Medium Sales,0,No Profit,1,Offline
+1423,27-01-25,Pooja,North,Office Supplies,Notebook,28925,Medium Sales,0,No Profit,3,Online
+1424,04-01-25,Arun,West,Office Supplies,Notebook,25755,Medium Sales,-3494,Loss,1,Offline
+1425,28-01-25,Unknown Customer,South,Office Supplies,Notebook,21249,Medium Sales,-4170,Loss,1,Offline
+1426,08-01-25,Sunil,West,Furniture,Sofa,18252,Medium Sales,0,No Profit,1,Online
+1427,07-01-25,Suman,South,Furniture,Chair,9489,Low Sales,0,No Profit,4,Offline
+1428,01-01-25,Sunil,North,Furniture,Chair,1086,Low Sales,6371,Profit,3,Online
+1429,18-01-25,Unknown Customer,North,Technology,Mobile phone,10136,Medium Sales,0,No Profit,1,Offline
+1430,12-01-25,Ajay Kumar,East,Office Supplies,Marker,18349,Medium Sales,0,No Profit,2,Online
+1431,11-01-25,Sunil,East,Furniture,Sofa,10106,Medium Sales,4747,Profit,1,Offline
+1432,25-01-25,Arun,North,Office Supplies,Notebook,1925,Low Sales,0,No Profit,1,Offline
+1433,25-01-25,Ajay Kumar,North,Furniture,Chair,54240,High Sales,-1618,Loss,9,Offline
+1434,09-01-25,Arun,North,Furniture,Table,48094,High Sales,0,No Profit,1,Online
+1435,20-01-25,Arun,North,Office Supplies,Pen Set,50752,High Sales,5845,Profit,4,Offline
+1436,02-01-25,Suman,North,Technology,Headphones,22982,Medium Sales,-703,Loss,10,Offline
+1437,31-01-25,Sunil,East,Technology,Headphones,29492,Medium Sales,6344,Profit,1,Offline
+1438,08-01-25,Ramesh,South,Office Supplies,Marker,10622,Medium Sales,-2707,Loss,2,Offline
+1439,25-01-25,Ramesh,North,Furniture,Sofa,20448,Medium Sales,0,No Profit,5,Online
+1440,30-01-25,Ajay Kumar,South,Furniture,Table,49006,High Sales,0,No Profit,10,Offline
+1441,04-01-25,Unknown Customer,East,Office Supplies,Marker,8985,Low Sales,0,No Profit,5,Online
+1442,23-01-25,Suman,North,Technology,Headphones,13244,Medium Sales,0,No Profit,5,Offline
+1443,09-01-25,Arun,West,Furniture,Chair,29896,Medium Sales,2115,Profit,9,Online
+1444,16-01-25,Ramesh,South,Technology,Headphones,7514,Low Sales,0,No Profit,1,Offline
+1445,16-01-25,Sunil,West,Office Supplies,Pen Set,5939,Low Sales,1560,Profit,1,Offline
+1446,22-01-25,Neha,West,Furniture,Sofa,26297,Medium Sales,1819,Profit,1,Online
+1447,08-01-25,Ajay Kumar,North,Furniture,Table,3847,Low Sales,1470,Profit,1,Offline
+1448,11-01-25,Neha,South,Office Supplies,Notebook,49342,High Sales,4622,Profit,9,Offline
+1449,03-01-25,Suman,South,Technology,Tablet,5618,Low Sales,2999,Profit,1,Online
+1450,04-01-25,Arun,South,Office Supplies,Marker,44674,High Sales,0,No Profit,9,Offline
+1451,17-01-25,Pooja,South,Furniture,Chair,43950,High Sales,1545,Profit,5,Online
+1452,25-01-25,Kiran,North,Technology,Mobile phone,48905,High Sales,4853,Profit,1,Online
+1453,20-01-25,Neha,North,Technology,Tablet,4226,Low Sales,0,No Profit,1,Online
+1454,25-01-25,Pooja,West,Technology,Laptop,9544,Low Sales,0,No Profit,4,Offline
+1455,09-01-25,Sunil,North,Furniture,Table,48294,High Sales,0,No Profit,2,Online
+1456,05-01-25,Meena,South,Furniture,Chair,7421,Low Sales,9967,Profit,1,Offline
+1457,31-01-25,Meena,East,Technology,Mobile phone,53368,High Sales,6244,Profit,9,Online
+1458,14-01-25,Kiran,West,Office Supplies,Notebook,26631,Medium Sales,7024,Profit,1,Online
+1459,10-01-25,Ajay Kumar,West,Office Supplies,Pen Set,47740,High Sales,0,No Profit,2,Online
+1460,12-01-25,Sunil,East,Technology,Tablet,46259,High Sales,0,No Profit,1,Offline
+1461,14-01-25,Ajay Kumar,West,Technology,Mobile phone,18701,Medium Sales,3802,Profit,6,Online
+1462,13-01-25,Unknown Customer,East,Furniture,Chair,12332,Medium Sales,-1225,Loss,1,Online
+1463,31-01-25,Sunil,South,Furniture,Table,55126,High Sales,9557,Profit,5,Offline
+1464,16-01-25,Pooja,North,Office Supplies,Pen Set,44434,High Sales,5233,Profit,1,Offline
+1465,11-01-25,Arun,East,Office Supplies,Pen Set,28196,Medium Sales,5793,Profit,1,Offline
+1466,14-01-25,Neha,North,Technology,Headphones,59812,High Sales,0,No Profit,1,Online
+1467,09-01-25,Unknown Customer,East,Technology,Laptop,32329,High Sales,8848,Profit,1,Offline
+1468,24-01-25,Ramesh,South,Furniture,Table,17546,Medium Sales,0,No Profit,7,Offline
+1469,13-01-25,Suman,West,Furniture,Chair,11219,Medium Sales,1432,Profit,1,Online
+1470,02-01-25,Meena,North,Furniture,Table,19644,Medium Sales,2326,Profit,1,Online
+1471,31-01-25,Kiran,North,Office Supplies,Notebook,27460,Medium Sales,0,No Profit,1,Offline
+1472,29-01-25,Ramesh,East,Technology,Tablet,23349,Medium Sales,659,Profit,1,Online
+1473,03-01-25,Ravi,West,Technology,Headphones,30249,High Sales,1116,Profit,1,Online
+1474,22-01-25,Suman,North,Furniture,Chair,12535,Medium Sales,0,No Profit,1,Online
+1475,03-01-25,Meena,West,Furniture,Chair,22351,Medium Sales,1716,Profit,5,Offline
+1476,05-01-25,Pooja,East,Office Supplies,Pen Set,615,Low Sales,0,No Profit,3,Offline
+1477,30-01-25,Ravi,West,Office Supplies,Marker,37865,High Sales,-2194,Loss,1,Online
+1478,01-01-25,Ajay Kumar,West,Technology,Headphones,12868,Medium Sales,0,No Profit,10,Online
+1479,10-01-25,Neha,North,Furniture,Sofa,19793,Medium Sales,0,No Profit,3,Offline
+1480,05-01-25,Unknown Customer,South,Office Supplies,Notebook,26126,Medium Sales,7725,Profit,3,Online
+1481,25-01-25,Arun,West,Furniture,Chair,22224,Medium Sales,-4694,Loss,1,Online
+1482,06-01-25,Pooja,South,Office Supplies,Marker,9897,Low Sales,0,No Profit,2,Offline
+1483,09-01-25,Suman,East,Furniture,Chair,42736,High Sales,1432,Profit,1,Online
+1484,24-01-25,Meena,East,Furniture,Chair,17048,Medium Sales,7407,Profit,7,Offline
+1485,21-01-25,Kiran,East,Technology,Tablet,23378,Medium Sales,9348,Profit,1,Offline
+1486,01-01-25,Meena,East,Technology,Tablet,42069,High Sales,0,No Profit,2,Offline
+1487,23-01-25,Ajay Kumar,West,Office Supplies,Marker,55720,High Sales,0,No Profit,5,Online
+1488,05-01-25,Arun,West,Office Supplies,Pen Set,30127,High Sales,4384,Profit,9,Offline
+1489,20-01-25,Meena,East,Furniture,Sofa,38711,High Sales,-293,Loss,1,Online
+1490,10-01-25,Suman,East,Office Supplies,Marker,30029,High Sales,2248,Profit,1,Offline
+1491,12-01-25,Kiran,West,Technology,Laptop,2017,Low Sales,9942,Profit,4,Online
+1492,07-01-25,Arun,West,Technology,Headphones,13501,Medium Sales,238,Profit,1,Offline
+1493,15-01-25,Sunil,South,Furniture,Table,51426,High Sales,0,No Profit,1,Online
+1494,25-01-25,Ramesh,South,Furniture,Sofa,15958,Medium Sales,-4724,Loss,1,Offline
+1495,20-01-25,Suman,South,Technology,Tablet,48782,High Sales,0,No Profit,9,Online
+1496,19-01-25,Ramesh,South,Furniture,Sofa,25703,Medium Sales,0,No Profit,1,Online
+1497,09-01-25,Pooja,North,Furniture,Chair,48841,High Sales,464,Profit,1,Online
+1498,25-01-25,Suman,East,Technology,Headphones,1038,Low Sales,8061,Profit,1,Online
+1499,31-01-25,Unknown Customer,West,Technology,Mobile phone,7986,Low Sales,5498,Profit,1,Offline
+1500,10-01-25,Neha,North,Office Supplies,Pen Set,15576,Medium Sales,5748,Profit,1,Offline
+1501,14-01-25,Meena,East,Furniture,Table,48753,High Sales,-424,Loss,1,Online
+1502,20-01-25,Unknown Customer,North,Office Supplies,Pen Set,7236,Low Sales,0,No Profit,2,Online
+1503,25-01-25,Suman,South,Furniture,Sofa,8713,Low Sales,0,No Profit,1,Offline
+1504,09-01-25,Suman,North,Office Supplies,Notebook,50087,High Sales,0,No Profit,10,Offline
+1505,02-01-25,Pooja,West,Furniture,Table,27646,Medium Sales,0,No Profit,7,Offline
+1506,24-01-25,Pooja,East,Technology,Mobile phone,56581,High Sales,1931,Profit,1,Offline
+1507,31-01-25,Ramesh,North,Technology,Laptop,33877,High Sales,0,No Profit,1,Online
+1508,20-01-25,Unknown Customer,West,Office Supplies,Marker,1814,Low Sales,0,No Profit,1,Offline
+1509,23-01-25,Ajay Kumar,North,Furniture,Table,55681,High Sales,6809,Profit,2,Offline
+1510,30-01-25,Suman,South,Office Supplies,Pen Set,42980,High Sales,6781,Profit,9,Offline
+1511,24-01-25,Neha,West,Office Supplies,Marker,52113,High Sales,0,No Profit,1,Online
+1512,13-01-25,Meena,South,Furniture,Chair,19204,Medium Sales,0,No Profit,1,Online
+1513,24-01-25,Ramesh,West,Technology,Mobile phone,36488,High Sales,8039,Profit,1,Offline
+1514,10-01-25,Unknown Customer,West,Technology,Tablet,56019,High Sales,6308,Profit,9,Offline
+1515,19-01-25,Suman,South,Furniture,Table,53299,High Sales,0,No Profit,1,Online
+1516,25-01-25,Ramesh,West,Technology,Laptop,40468,High Sales,-3673,Loss,1,Online
+1517,10-01-25,Arun,South,Furniture,Chair,35659,High Sales,0,No Profit,1,Offline
+1518,17-01-25,Ajay Kumar,South,Office Supplies,Pen Set,55731,High Sales,0,No Profit,6,Online
+1519,27-01-25,Neha,West,Technology,Headphones,3039,Low Sales,9724,Profit,1,Online
+1520,17-01-25,Neha,East,Technology,Headphones,21701,Medium Sales,9812,Profit,3,Online
+1521,31-01-25,Neha,North,Office Supplies,Pen Set,39960,High Sales,2887,Profit,7,Offline
+1522,11-01-25,Kiran,East,Office Supplies,Notebook,4272,Low Sales,1016,Profit,1,Offline
+1523,23-01-25,Meena,South,Office Supplies,Marker,23263,Medium Sales,4690,Profit,1,Offline
+1524,21-01-25,Ramesh,North,Furniture,Chair,15976,Medium Sales,-509,Loss,1,Online
+1525,03-01-25,Sunil,West,Office Supplies,Marker,30862,High Sales,0,No Profit,10,Offline
+1526,29-01-25,Suman,West,Office Supplies,Notebook,36361,High Sales,2392,Profit,7,Offline
+1527,10-01-25,Kiran,North,Technology,Headphones,37759,High Sales,0,No Profit,4,Offline
+1528,16-01-25,Ajay Kumar,South,Technology,Tablet,37495,High Sales,7854,Profit,1,Offline
+1529,23-01-25,Ajay Kumar,South,Technology,Laptop,38334,High Sales,0,No Profit,1,Online
+1530,30-01-25,Neha,North,Office Supplies,Marker,56430,High Sales,0,No Profit,6,Online
+1531,14-01-25,Meena,South,Furniture,Chair,33354,High Sales,2062,Profit,10,Online
+1532,25-01-25,Suman,North,Furniture,Sofa,3008,Low Sales,9931,Profit,6,Offline
+1533,09-01-25,Arun,East,Furniture,Table,58589,High Sales,-519,Loss,2,Offline
+1534,05-01-25,Suman,North,Technology,Headphones,29816,Medium Sales,0,No Profit,7,Online
+1535,12-01-25,Meena,South,Furniture,Chair,35052,High Sales,0,No Profit,7,Offline
+1536,15-01-25,Ravi,West,Office Supplies,Notebook,10335,Medium Sales,-127,Loss,6,Online
+1537,18-01-25,Kiran,South,Technology,Headphones,18223,Medium Sales,0,No Profit,10,Offline
+1538,05-01-25,Ramesh,West,Technology,Laptop,8821,Low Sales,399,Profit,1,Offline
+1539,29-01-25,Meena,West,Technology,Laptop,48997,High Sales,0,No Profit,6,Offline
+1540,25-01-25,Suman,South,Furniture,Chair,29442,Medium Sales,-734,Loss,1,Offline
+1541,01-01-25,Ajay Kumar,West,Office Supplies,Marker,44091,High Sales,0,No Profit,1,Online
+1542,20-01-25,Unknown Customer,North,Technology,Headphones,3867,Low Sales,0,No Profit,1,Offline
+1543,12-01-25,Suman,West,Office Supplies,Pen Set,9028,Low Sales,0,No Profit,2,Online
+1544,02-01-25,Arun,East,Furniture,Chair,19589,Medium Sales,0,No Profit,4,Offline
+1545,17-01-25,Pooja,North,Office Supplies,Marker,10472,Medium Sales,8810,Profit,1,Online
+1546,08-01-25,Ajay Kumar,South,Technology,Tablet,53013,High Sales,2353,Profit,1,Offline
+1547,24-01-25,Unknown Customer,North,Technology,Headphones,39816,High Sales,-1625,Loss,1,Online
+1548,06-01-25,Kiran,North,Furniture,Table,838,Low Sales,2393,Profit,1,Offline
+1549,04-01-25,Sunil,West,Office Supplies,Notebook,40258,High Sales,-4623,Loss,1,Online
+1550,13-01-25,Meena,West,Technology,Laptop,50656,High Sales,5945,Profit,5,Online
+1551,05-01-25,Arun,West,Furniture,Table,19058,Medium Sales,0,No Profit,1,Offline
+1552,16-01-25,Meena,South,Technology,Mobile phone,42582,High Sales,-3200,Loss,1,Online
+1553,09-01-25,Pooja,East,Furniture,Table,19302,Medium Sales,0,No Profit,1,Offline
+1554,12-01-25,Kiran,North,Office Supplies,Marker,16230,Medium Sales,0,No Profit,2,Online
+1555,02-01-25,Unknown Customer,North,Furniture,Chair,56454,High Sales,6747,Profit,1,Offline
+1556,16-01-25,Meena,South,Technology,Laptop,11059,Medium Sales,813,Profit,1,Offline
+1557,13-01-25,Kiran,East,Technology,Headphones,14840,Medium Sales,8182,Profit,1,Online
+1558,26-01-25,Arun,West,Technology,Laptop,18431,Medium Sales,0,No Profit,1,Offline
+1559,22-01-25,Ajay Kumar,South,Technology,Headphones,11393,Medium Sales,2115,Profit,6,Offline
+1560,20-01-25,Meena,West,Furniture,Table,29278,Medium Sales,1955,Profit,1,Offline
+1561,24-01-25,Suman,North,Technology,Mobile phone,34368,High Sales,-3274,Loss,6,Offline
+1562,14-01-25,Meena,South,Technology,Tablet,14638,Medium Sales,-2794,Loss,9,Offline
+1563,17-01-25,Sunil,West,Office Supplies,Marker,41709,High Sales,0,No Profit,1,Offline
+1564,19-01-25,Kiran,East,Office Supplies,Notebook,30658,High Sales,8748,Profit,1,Offline
+1565,04-01-25,Arun,West,Furniture,Table,32277,High Sales,0,No Profit,1,Online
+1566,27-01-25,Neha,East,Furniture,Table,50921,High Sales,0,No Profit,7,Online
+1567,12-01-25,Arun,East,Technology,Laptop,59751,High Sales,-3815,Loss,6,Online
+1568,21-01-25,Suman,East,Furniture,Table,19273,Medium Sales,0,No Profit,1,Offline
+1569,21-01-25,Ravi,West,Office Supplies,Pen Set,33184,High Sales,-3863,Loss,1,Offline
+1570,18-01-25,Pooja,East,Technology,Mobile phone,29624,Medium Sales,6030,Profit,10,Online
+1571,01-01-25,Meena,North,Office Supplies,Marker,15469,Medium Sales,0,No Profit,9,Online
+1572,04-01-25,Suman,South,Office Supplies,Marker,31736,High Sales,0,No Profit,1,Offline
+1573,19-01-25,Suman,West,Furniture,Sofa,29024,Medium Sales,857,Profit,1,Online
+1574,30-01-25,Neha,West,Technology,Tablet,3975,Low Sales,-108,Loss,2,Offline
+1575,08-01-25,Neha,East,Technology,Laptop,27999,Medium Sales,6531,Profit,1,Online
+1576,15-01-25,Arun,North,Technology,Tablet,5594,Low Sales,0,No Profit,1,Offline
+1577,13-01-25,Neha,North,Technology,Mobile phone,20398,Medium Sales,0,No Profit,5,Online
+1578,11-01-25,Suman,North,Furniture,Chair,59235,High Sales,4976,Profit,1,Online
+1579,14-01-25,Ramesh,North,Furniture,Sofa,59427,High Sales,-1725,Loss,1,Offline
+1580,24-01-25,Pooja,East,Office Supplies,Marker,30935,High Sales,4027,Profit,2,Offline
+1581,21-01-25,Kiran,West,Furniture,Sofa,14826,Medium Sales,1382,Profit,2,Online
+1582,29-01-25,Sunil,South,Technology,Laptop,48666,High Sales,9078,Profit,3,Offline
+1583,02-01-25,Unknown Customer,West,Office Supplies,Marker,5476,Low Sales,22,Profit,1,Offline
+1584,28-01-25,Neha,South,Furniture,Chair,18597,Medium Sales,8122,Profit,10,Online
+1585,17-01-25,Kiran,South,Furniture,Table,40679,High Sales,0,No Profit,1,Online
+1586,24-01-25,Meena,East,Office Supplies,Marker,20195,Medium Sales,4222,Profit,6,Offline
+1587,13-01-25,Kiran,North,Technology,Mobile phone,51333,High Sales,0,No Profit,8,Online
+1588,19-01-25,Kiran,East,Technology,Headphones,57953,High Sales,0,No Profit,1,Online
+1589,19-01-25,Unknown Customer,West,Technology,Mobile phone,6118,Low Sales,0,No Profit,8,Offline
+1590,30-01-25,Meena,East,Office Supplies,Pen Set,37600,High Sales,-1366,Loss,6,Offline
+1591,25-01-25,Pooja,East,Office Supplies,Pen Set,32693,High Sales,0,No Profit,8,Online
+1592,22-01-25,Arun,North,Furniture,Chair,32027,High Sales,-4821,Loss,4,Online
+1593,10-01-25,Unknown Customer,West,Furniture,Sofa,9880,Low Sales,2731,Profit,1,Offline
+1594,26-01-25,Arun,East,Furniture,Table,17624,Medium Sales,0,No Profit,1,Online
+1595,07-01-25,Ravi,South,Furniture,Sofa,8202,Low Sales,0,No Profit,1,Offline
+1596,10-01-25,Kiran,West,Office Supplies,Notebook,46144,High Sales,0,No Profit,10,Online
+1597,03-01-25,Ajay Kumar,North,Office Supplies,Marker,40508,High Sales,-670,Loss,6,Offline
+1598,02-01-25,Ajay Kumar,East,Office Supplies,Pen Set,58552,High Sales,6797,Profit,1,Online
+1599,22-01-25,Arun,North,Technology,Mobile phone,27210,Medium Sales,0,No Profit,7,Offline
+1600,26-01-25,Sunil,North,Office Supplies,Notebook,5611,Low Sales,0,No Profit,1,Online
+1601,19-01-25,Sunil,West,Office Supplies,Marker,37863,High Sales,7890,Profit,9,Online
+1602,03-01-25,Arun,East,Technology,Headphones,3314,Low Sales,0,No Profit,1,Offline
+1603,23-01-25,Neha,South,Technology,Laptop,30803,High Sales,0,No Profit,1,Offline
+1604,15-01-25,Ajay Kumar,West,Furniture,Chair,34862,High Sales,5005,Profit,1,Offline
+1605,08-01-25,Kiran,West,Technology,Tablet,1923,Low Sales,0,No Profit,8,Offline
+1606,21-01-25,Arun,East,Office Supplies,Pen Set,38404,High Sales,0,No Profit,9,Offline
+1607,17-01-25,Sunil,South,Office Supplies,Notebook,7002,Low Sales,0,No Profit,2,Offline
+1608,07-01-25,Ravi,East,Office Supplies,Marker,3892,Low Sales,0,No Profit,5,Online
+1609,30-01-25,Ramesh,North,Office Supplies,Marker,56024,High Sales,-2171,Loss,1,Offline
+1610,16-01-25,Pooja,West,Technology,Headphones,8825,Low Sales,-4067,Loss,7,Offline
+1611,18-01-25,Unknown Customer,West,Furniture,Chair,14380,Medium Sales,0,No Profit,1,Offline
+1612,20-01-25,Arun,West,Furniture,Sofa,29187,Medium Sales,2278,Profit,1,Online
+1613,28-01-25,Pooja,North,Furniture,Table,2845,Low Sales,-430,Loss,6,Offline
+1614,27-01-25,Ravi,East,Furniture,Chair,6589,Low Sales,0,No Profit,1,Online
+1615,23-01-25,Meena,East,Furniture,Sofa,42450,High Sales,0,No Profit,1,Online
+1616,13-01-25,Meena,North,Office Supplies,Notebook,7996,Low Sales,3508,Profit,1,Offline
+1617,30-01-25,Suman,East,Furniture,Table,6183,Low Sales,5726,Profit,1,Offline
+1618,22-01-25,Neha,North,Office Supplies,Marker,37348,High Sales,254,Profit,7,Offline
+1619,11-01-25,Arun,West,Furniture,Sofa,9744,Low Sales,0,No Profit,1,Online
+1620,04-01-25,Sunil,North,Office Supplies,Notebook,30551,High Sales,-601,Loss,7,Online
+1621,14-01-25,Arun,East,Office Supplies,Pen Set,8367,Low Sales,4998,Profit,8,Online
+1622,19-01-25,Ajay Kumar,West,Furniture,Sofa,39881,High Sales,0,No Profit,1,Online
+1623,26-01-25,Neha,East,Furniture,Chair,34671,High Sales,0,No Profit,4,Online
+1624,23-01-25,Unknown Customer,East,Technology,Tablet,48662,High Sales,0,No Profit,1,Offline
+1625,11-01-25,Meena,South,Technology,Headphones,24788,Medium Sales,0,No Profit,1,Offline
+1626,12-01-25,Unknown Customer,East,Office Supplies,Notebook,59779,High Sales,0,No Profit,1,Online
+1627,05-01-25,Suman,West,Office Supplies,Notebook,2318,Low Sales,9100,Profit,8,Online
+1628,09-01-25,Ravi,South,Office Supplies,Pen Set,37793,High Sales,0,No Profit,1,Offline
+1629,04-01-25,Suman,East,Office Supplies,Marker,57874,High Sales,0,No Profit,4,Online
+1630,28-01-25,Ravi,South,Furniture,Sofa,13686,Medium Sales,1778,Profit,2,Online
+1631,18-01-25,Ravi,South,Furniture,Chair,59585,High Sales,3326,Profit,1,Offline
+1632,03-01-25,Meena,South,Technology,Headphones,12078,Medium Sales,389,Profit,1,Offline
+1633,03-01-25,Kiran,North,Office Supplies,Marker,21355,Medium Sales,-3867,Loss,1,Offline
+1634,30-01-25,Unknown Customer,East,Technology,Tablet,22043,Medium Sales,8664,Profit,10,Offline
+1635,06-01-25,Pooja,West,Office Supplies,Marker,28732,Medium Sales,-1963,Loss,1,Online
+1636,09-01-25,Ravi,South,Office Supplies,Pen Set,34069,High Sales,5661,Profit,1,Offline
+1637,30-01-25,Ajay Kumar,South,Technology,Mobile phone,53457,High Sales,0,No Profit,4,Online
+1638,12-01-25,Ajay Kumar,East,Office Supplies,Marker,46522,High Sales,-3920,Loss,7,Offline
+1639,17-01-25,Ravi,North,Office Supplies,Marker,12738,Medium Sales,0,No Profit,10,Online
+1640,13-01-25,Neha,East,Furniture,Table,16837,Medium Sales,1355,Profit,9,Online
+1641,26-01-25,Suman,South,Office Supplies,Notebook,39074,High Sales,4605,Profit,9,Offline
+1642,12-01-25,Pooja,West,Office Supplies,Notebook,32358,High Sales,8629,Profit,4,Online
+1643,05-01-25,Pooja,West,Office Supplies,Marker,55373,High Sales,0,No Profit,1,Offline
+1644,25-01-25,Arun,South,Office Supplies,Notebook,2545,Low Sales,-3950,Loss,1,Online
+1645,18-01-25,Ramesh,East,Furniture,Sofa,23502,Medium Sales,0,No Profit,1,Online
+1646,11-01-25,Unknown Customer,East,Technology,Headphones,12763,Medium Sales,111,Profit,3,Offline
+1647,16-01-25,Suman,North,Furniture,Table,47663,High Sales,-1748,Loss,1,Online
+1648,03-01-25,Arun,West,Office Supplies,Marker,12688,Medium Sales,3381,Profit,1,Online
+1649,26-01-25,Sunil,East,Office Supplies,Pen Set,28500,Medium Sales,8404,Profit,1,Online
+1650,14-01-25,Meena,North,Furniture,Sofa,33140,High Sales,485,Profit,1,Offline
+1651,07-01-25,Ramesh,North,Furniture,Chair,15745,Medium Sales,6068,Profit,10,Offline
+1652,05-01-25,Arun,South,Technology,Headphones,16768,Medium Sales,8612,Profit,1,Offline
+1653,09-01-25,Ravi,South,Technology,Mobile phone,59822,High Sales,6618,Profit,1,Offline
+1654,05-01-25,Arun,West,Office Supplies,Pen Set,10176,Medium Sales,7409,Profit,1,Online
+1655,29-01-25,Sunil,South,Furniture,Table,39059,High Sales,0,No Profit,6,Offline
+1656,15-01-25,Sunil,West,Furniture,Sofa,50817,High Sales,0,No Profit,4,Online
+1657,30-01-25,Ramesh,North,Furniture,Table,42273,High Sales,0,No Profit,8,Offline
+1658,26-01-25,Ramesh,North,Office Supplies,Notebook,6929,Low Sales,-625,Loss,1,Offline
+1659,09-01-25,Neha,South,Technology,Laptop,10116,Medium Sales,9490,Profit,3,Online
+1660,17-01-25,Meena,North,Office Supplies,Notebook,18254,Medium Sales,8876,Profit,1,Online
+1661,26-01-25,Neha,West,Technology,Headphones,57215,High Sales,0,No Profit,1,Offline
+1662,14-01-25,Kiran,East,Technology,Laptop,53137,High Sales,1140,Profit,1,Offline
+1663,08-01-25,Neha,East,Office Supplies,Notebook,57215,High Sales,4082,Profit,1,Offline
+1664,18-01-25,Pooja,South,Office Supplies,Notebook,45905,High Sales,3953,Profit,3,Offline
+1665,21-01-25,Suman,South,Office Supplies,Marker,8119,Low Sales,-3822,Loss,1,Online
+1666,15-01-25,Kiran,West,Furniture,Chair,40720,High Sales,-2161,Loss,1,Online
+1667,06-01-25,Neha,North,Technology,Tablet,30867,High Sales,0,No Profit,1,Online
+1668,11-01-25,Ajay Kumar,North,Office Supplies,Marker,5885,Low Sales,8053,Profit,5,Online
+1669,17-01-25,Ravi,West,Technology,Tablet,9614,Low Sales,0,No Profit,1,Offline
+1670,19-01-25,Sunil,South,Furniture,Table,19907,Medium Sales,1759,Profit,1,Online
+1671,08-01-25,Kiran,North,Furniture,Chair,22533,Medium Sales,0,No Profit,6,Online
+1672,31-01-25,Arun,West,Technology,Tablet,12321,Medium Sales,0,No Profit,1,Offline
+1673,23-01-25,Unknown Customer,East,Technology,Headphones,14407,Medium Sales,0,No Profit,1,Offline
+1674,06-01-25,Meena,North,Technology,Mobile phone,25604,Medium Sales,6392,Profit,1,Offline
+1675,23-01-25,Arun,West,Technology,Mobile phone,4229,Low Sales,0,No Profit,1,Offline
+1676,23-01-25,Ajay Kumar,West,Office Supplies,Marker,4387,Low Sales,750,Profit,3,Offline
+1677,27-01-25,Ajay Kumar,East,Furniture,Table,54055,High Sales,0,No Profit,7,Offline
+1678,01-01-25,Sunil,North,Office Supplies,Marker,50800,High Sales,0,No Profit,1,Offline
+1679,07-01-25,Arun,East,Furniture,Table,58578,High Sales,0,No Profit,3,Offline
+1680,20-01-25,Sunil,North,Furniture,Sofa,18941,Medium Sales,0,No Profit,1,Online
+1681,15-01-25,Neha,North,Furniture,Table,30885,High Sales,0,No Profit,1,Online
+1682,04-01-25,Kiran,North,Technology,Mobile phone,48815,High Sales,5738,Profit,1,Offline
+1683,03-01-25,Ajay Kumar,South,Technology,Mobile phone,20439,Medium Sales,9553,Profit,5,Offline
+1684,23-01-25,Pooja,East,Office Supplies,Marker,28484,Medium Sales,0,No Profit,1,Offline
+1685,14-01-25,Suman,North,Technology,Tablet,49357,High Sales,-2985,Loss,1,Offline
+1686,16-01-25,Suman,South,Technology,Mobile phone,16638,Medium Sales,873,Profit,2,Online
+1687,03-01-25,Ajay Kumar,North,Furniture,Chair,53754,High Sales,-4286,Loss,1,Online
+1688,17-01-25,Ramesh,West,Technology,Headphones,55604,High Sales,0,No Profit,9,Offline
+1689,04-01-25,Ramesh,South,Office Supplies,Marker,3673,Low Sales,9721,Profit,1,Online
+1690,22-01-25,Ajay Kumar,North,Furniture,Sofa,45115,High Sales,5749,Profit,1,Offline
+1691,13-01-25,Neha,North,Office Supplies,Pen Set,38482,High Sales,3874,Profit,1,Offline
+1692,15-01-25,Sunil,South,Office Supplies,Pen Set,24271,Medium Sales,0,No Profit,1,Online
+1693,31-01-25,Unknown Customer,North,Furniture,Table,50375,High Sales,4097,Profit,1,Online
+1694,10-01-25,Ramesh,North,Furniture,Chair,32763,High Sales,2344,Profit,1,Offline
+1695,28-01-25,Suman,East,Furniture,Table,49974,High Sales,0,No Profit,1,Offline
+1696,08-01-25,Suman,West,Office Supplies,Pen Set,11917,Medium Sales,0,No Profit,1,Online
+1697,02-01-25,Meena,East,Office Supplies,Pen Set,14665,Medium Sales,6248,Profit,9,Online
+1698,09-01-25,Unknown Customer,East,Office Supplies,Notebook,38692,High Sales,0,No Profit,9,Online
+1699,28-01-25,Neha,East,Technology,Laptop,4336,Low Sales,0,No Profit,1,Offline
+1700,10-01-25,Meena,South,Technology,Mobile phone,2866,Low Sales,7448,Profit,1,Offline
+1701,21-01-25,Suman,North,Furniture,Chair,1501,Low Sales,5287,Profit,1,Offline
+1702,28-01-25,Unknown Customer,North,Technology,Tablet,16301,Medium Sales,8483,Profit,2,Online
+1703,05-01-25,Pooja,East,Furniture,Chair,33855,High Sales,1731,Profit,1,Offline
+1704,21-01-25,Sunil,North,Furniture,Table,40226,High Sales,7623,Profit,2,Offline
+1705,16-01-25,Unknown Customer,West,Technology,Headphones,22617,Medium Sales,0,No Profit,1,Online
+1706,01-01-25,Ravi,North,Furniture,Sofa,44164,High Sales,0,No Profit,1,Offline
+1707,27-01-25,Kiran,West,Technology,Mobile phone,57305,High Sales,5738,Profit,1,Offline
+1708,13-01-25,Unknown Customer,West,Technology,Tablet,54137,High Sales,0,No Profit,1,Offline
+1709,24-01-25,Ajay Kumar,East,Furniture,Sofa,14138,Medium Sales,0,No Profit,1,Offline
+1710,10-01-25,Pooja,West,Furniture,Sofa,36145,High Sales,0,No Profit,1,Online
+1711,20-01-25,Kiran,East,Technology,Mobile phone,56653,High Sales,1933,Profit,1,Offline
+1712,08-01-25,Sunil,West,Technology,Laptop,53291,High Sales,0,No Profit,6,Online
+1713,05-01-25,Ravi,North,Furniture,Table,6417,Low Sales,0,No Profit,7,Offline
+1714,08-01-25,Ajay Kumar,North,Technology,Tablet,15925,Medium Sales,8536,Profit,1,Online
+1715,26-01-25,Ravi,West,Office Supplies,Marker,2264,Low Sales,0,No Profit,1,Offline
+1716,20-01-25,Pooja,West,Office Supplies,Pen Set,26586,Medium Sales,2443,Profit,4,Offline
+1717,25-01-25,Ravi,West,Furniture,Sofa,10303,Medium Sales,8942,Profit,1,Online
+1718,22-01-25,Sunil,South,Furniture,Chair,26154,Medium Sales,4057,Profit,1,Offline
+1719,30-01-25,Kiran,West,Technology,Laptop,4904,Low Sales,0,No Profit,2,Online
+1720,18-01-25,Meena,West,Furniture,Chair,38906,High Sales,0,No Profit,3,Online
+1721,10-01-25,Ravi,South,Office Supplies,Notebook,5036,Low Sales,0,No Profit,2,Online
+1722,21-01-25,Meena,East,Furniture,Chair,46698,High Sales,0,No Profit,1,Offline
+1723,29-01-25,Unknown Customer,East,Furniture,Chair,56703,High Sales,118,Profit,1,Offline
+1724,11-01-25,Ramesh,East,Furniture,Table,30753,High Sales,-3946,Loss,1,Offline
+1725,17-01-25,Neha,West,Office Supplies,Marker,7148,Low Sales,0,No Profit,5,Online
+1726,02-01-25,Ravi,South,Technology,Tablet,14353,Medium Sales,7722,Profit,1,Online
+1727,14-01-25,Sunil,South,Office Supplies,Pen Set,20782,Medium Sales,0,No Profit,5,Online
+1728,10-01-25,Suman,South,Technology,Tablet,3220,Low Sales,0,No Profit,10,Online
+1729,25-01-25,Arun,East,Technology,Laptop,32281,High Sales,0,No Profit,1,Offline
+1730,17-01-25,Unknown Customer,South,Furniture,Sofa,37467,High Sales,7223,Profit,1,Offline
+1731,12-01-25,Suman,South,Office Supplies,Marker,35646,High Sales,8729,Profit,6,Online
+1732,09-01-25,Meena,East,Office Supplies,Marker,18225,Medium Sales,0,No Profit,4,Offline
+1733,30-01-25,Ajay Kumar,North,Office Supplies,Notebook,2342,Low Sales,0,No Profit,1,Offline
+1734,17-01-25,Pooja,West,Technology,Laptop,33033,High Sales,7748,Profit,9,Online
+1735,10-01-25,Arun,South,Office Supplies,Pen Set,49429,High Sales,2411,Profit,1,Online
+1736,12-01-25,Sunil,South,Technology,Mobile phone,49816,High Sales,-395,Loss,1,Offline
+1737,02-01-25,Suman,North,Technology,Mobile phone,38212,High Sales,1860,Profit,1,Offline
+1738,04-01-25,Pooja,North,Office Supplies,Marker,31419,High Sales,0,No Profit,6,Offline
+1739,31-01-25,Meena,North,Furniture,Sofa,2187,Low Sales,0,No Profit,4,Online
+1740,20-01-25,Ramesh,North,Technology,Laptop,55550,High Sales,0,No Profit,1,Online
+1741,20-01-25,Ajay Kumar,West,Technology,Tablet,31825,High Sales,0,No Profit,1,Offline
+1742,19-01-25,Suman,West,Technology,Tablet,15152,Medium Sales,0,No Profit,6,Online
+1743,15-01-25,Kiran,North,Furniture,Table,32594,High Sales,2602,Profit,5,Online
+1744,12-01-25,Ravi,West,Furniture,Table,25912,Medium Sales,0,No Profit,6,Offline
+1745,29-01-25,Meena,North,Furniture,Table,26645,Medium Sales,2914,Profit,10,Online
+1746,09-01-25,Ravi,West,Technology,Headphones,17406,Medium Sales,0,No Profit,3,Offline
+1747,24-01-25,Suman,West,Furniture,Chair,18403,Medium Sales,-1241,Loss,1,Online
+1748,02-01-25,Arun,West,Furniture,Chair,39146,High Sales,0,No Profit,2,Offline
+1749,28-01-25,Pooja,North,Office Supplies,Marker,14182,Medium Sales,9323,Profit,6,Offline
+1750,23-01-25,Unknown Customer,South,Furniture,Chair,1134,Low Sales,0,No Profit,4,Online
+1751,25-01-25,Meena,West,Furniture,Chair,13243,Medium Sales,0,No Profit,1,Online
+1752,01-01-25,Arun,North,Furniture,Sofa,54071,High Sales,0,No Profit,9,Online
+1753,16-01-25,Meena,East,Office Supplies,Marker,27832,Medium Sales,3342,Profit,1,Online
+1754,14-01-25,Ajay Kumar,East,Office Supplies,Pen Set,56568,High Sales,-3990,Loss,9,Offline
+1755,09-01-25,Ravi,West,Furniture,Sofa,5019,Low Sales,0,No Profit,1,Offline
+1756,06-01-25,Sunil,East,Office Supplies,Marker,52029,High Sales,0,No Profit,1,Offline
+1757,15-01-25,Arun,East,Technology,Laptop,57717,High Sales,5067,Profit,1,Online
+1758,03-01-25,Arun,East,Office Supplies,Marker,10282,Medium Sales,1611,Profit,1,Online
+1759,28-01-25,Sunil,South,Furniture,Chair,55654,High Sales,9531,Profit,1,Offline
+1760,20-01-25,Sunil,West,Technology,Laptop,1193,Low Sales,6927,Profit,6,Online
+1761,18-01-25,Pooja,South,Office Supplies,Marker,54799,High Sales,0,No Profit,3,Online
+1762,31-01-25,Meena,South,Technology,Laptop,57562,High Sales,4060,Profit,1,Offline
+1763,24-01-25,Neha,West,Office Supplies,Notebook,57717,High Sales,-3228,Loss,7,Online
+1764,10-01-25,Kiran,North,Furniture,Chair,48603,High Sales,7681,Profit,1,Offline
+1765,26-01-25,Sunil,North,Technology,Laptop,37178,High Sales,-654,Loss,7,Online
+1766,14-01-25,Unknown Customer,South,Furniture,Table,6239,Low Sales,0,No Profit,2,Offline
+1767,15-01-25,Meena,East,Technology,Mobile phone,17419,Medium Sales,0,No Profit,4,Offline
+1768,20-01-25,Suman,West,Technology,Mobile phone,18286,Medium Sales,6466,Profit,1,Offline
+1769,18-01-25,Neha,West,Office Supplies,Notebook,26957,Medium Sales,-2677,Loss,1,Offline
+1770,08-01-25,Ravi,South,Technology,Headphones,23752,Medium Sales,0,No Profit,9,Offline
+1771,20-01-25,Arun,South,Furniture,Sofa,47540,High Sales,0,No Profit,1,Offline
+1772,21-01-25,Suman,South,Furniture,Chair,25677,Medium Sales,-2761,Loss,1,Online
+1773,09-01-25,Suman,East,Furniture,Table,50816,High Sales,6622,Profit,1,Online
+1774,24-01-25,Kiran,South,Office Supplies,Pen Set,857,Low Sales,0,No Profit,1,Offline
+1775,31-01-25,Meena,West,Technology,Laptop,45876,High Sales,0,No Profit,7,Online
+1776,25-01-25,Suman,South,Technology,Tablet,5626,Low Sales,7933,Profit,9,Offline
+1777,24-01-25,Sunil,East,Technology,Headphones,10781,Medium Sales,0,No Profit,8,Online
+1778,31-01-25,Arun,East,Office Supplies,Notebook,39532,High Sales,0,No Profit,3,Offline
+1779,04-01-25,Ramesh,West,Furniture,Sofa,37528,High Sales,7275,Profit,2,Online
+1780,11-01-25,Meena,South,Furniture,Sofa,1200,Low Sales,-2593,Loss,7,Online
+1781,02-01-25,Kiran,North,Furniture,Sofa,36884,High Sales,0,No Profit,1,Offline
+1782,30-01-25,Unknown Customer,North,Technology,Tablet,59459,High Sales,5453,Profit,7,Online
+1783,29-01-25,Kiran,West,Technology,Mobile phone,54873,High Sales,1667,Profit,1,Offline
+1784,12-01-25,Neha,East,Technology,Laptop,29828,Medium Sales,3204,Profit,1,Offline
+1785,13-01-25,Neha,South,Furniture,Chair,7894,Low Sales,-2817,Loss,1,Online
+1786,10-01-25,Unknown Customer,West,Furniture,Chair,45116,High Sales,1524,Profit,1,Online
+1787,24-01-25,Suman,East,Technology,Tablet,53534,High Sales,537,Profit,10,Online
+1788,12-01-25,Kiran,South,Technology,Headphones,34762,High Sales,0,No Profit,1,Offline
+1789,26-01-25,Ravi,South,Office Supplies,Pen Set,37591,High Sales,-3566,Loss,1,Offline
+1790,04-01-25,Ajay Kumar,East,Office Supplies,Marker,39044,High Sales,-1832,Loss,2,Online
+1791,19-01-25,Ramesh,South,Technology,Headphones,33647,High Sales,7319,Profit,1,Offline
+1792,22-01-25,Arun,South,Furniture,Chair,30368,High Sales,0,No Profit,3,Online
+1793,31-01-25,Meena,West,Office Supplies,Notebook,24931,Medium Sales,0,No Profit,7,Offline
+1794,21-01-25,Sunil,South,Furniture,Sofa,9741,Low Sales,0,No Profit,1,Offline
+1795,10-01-25,Arun,West,Technology,Tablet,53671,High Sales,0,No Profit,6,Online
+1796,23-01-25,Unknown Customer,West,Furniture,Table,42730,High Sales,0,No Profit,1,Offline
+1797,19-01-25,Pooja,South,Technology,Mobile phone,57780,High Sales,-989,Loss,1,Online
+1798,01-01-25,Unknown Customer,North,Furniture,Chair,1143,Low Sales,9291,Profit,9,Online
+1799,20-01-25,Sunil,West,Furniture,Chair,14252,Medium Sales,7678,Profit,1,Offline
+1800,28-01-25,Pooja,West,Technology,Tablet,59405,High Sales,0,No Profit,1,Online
+1801,24-01-25,Pooja,South,Furniture,Sofa,38367,High Sales,2789,Profit,1,Offline
+1802,28-01-25,Ajay Kumar,West,Technology,Laptop,25885,Medium Sales,1328,Profit,3,Offline
+1803,15-01-25,Neha,East,Technology,Mobile phone,50233,High Sales,0,No Profit,1,Offline
+1804,19-01-25,Neha,South,Office Supplies,Marker,35830,High Sales,0,No Profit,2,Online
+1805,25-01-25,Suman,North,Technology,Headphones,23731,Medium Sales,0,No Profit,1,Online
+1806,26-01-25,Kiran,South,Office Supplies,Marker,20093,Medium Sales,0,No Profit,3,Offline
+1807,01-01-25,Ravi,North,Furniture,Table,8870,Low Sales,0,No Profit,1,Offline
+1808,28-01-25,Ramesh,East,Furniture,Chair,36981,High Sales,0,No Profit,1,Offline
+1809,15-01-25,Suman,East,Technology,Tablet,31404,High Sales,4070,Profit,10,Online
+1810,20-01-25,Arun,North,Technology,Laptop,54126,High Sales,0,No Profit,1,Online
+1811,24-01-25,Ajay Kumar,North,Furniture,Sofa,4158,Low Sales,0,No Profit,8,Offline
+1812,02-01-25,Suman,East,Office Supplies,Pen Set,10634,Medium Sales,0,No Profit,1,Offline
+1813,20-01-25,Ajay Kumar,North,Office Supplies,Pen Set,27204,Medium Sales,0,No Profit,1,Offline
+1814,23-01-25,Kiran,West,Furniture,Table,29932,Medium Sales,0,No Profit,5,Online
+1815,26-01-25,Arun,East,Technology,Headphones,26341,Medium Sales,0,No Profit,1,Online
+1816,23-01-25,Ajay Kumar,North,Technology,Mobile phone,48455,High Sales,0,No Profit,1,Offline
+1817,17-01-25,Meena,South,Furniture,Table,19187,Medium Sales,0,No Profit,8,Online
+1818,18-01-25,Suman,South,Furniture,Chair,38069,High Sales,-4291,Loss,5,Online
+1819,30-01-25,Ravi,South,Furniture,Chair,10690,Medium Sales,-4078,Loss,1,Offline
+1820,14-01-25,Suman,East,Furniture,Sofa,13517,Medium Sales,0,No Profit,1,Offline
+1821,30-01-25,Ravi,South,Technology,Mobile phone,50944,High Sales,0,No Profit,3,Offline
+1822,04-01-25,Meena,West,Office Supplies,Notebook,39411,High Sales,5949,Profit,1,Offline
+1823,31-01-25,Ramesh,South,Office Supplies,Notebook,17673,Medium Sales,1864,Profit,9,Offline
+1824,23-01-25,Ramesh,South,Technology,Tablet,48973,High Sales,-1077,Loss,1,Online
+1825,06-01-25,Ajay Kumar,East,Technology,Laptop,24459,Medium Sales,9482,Profit,1,Offline
+1826,11-01-25,Neha,West,Office Supplies,Pen Set,45025,High Sales,3123,Profit,1,Online
+1827,28-01-25,Sunil,West,Technology,Mobile phone,57195,High Sales,6254,Profit,1,Offline
+1828,18-01-25,Pooja,West,Furniture,Sofa,35767,High Sales,0,No Profit,5,Online
+1829,12-01-25,Pooja,West,Furniture,Table,55600,High Sales,2230,Profit,1,Online
+1830,28-01-25,Sunil,South,Office Supplies,Notebook,28372,Medium Sales,0,No Profit,1,Offline
+1831,20-01-25,Ramesh,South,Office Supplies,Pen Set,9066,Low Sales,0,No Profit,1,Online
+1832,02-01-25,Meena,East,Furniture,Chair,43377,High Sales,-2533,Loss,1,Online
+1833,23-01-25,Ajay Kumar,West,Office Supplies,Marker,40311,High Sales,2122,Profit,1,Offline
+1834,10-01-25,Neha,South,Office Supplies,Pen Set,15203,Medium Sales,0,No Profit,1,Offline
+1835,30-01-25,Pooja,East,Technology,Laptop,44083,High Sales,494,Profit,5,Offline
+1836,15-01-25,Arun,East,Furniture,Chair,23838,Medium Sales,-755,Loss,1,Online
+1837,23-01-25,Pooja,West,Technology,Mobile phone,14087,Medium Sales,-3224,Loss,5,Online
+1838,17-01-25,Ajay Kumar,South,Office Supplies,Notebook,6181,Low Sales,0,No Profit,1,Online
+1839,05-01-25,Unknown Customer,South,Office Supplies,Marker,50509,High Sales,0,No Profit,1,Online
+1840,21-01-25,Suman,East,Furniture,Chair,2093,Low Sales,0,No Profit,1,Offline
+1841,24-01-25,Suman,West,Technology,Mobile phone,36781,High Sales,6961,Profit,1,Online
+1842,04-01-25,Ravi,East,Technology,Laptop,11506,Medium Sales,360,Profit,9,Offline
+1843,15-01-25,Ramesh,West,Technology,Headphones,54979,High Sales,0,No Profit,3,Online
+1844,15-01-25,Pooja,North,Furniture,Chair,49723,High Sales,0,No Profit,7,Online
+1845,30-01-25,Unknown Customer,North,Office Supplies,Pen Set,8769,Low Sales,0,No Profit,8,Online
+1846,31-01-25,Neha,North,Technology,Laptop,51663,High Sales,0,No Profit,1,Offline
+1847,29-01-25,Ramesh,West,Office Supplies,Pen Set,15096,Medium Sales,0,No Profit,1,Online
+1848,31-01-25,Ramesh,North,Furniture,Chair,5769,Low Sales,0,No Profit,1,Online
+1849,30-01-25,Arun,South,Furniture,Chair,40825,High Sales,962,Profit,1,Offline
+1850,11-01-25,Unknown Customer,South,Furniture,Table,41687,High Sales,0,No Profit,8,Online
+1851,20-01-25,Arun,South,Technology,Headphones,8445,Low Sales,0,No Profit,1,Offline
+1852,08-01-25,Neha,South,Office Supplies,Marker,45206,High Sales,3236,Profit,10,Offline
+1853,18-01-25,Neha,South,Office Supplies,Notebook,28706,Medium Sales,0,No Profit,1,Online
+1854,04-01-25,Suman,North,Furniture,Table,43125,High Sales,0,No Profit,9,Offline
+1855,22-01-25,Sunil,West,Furniture,Chair,3859,Low Sales,3365,Profit,3,Online
+1856,05-01-25,Neha,South,Technology,Mobile phone,29905,Medium Sales,0,No Profit,2,Offline
+1857,02-01-25,Ravi,West,Office Supplies,Marker,14543,Medium Sales,6435,Profit,1,Online
+1858,02-01-25,Kiran,South,Technology,Mobile phone,19162,Medium Sales,-3638,Loss,9,Offline
+1859,14-01-25,Arun,North,Office Supplies,Pen Set,53722,High Sales,1561,Profit,1,Online
+1860,15-01-25,Ajay Kumar,North,Technology,Mobile phone,28344,Medium Sales,0,No Profit,1,Online
+1861,01-01-25,Ramesh,North,Office Supplies,Marker,56716,High Sales,-2672,Loss,1,Offline
+1862,07-01-25,Arun,North,Furniture,Sofa,6150,Low Sales,6730,Profit,1,Offline
+1863,23-01-25,Unknown Customer,South,Technology,Laptop,45827,High Sales,4584,Profit,1,Online
+1864,07-01-25,Pooja,South,Technology,Tablet,14213,Medium Sales,0,No Profit,8,Online
+1865,07-01-25,Arun,East,Technology,Headphones,7527,Low Sales,3422,Profit,3,Online
+1866,15-01-25,Neha,East,Technology,Headphones,33129,High Sales,-3849,Loss,1,Online
+1867,01-01-25,Pooja,North,Furniture,Table,25358,Medium Sales,4598,Profit,1,Offline
+1868,29-01-25,Ramesh,North,Furniture,Chair,57509,High Sales,5800,Profit,8,Online
+1869,26-01-25,Pooja,West,Furniture,Table,11860,Medium Sales,0,No Profit,5,Offline
+1870,02-01-25,Suman,West,Technology,Headphones,34035,High Sales,9518,Profit,1,Online
+1871,02-01-25,Pooja,West,Technology,Mobile phone,51548,High Sales,0,No Profit,6,Offline
+1872,26-01-25,Meena,South,Furniture,Chair,961,Low Sales,0,No Profit,9,Offline
+1873,02-01-25,Arun,East,Furniture,Sofa,1857,Low Sales,0,No Profit,1,Offline
+1874,07-01-25,Sunil,West,Office Supplies,Notebook,10535,Medium Sales,0,No Profit,1,Offline
+1875,26-01-25,Unknown Customer,East,Furniture,Table,6423,Low Sales,2299,Profit,1,Offline
+1876,31-01-25,Suman,East,Technology,Headphones,23902,Medium Sales,6581,Profit,1,Offline
+1877,31-01-25,Arun,North,Office Supplies,Pen Set,17502,Medium Sales,0,No Profit,1,Online
+1878,07-01-25,Meena,North,Furniture,Chair,11032,Medium Sales,0,No Profit,1,Online
+1879,10-01-25,Unknown Customer,East,Office Supplies,Pen Set,48606,High Sales,5775,Profit,1,Online
+1880,30-01-25,Arun,North,Technology,Laptop,51390,High Sales,0,No Profit,4,Offline
+1881,12-01-25,Kiran,South,Office Supplies,Marker,30917,High Sales,-362,Loss,6,Offline
+1882,31-01-25,Ajay Kumar,East,Technology,Headphones,38014,High Sales,-3973,Loss,2,Offline
+1883,19-01-25,Suman,North,Furniture,Chair,9685,Low Sales,-4807,Loss,3,Offline
+1884,09-01-25,Suman,West,Office Supplies,Pen Set,9490,Low Sales,9845,Profit,9,Offline
+1885,12-01-25,Unknown Customer,West,Technology,Headphones,54537,High Sales,0,No Profit,9,Offline
+1886,16-01-25,Sunil,East,Furniture,Table,14383,Medium Sales,-360,Loss,1,Online
+1887,03-01-25,Ajay Kumar,North,Office Supplies,Pen Set,24374,Medium Sales,9660,Profit,1,Online
+1888,20-01-25,Meena,East,Furniture,Table,14725,Medium Sales,0,No Profit,2,Offline
+1889,05-01-25,Arun,West,Office Supplies,Pen Set,34236,High Sales,5527,Profit,1,Offline
+1890,03-01-25,Neha,East,Technology,Laptop,8095,Low Sales,-1933,Loss,7,Online
+1891,23-01-25,Ravi,North,Furniture,Sofa,26612,Medium Sales,0,No Profit,6,Offline
+1892,06-01-25,Unknown Customer,South,Office Supplies,Notebook,28929,Medium Sales,0,No Profit,1,Offline
+1893,26-01-25,Kiran,West,Office Supplies,Notebook,26262,Medium Sales,3568,Profit,10,Offline
+1894,08-01-25,Neha,East,Furniture,Table,19347,Medium Sales,0,No Profit,9,Offline
+1895,19-01-25,Ajay Kumar,South,Office Supplies,Notebook,52133,High Sales,3148,Profit,1,Offline
+1896,06-01-25,Ajay Kumar,South,Technology,Mobile phone,23568,Medium Sales,1785,Profit,10,Online
+1897,14-01-25,Neha,North,Furniture,Chair,11235,Medium Sales,0,No Profit,7,Online
+1898,08-01-25,Kiran,West,Technology,Mobile phone,4862,Low Sales,-721,Loss,1,Online
+1899,24-01-25,Ramesh,West,Furniture,Table,37694,High Sales,0,No Profit,1,Offline
+1900,21-01-25,Neha,East,Technology,Tablet,50845,High Sales,-571,Loss,1,Offline
+1901,04-01-25,Suman,West,Furniture,Sofa,43818,High Sales,0,No Profit,5,Offline
+1902,14-01-25,Neha,North,Technology,Tablet,31993,High Sales,0,No Profit,1,Offline
+1903,05-01-25,Ravi,South,Furniture,Table,34808,High Sales,0,No Profit,1,Offline
+1904,03-01-25,Arun,East,Technology,Laptop,59163,High Sales,0,No Profit,10,Offline
+1905,11-01-25,Meena,West,Technology,Mobile phone,59788,High Sales,244,Profit,3,Offline
+1906,17-01-25,Kiran,West,Furniture,Sofa,4567,Low Sales,8863,Profit,6,Offline
+1907,19-01-25,Neha,East,Office Supplies,Pen Set,27708,Medium Sales,0,No Profit,2,Online
+1908,24-01-25,Unknown Customer,West,Technology,Mobile phone,54952,High Sales,-4320,Loss,1,Online
+1909,10-01-25,Ajay Kumar,East,Office Supplies,Marker,25587,Medium Sales,6142,Profit,1,Online
+1910,14-01-25,Sunil,East,Technology,Headphones,10147,Medium Sales,1278,Profit,1,Offline
+1911,02-01-25,Ravi,South,Office Supplies,Marker,13467,Medium Sales,0,No Profit,1,Offline
+1912,06-01-25,Kiran,East,Furniture,Chair,35174,High Sales,1744,Profit,1,Offline
+1913,29-01-25,Pooja,North,Office Supplies,Pen Set,34161,High Sales,0,No Profit,8,Offline
+1914,21-01-25,Ravi,East,Office Supplies,Pen Set,24645,Medium Sales,0,No Profit,7,Online
+1915,14-01-25,Arun,East,Office Supplies,Marker,47515,High Sales,0,No Profit,7,Offline
+1916,03-01-25,Suman,West,Office Supplies,Pen Set,51824,High Sales,-2636,Loss,9,Offline
+1917,20-01-25,Ravi,East,Office Supplies,Notebook,45665,High Sales,892,Profit,8,Offline
+1918,30-01-25,Ajay Kumar,North,Furniture,Sofa,17759,Medium Sales,0,No Profit,6,Offline
+1919,29-01-25,Pooja,South,Furniture,Table,56376,High Sales,1773,Profit,1,Offline
+1920,18-01-25,Arun,East,Furniture,Chair,29148,Medium Sales,7733,Profit,4,Offline
+1921,28-01-25,Ramesh,South,Office Supplies,Marker,47074,High Sales,0,No Profit,4,Online
+1922,13-01-25,Pooja,North,Furniture,Chair,38541,High Sales,0,No Profit,7,Offline
+1923,22-01-25,Sunil,South,Technology,Laptop,7163,Low Sales,0,No Profit,1,Offline
+1924,20-01-25,Ajay Kumar,North,Technology,Laptop,48209,High Sales,257,Profit,5,Online
+1925,23-01-25,Kiran,South,Office Supplies,Notebook,47802,High Sales,0,No Profit,3,Online
+1926,07-01-25,Meena,South,Technology,Mobile phone,25475,Medium Sales,-2072,Loss,9,Online
+1927,03-01-25,Ajay Kumar,East,Office Supplies,Notebook,4778,Low Sales,2597,Profit,1,Offline
+1928,01-01-25,Ramesh,North,Furniture,Table,30348,High Sales,2242,Profit,4,Offline
+1929,31-01-25,Neha,East,Technology,Tablet,1534,Low Sales,0,No Profit,1,Online
+1930,04-01-25,Pooja,South,Office Supplies,Pen Set,35384,High Sales,0,No Profit,4,Offline
+1931,24-01-25,Meena,South,Office Supplies,Notebook,42562,High Sales,2601,Profit,8,Online
+1932,07-01-25,Sunil,North,Technology,Mobile phone,15488,Medium Sales,1247,Profit,7,Offline
+1933,10-01-25,Neha,North,Office Supplies,Notebook,28586,Medium Sales,1602,Profit,1,Online
+1934,08-01-25,Kiran,North,Furniture,Table,34198,High Sales,0,No Profit,1,Offline
+1935,11-01-25,Sunil,North,Technology,Tablet,22915,Medium Sales,0,No Profit,3,Offline
+1936,27-01-25,Arun,East,Office Supplies,Pen Set,34539,High Sales,0,No Profit,1,Offline
+1937,27-01-25,Kiran,North,Furniture,Sofa,45278,High Sales,0,No Profit,5,Offline
+1938,30-01-25,Sunil,South,Office Supplies,Notebook,1251,Low Sales,0,No Profit,7,Online
+1939,31-01-25,Pooja,West,Office Supplies,Notebook,14657,Medium Sales,0,No Profit,5,Offline
+1940,08-01-25,Kiran,North,Office Supplies,Notebook,9245,Low Sales,0,No Profit,5,Offline
+1941,30-01-25,Kiran,South,Technology,Mobile phone,28728,Medium Sales,0,No Profit,1,Online
+1942,09-01-25,Suman,West,Furniture,Table,31986,High Sales,0,No Profit,3,Online
+1943,11-01-25,Unknown Customer,North,Furniture,Chair,37774,High Sales,7855,Profit,4,Online
+1944,18-01-25,Meena,East,Furniture,Table,41916,High Sales,1268,Profit,7,Online
+1945,21-01-25,Sunil,South,Furniture,Chair,37982,High Sales,346,Profit,1,Online
+1946,18-01-25,Ravi,North,Furniture,Table,37790,High Sales,0,No Profit,1,Offline
+1947,04-01-25,Unknown Customer,South,Furniture,Table,55701,High Sales,4460,Profit,7,Offline
+1948,10-01-25,Suman,South,Office Supplies,Notebook,45383,High Sales,0,No Profit,1,Offline
+1949,03-01-25,Suman,South,Technology,Laptop,27873,Medium Sales,8397,Profit,1,Offline
+1950,23-01-25,Arun,East,Technology,Laptop,2065,Low Sales,725,Profit,1,Online
+1951,21-01-25,Meena,East,Furniture,Sofa,49200,High Sales,0,No Profit,7,Offline
+1952,19-01-25,Ajay Kumar,West,Office Supplies,Notebook,43729,High Sales,0,No Profit,1,Online
+1953,14-01-25,Ramesh,North,Furniture,Sofa,37729,High Sales,0,No Profit,1,Online
+1954,22-01-25,Ajay Kumar,North,Office Supplies,Marker,36064,High Sales,0,No Profit,1,Online
+1955,16-01-25,Ravi,South,Furniture,Chair,33508,High Sales,0,No Profit,1,Online
+1956,28-01-25,Unknown Customer,South,Furniture,Chair,40026,High Sales,0,No Profit,1,Online
+1957,22-01-25,Ramesh,East,Office Supplies,Marker,17624,Medium Sales,1668,Profit,6,Offline
+1958,07-01-25,Unknown Customer,North,Office Supplies,Notebook,40927,High Sales,8701,Profit,2,Online
+1959,04-01-25,Sunil,North,Technology,Headphones,43361,High Sales,2068,Profit,1,Offline
+1960,16-01-25,Sunil,South,Furniture,Table,2691,Low Sales,169,Profit,1,Online
+1961,01-01-25,Meena,West,Furniture,Chair,11568,Medium Sales,0,No Profit,1,Online
+1962,30-01-25,Ajay Kumar,West,Technology,Tablet,15486,Medium Sales,0,No Profit,1,Offline
+1963,09-01-25,Unknown Customer,East,Technology,Headphones,32606,High Sales,1910,Profit,1,Online
+1964,07-01-25,Neha,East,Furniture,Sofa,53695,High Sales,8801,Profit,7,Online
+1965,27-01-25,Kiran,North,Office Supplies,Pen Set,49676,High Sales,-1410,Loss,3,Offline
+1966,18-01-25,Arun,East,Furniture,Chair,32528,High Sales,7464,Profit,1,Online
+1967,24-01-25,Ravi,South,Furniture,Chair,578,Low Sales,0,No Profit,1,Offline
+1968,04-01-25,Ravi,North,Office Supplies,Pen Set,36317,High Sales,244,Profit,2,Online
+1969,12-01-25,Ravi,West,Office Supplies,Marker,45802,High Sales,7465,Profit,1,Online
+1970,02-01-25,Sunil,South,Office Supplies,Pen Set,25043,Medium Sales,0,No Profit,1,Online
+1971,18-01-25,Pooja,South,Technology,Tablet,27633,Medium Sales,-2117,Loss,1,Offline
+1972,09-01-25,Ramesh,South,Technology,Tablet,6868,Low Sales,4756,Profit,1,Online
+1973,29-01-25,Meena,West,Furniture,Chair,17205,Medium Sales,2292,Profit,1,Offline
+1974,24-01-25,Ramesh,North,Technology,Laptop,43827,High Sales,551,Profit,10,Online
+1975,04-01-25,Suman,North,Office Supplies,Pen Set,16675,Medium Sales,2049,Profit,1,Offline
+1976,19-01-25,Meena,South,Furniture,Sofa,11408,Medium Sales,0,No Profit,8,Offline
+1977,25-01-25,Ravi,East,Furniture,Chair,20480,Medium Sales,6568,Profit,5,Online
+1978,17-01-25,Pooja,South,Office Supplies,Marker,28609,Medium Sales,0,No Profit,4,Offline
+1979,18-01-25,Neha,South,Technology,Mobile phone,10971,Medium Sales,0,No Profit,1,Offline
+1980,01-01-25,Arun,North,Office Supplies,Marker,47979,High Sales,648,Profit,7,Online
+1981,27-01-25,Unknown Customer,North,Furniture,Table,17570,Medium Sales,2147,Profit,1,Online
+1982,08-01-25,Ajay Kumar,East,Technology,Mobile phone,6431,Low Sales,5382,Profit,4,Offline
+1983,21-01-25,Ravi,West,Office Supplies,Marker,2138,Low Sales,0,No Profit,8,Online
+1984,13-01-25,Ramesh,East,Technology,Mobile phone,9506,Low Sales,2179,Profit,3,Online
+1985,02-01-25,Suman,South,Furniture,Sofa,11553,Medium Sales,0,No Profit,3,Offline
+1986,31-01-25,Unknown Customer,East,Furniture,Sofa,47958,High Sales,0,No Profit,1,Offline
+1987,02-01-25,Ajay Kumar,East,Furniture,Table,11398,Medium Sales,0,No Profit,8,Online
+1988,06-01-25,Suman,North,Furniture,Table,18863,Medium Sales,9955,Profit,1,Online
+1989,30-01-25,Ravi,South,Office Supplies,Notebook,50569,High Sales,0,No Profit,2,Online
+1990,08-01-25,Neha,East,Technology,Mobile phone,22154,Medium Sales,0,No Profit,4,Online
+1991,17-01-25,Ajay Kumar,West,Office Supplies,Pen Set,58619,High Sales,165,Profit,1,Online
+1992,07-01-25,Unknown Customer,East,Furniture,Sofa,25706,Medium Sales,0,No Profit,8,Online
+1993,15-01-25,Ajay Kumar,North,Office Supplies,Pen Set,17037,Medium Sales,0,No Profit,1,Online
+1994,14-01-25,Unknown Customer,East,Furniture,Chair,27991,Medium Sales,-2005,Loss,1,Offline
+1995,19-01-25,Suman,East,Office Supplies,Notebook,30484,High Sales,106,Profit,1,Online
+1996,14-01-25,Neha,South,Technology,Laptop,58872,High Sales,0,No Profit,7,Online
+1997,03-01-25,Unknown Customer,North,Furniture,Chair,32833,High Sales,0,No Profit,8,Offline
+1998,18-01-25,Ravi,South,Technology,Mobile phone,58151,High Sales,3550,Profit,1,Offline
+1999,01-01-25,Ajay Kumar,North,Office Supplies,Marker,18461,Medium Sales,0,No Profit,6,Online
+2000,17-01-25,Kiran,North,Technology,Tablet,3821,Low Sales,0,No Profit,4,Offline

@@ -1,0 +1,1001 @@
+Order ID,Order Date,Customer Name,Region,Category,Product Name,Sales,Profit,Quantity,Sales Channel
+1001,23/01/2025,Ramesh,South,Furniture,Chair ,994,6274.0,6.0,Offline
+1002,06/01/2025,Kiran,North,Technology,Headphones ,34024,,10.0,Online
+1003,11/01/2025,Ramesh,West,Furniture,Table  ,6338,,,Offline
+1004,25-01-25,,North,Technology,Tablet  ,48427,7285.0,,Online
+1005,02-01-25,Pooja,North,Technology,Laptop  ,46791,1310.0,1.0,Online
+1006,10-01-25,Ravi,North,Office Supplies,Marker,12850,-3178.0,,Online
+1007,03/01/2025,Kiran,West,Furniture,Table,27057,4368.0,,Online
+1008,24/01/2025,Ramesh,West,Office Supplies,Notebook  ,57620,-1271.0,5.0,Online
+1009,26/01/2025,Pooja,North,Technology,Headphones ,4913,,,Offline
+1010,26-01-25,Suman,North,Office Supplies,Pen Set  ,26444,,,Offline
+1011,21/01/2025,Suman,East,Technology,Laptop ,56630,,,Online
+1012,08/01/2025,Ramesh,West,Office Supplies,Notebook,37367,-3303.0,,Offline
+1013,31/01/2025,Meena,East,Furniture,Table,33557,-403.0,,Online
+1014,19-01-25,,North,Office Supplies,Marker ,41273,672.0,3.0,Offline
+1015,28-01-25,Kiran,South,Technology,Tablet ,29210,,,Online
+1016,12/01/2025,Pooja,East,Furniture,Table,32321,,,Online
+1017,17/01/2025,,North,Office Supplies,Notebook,4218,-387.0,,Offline
+1018,01-01-25,Arun,South,Office Supplies,Notebook,20674,,4.0,Online
+1019,26/01/2025,Sunil,West,Office Supplies,Pen Set  ,31023,,7.0,Offline
+1020,05/01/2025,Neha,South,Technology,Laptop ,35565,9730.0,,Offline
+1021,26-01-25,Arun,South,Office Supplies,Pen Set  ,16418,,5.0,Offline
+1022,01/01/2025,Neha,South,Technology,Mobile phone  ,43409,457.0,,Offline
+1023,19/01/2025,Ramesh,East,Office Supplies,Notebook ,21768,,5.0,Offline
+1024,19/01/2025,Arun,East,Office Supplies,Marker ,39014,3861.0,6.0,Online
+1025,24-01-25,Ajay kumar,North,Technology,Headphones ,41792,,,Online
+1026,01-01-25,Suman,East,Technology,Laptop,45740,9759.0,,Offline
+1027,16/01/2025,Ramesh,West,Office Supplies,Pen Set  ,59003,3203.0,,Offline
+1028,25/01/2025,Sunil,West,Office Supplies,Pen Set ,9704,7664.0,1.0,Offline
+1029,22-01-25,Arun,North,Technology,Tablet,31057,,,Offline
+1030,08/01/2025,Neha,West,Furniture,Table,18968,,8.0,Offline
+1031,05-01-25,Kiran,East,Technology,Tablet  ,16876,,,Online
+1032,22-01-25,Suman,South,Technology,Mobile phone ,52383,8939.0,2.0,Online
+1033,25-01-25,Neha,North,Technology,Laptop  ,20999,-2843.0,9.0,Offline
+1034,24/01/2025,Pooja,South,Furniture,Chair  ,54177,-2125.0,6.0,Online
+1035,01-01-25,Neha,North,Office Supplies,Notebook ,10222,,1.0,Offline
+1036,11/01/2025,Arun,South,Office Supplies,Notebook  ,28684,8733.0,,Offline
+1037,27/01/2025,Suman,East,Office Supplies,Notebook,27740,,2.0,Offline
+1038,30/01/2025,Sunil,North,Office Supplies,Pen Set,54700,-1885.0,8.0,Online
+1039,03/01/2025,,East,Furniture,Chair  ,44458,,9.0,Online
+1040,30/01/2025,Meena,West,Office Supplies,Notebook ,44594,9151.0,,Online
+1041,31/01/2025,Pooja,North,Technology,Headphones,6807,4621.0,,Online
+1042,25/01/2025,Arun,East,Furniture,Table,24616,-3376.0,8.0,Offline
+1043,17/01/2025,Arun,East,Technology,Headphones ,27028,1596.0,,Offline
+1044,11-01-25,Ravi,North,Office Supplies,Notebook  ,48707,,2.0,Offline
+1045,06/01/2025,Meena,South,Furniture,Chair  ,35577,738.0,,Online
+1046,04/01/2025,Meena,West,Furniture,Chair ,22864,,,Offline
+1047,15/01/2025,Suman,South,Furniture,Chair,23630,,9.0,Online
+1048,15/01/2025,Suman,North,Furniture,Table ,27209,,6.0,Offline
+1049,16-01-25,Ravi,West,Furniture,Chair  ,6630,4528.0,,Online
+1050,12-01-25,Suman,North,Furniture,Table ,18936,-754.0,,Online
+1051,12/01/2025,Kiran,West,Office Supplies,Marker,43820,3433.0,1.0,Offline
+1052,29/01/2025,,West,Technology,Tablet,40813,,8.0,Online
+1053,04-01-25,Sunil,South,Furniture,Chair  ,40552,-2.0,,Offline
+1054,09-01-25,Arun,East,Office Supplies,Pen Set ,31537,7658.0,,Online
+1055,31/01/2025,Meena,East,Office Supplies,Marker  ,17581,1219.0,,Offline
+1056,18-01-25,Suman,East,Technology,Headphones,41490,-789.0,5.0,Online
+1057,12-01-25,Sunil,South,Technology,Headphones,57235,6591.0,5.0,Offline
+1058,23-01-25,Pooja,East,Furniture,Chair ,3174,,,Online
+1059,14/01/2025,Pooja,South,Technology,Laptop,7289,,,Online
+1060,13-01-25,Arun,South,Furniture,Table ,11689,,,Offline
+1061,20-01-25,Meena,North,Technology,Mobile phone  ,46978,,7.0,Online
+1062,26-01-25,Suman,West,Technology,Mobile phone  ,57401,7643.0,,Online
+1063,23-01-25,Sunil,North,Furniture,Chair ,45352,7547.0,,Offline
+1064,28-01-25,Ravi,South,Office Supplies,Notebook ,50753,4362.0,7.0,Online
+1065,21-01-25,Neha,South,Furniture,Sofa  ,56635,,,Online
+1066,18-01-25,,East,Technology,Mobile phone,20149,6470.0,2.0,Online
+1067,31-01-25,Ajay kumar,North,Office Supplies,Pen Set  ,57579,,9.0,Offline
+1068,01/01/2025,Ajay kumar,North,Technology,Mobile phone  ,37290,,5.0,Online
+1069,19-01-25,Ravi,North,Furniture,Chair,59695,-227.0,,Online
+1070,08-01-25,Meena,West,Technology,Tablet  ,7924,4134.0,,Offline
+1071,22-01-25,Pooja,East,Office Supplies,Marker,1218,,,Online
+1072,28-01-25,Suman,South,Furniture,Chair,514,,5.0,Online
+1073,13-01-25,Pooja,South,Technology,Headphones  ,42875,-590.0,5.0,Offline
+1074,15/01/2025,Arun,South,Furniture,Table  ,25529,,3.0,Online
+1075,18/01/2025,Pooja,East,Technology,Mobile phone  ,32694,5179.0,,Offline
+1076,21/01/2025,Sunil,South,Furniture,Sofa ,19468,,4.0,Online
+1077,18-01-25,Ramesh,South,Technology,Tablet ,9979,,10.0,Online
+1078,18-01-25,Pooja,West,Technology,Mobile phone ,29161,,,Offline
+1079,28-01-25,,South,Office Supplies,Marker ,42156,,,Offline
+1080,03-01-25,Ajay kumar,East,Office Supplies,Pen Set,16356,,,Offline
+1081,15/01/2025,Ajay kumar,West,Furniture,Chair ,22443,-995.0,,Online
+1082,29-01-25,Arun,South,Technology,Laptop  ,47610,-4311.0,6.0,Offline
+1083,30/01/2025,Arun,North,Furniture,Table,46599,,,Offline
+1084,26-01-25,Ramesh,North,Technology,Tablet ,8056,-2128.0,,Online
+1085,23/01/2025,Sunil,North,Technology,Mobile phone ,53047,8212.0,2.0,Offline
+1086,23-01-25,Arun,South,Furniture,Chair,48624,,,Offline
+1087,08-01-25,Sunil,West,Office Supplies,Pen Set,40520,2866.0,,Offline
+1088,28-01-25,Kiran,North,Furniture,Chair,54027,,6.0,Offline
+1089,06/01/2025,Ramesh,East,Office Supplies,Marker  ,38348,,,Online
+1090,21-01-25,Meena,East,Technology,Mobile phone,8827,-1018.0,3.0,Offline
+1091,05-01-25,Ajay kumar,South,Technology,Tablet,54444,-3081.0,5.0,Offline
+1092,03-01-25,Neha,West,Technology,Headphones,55253,3782.0,5.0,Online
+1093,16-01-25,Arun,West,Technology,Headphones,3764,,4.0,Offline
+1094,15/01/2025,Sunil,South,Furniture,Chair  ,18866,,8.0,Offline
+1095,16/01/2025,Suman,North,Furniture,Table ,27693,4415.0,,Offline
+1096,05/01/2025,Pooja,North,Furniture,Chair ,43759,2461.0,,Offline
+1097,06-01-25,Meena,North,Technology,Tablet  ,13785,5590.0,3.0,Offline
+1098,10-01-25,Suman,North,Technology,Tablet ,40815,,1.0,Online
+1099,21-01-25,Meena,West,Office Supplies,Pen Set ,24195,-174.0,5.0,Online
+1100,23/01/2025,,South,Furniture,Table ,39453,79.0,,Offline
+1101,18-01-25,Pooja,South,Furniture,Table,752,,8.0,Online
+1102,28/01/2025,Suman,South,Furniture,Table  ,31409,,1.0,Offline
+1103,15-01-25,Neha,South,Office Supplies,Marker ,56594,,1.0,Online
+1104,23/01/2025,Kiran,West,Furniture,Chair,30684,,6.0,Online
+1105,12-01-25,,East,Office Supplies,Pen Set  ,53191,,10.0,Offline
+1106,27-01-25,Ramesh,South,Furniture,Chair ,8544,,,Online
+1107,30-01-25,Meena,South,Technology,Headphones,23847,,1.0,Offline
+1108,08/01/2025,Meena,East,Technology,Headphones  ,29861,5863.0,8.0,Online
+1109,23/01/2025,,East,Technology,Mobile phone  ,57728,,,Online
+1110,28/01/2025,Meena,North,Furniture,Table ,839,,,Offline
+1111,21-01-25,Meena,South,Furniture,Sofa  ,56530,,,Online
+1112,20-01-25,Ajay kumar,North,Office Supplies,Marker  ,8265,,,Offline
+1113,05-01-25,Sunil,South,Office Supplies,Marker,26524,,2.0,Offline
+1114,04-01-25,Meena,East,Office Supplies,Pen Set  ,12506,-3567.0,2.0,Offline
+1115,04-01-25,Sunil,West,Furniture,Table  ,10656,,,Offline
+1116,01/01/2025,Sunil,North,Technology,Mobile phone  ,51015,-1989.0,9.0,Offline
+1117,07/01/2025,Suman,West,Technology,Tablet  ,52757,3562.0,9.0,Offline
+1118,09-01-25,Pooja,East,Furniture,Table ,6040,5673.0,2.0,Offline
+1119,09-01-25,Suman,East,Technology,Mobile phone ,24980,9777.0,,Offline
+1120,29-01-25,Meena,East,Furniture,Sofa ,40898,-2769.0,,Offline
+1121,02/01/2025,Pooja,East,Furniture,Sofa,21064,9930.0,,Online
+1122,12-01-25,Pooja,South,Furniture,Chair,50288,,8.0,Offline
+1123,10/01/2025,Arun,East,Technology,Headphones,16052,-4700.0,3.0,Online
+1124,22-01-25,Ramesh,West,Office Supplies,Notebook ,30773,,,Online
+1125,26-01-25,Sunil,West,Technology,Laptop  ,34632,997.0,2.0,Offline
+1126,19/01/2025,Suman,South,Furniture,Sofa  ,56273,-4035.0,,Online
+1127,22/01/2025,Ajay kumar,East,Furniture,Table  ,38969,3279.0,10.0,Online
+1128,07-01-25,Sunil,North,Furniture,Sofa ,17892,,,Online
+1129,07/01/2025,Arun,South,Office Supplies,Pen Set ,47022,6611.0,8.0,Offline
+1130,28/01/2025,Ravi,South,Technology,Laptop ,22786,,,Offline
+1131,09/01/2025,Ajay kumar,East,Technology,Mobile phone,6527,1748.0,,Online
+1132,13-01-25,Arun,East,Office Supplies,Marker  ,16160,,,Offline
+1133,09/01/2025,Sunil,West,Technology,Mobile phone ,12932,,4.0,Online
+1134,13/01/2025,Kiran,South,Office Supplies,Notebook ,33379,5285.0,,Online
+1135,31-01-25,Kiran,North,Furniture,Table  ,28053,2598.0,,Offline
+1136,28-01-25,Ramesh,East,Furniture,Sofa ,7316,,,Online
+1137,24-01-25,Neha,South,Furniture,Chair,3397,1529.0,10.0,Online
+1138,29/01/2025,Neha,South,Furniture,Chair ,25894,,8.0,Offline
+1139,27/01/2025,Meena,West,Office Supplies,Notebook ,21877,,,Offline
+1140,30/01/2025,Sunil,East,Technology,Headphones  ,42739,,5.0,Offline
+1141,24-01-25,Sunil,South,Furniture,Table  ,44355,,3.0,Offline
+1142,04/01/2025,Kiran,North,Technology,Laptop  ,7567,,8.0,Offline
+1143,28-01-25,Ajay kumar,West,Office Supplies,Notebook,19215,,,Online
+1144,04/01/2025,Kiran,West,Office Supplies,Pen Set ,8311,2808.0,,Online
+1145,22/01/2025,,West,Technology,Headphones  ,13469,2382.0,8.0,Offline
+1146,23-01-25,Sunil,North,Technology,Laptop  ,26209,6703.0,,Online
+1147,22-01-25,Sunil,South,Technology,Headphones  ,45743,332.0,7.0,Offline
+1148,21/01/2025,Ajay kumar,South,Technology,Mobile phone,13881,-2278.0,9.0,Offline
+1149,06/01/2025,Meena,West,Furniture,Sofa  ,47672,,,Online
+1150,05-01-25,Neha,South,Office Supplies,Pen Set  ,8782,,,Online
+1151,21/01/2025,Suman,South,Office Supplies,Pen Set ,57405,,4.0,Offline
+1152,11/01/2025,Arun,West,Technology,Mobile phone,30154,2915.0,,Offline
+1153,05/01/2025,Neha,East,Technology,Tablet,7694,6898.0,,Online
+1154,04-01-25,Meena,North,Office Supplies,Pen Set,53314,5507.0,3.0,Online
+1155,19/01/2025,Ajay kumar,West,Technology,Tablet ,46642,,10.0,Online
+1156,09/01/2025,Suman,West,Furniture,Table ,3992,,2.0,Offline
+1157,20/01/2025,Arun,South,Office Supplies,Pen Set ,2279,1934.0,6.0,Online
+1158,07-01-25,,East,Furniture,Table  ,10642,9502.0,,Online
+1159,10/01/2025,Arun,West,Technology,Mobile phone ,55423,2004.0,4.0,Offline
+1160,18/01/2025,Pooja,South,Office Supplies,Pen Set  ,29587,-4919.0,,Offline
+1161,29/01/2025,Sunil,East,Furniture,Table  ,15772,1722.0,,Online
+1162,19/01/2025,Pooja,West,Furniture,Sofa,34574,2103.0,,Online
+1163,09-01-25,Neha,South,Technology,Laptop,18857,-4138.0,10.0,Online
+1164,07/01/2025,Suman,West,Technology,Tablet ,18115,4543.0,,Online
+1165,07-01-25,Meena,North,Furniture,Sofa  ,49485,,,Online
+1166,09-01-25,Meena,West,Office Supplies,Marker  ,38259,-2946.0,,Online
+1167,28/01/2025,Ravi,South,Furniture,Chair  ,36513,-4455.0,,Offline
+1168,07/01/2025,Pooja,East,Technology,Headphones  ,54260,,3.0,Online
+1169,09/01/2025,Meena,South,Office Supplies,Notebook,17347,,7.0,Online
+1170,08/01/2025,Sunil,East,Furniture,Table,14000,,5.0,Online
+1171,11-01-25,Pooja,South,Office Supplies,Notebook ,30848,910.0,,Offline
+1172,16-01-25,Ravi,West,Furniture,Chair,31500,1122.0,,Offline
+1173,19/01/2025,Suman,South,Furniture,Chair  ,8901,,,Offline
+1174,15/01/2025,Ravi,South,Office Supplies,Pen Set,17435,1347.0,,Online
+1175,26/01/2025,Ajay kumar,East,Technology,Tablet  ,1683,9802.0,3.0,Online
+1176,01-01-25,Ramesh,East,Office Supplies,Marker,9238,,,Offline
+1177,10/01/2025,Arun,South,Office Supplies,Marker,9587,,,Online
+1178,11-01-25,,North,Furniture,Sofa,24887,-1642.0,7.0,Offline
+1179,20-01-25,Suman,South,Office Supplies,Notebook ,56149,,,Online
+1180,18-01-25,Arun,West,Office Supplies,Marker ,50455,3643.0,,Offline
+1181,08/01/2025,Arun,North,Office Supplies,Marker  ,2422,5355.0,,Offline
+1182,13/01/2025,Neha,West,Furniture,Sofa  ,34822,-4918.0,,Offline
+1183,06-01-25,Ravi,West,Furniture,Chair  ,36780,4730.0,4.0,Online
+1184,31/01/2025,Ramesh,West,Office Supplies,Marker ,27266,,,Online
+1185,04-01-25,Meena,West,Office Supplies,Pen Set,38470,,7.0,Online
+1186,09-01-25,Kiran,North,Furniture,Sofa ,25559,,,Offline
+1187,06/01/2025,Neha,East,Furniture,Table  ,35110,,,Online
+1188,28-01-25,Kiran,East,Office Supplies,Notebook  ,49290,,,Online
+1189,20-01-25,Kiran,North,Furniture,Chair,5091,,2.0,Online
+1190,21-01-25,Ajay kumar,West,Office Supplies,Notebook,34440,8013.0,10.0,Offline
+1191,09-01-25,Ajay kumar,North,Furniture,Chair  ,15084,,,Offline
+1192,06/01/2025,Ravi,East,Office Supplies,Pen Set ,890,,6.0,Offline
+1193,26-01-25,Ajay kumar,South,Furniture,Sofa  ,13338,-2264.0,,Offline
+1194,20-01-25,Arun,North,Furniture,Chair,20641,4742.0,,Online
+1195,02/01/2025,Sunil,West,Furniture,Chair ,57781,2157.0,,Offline
+1196,06-01-25,Ramesh,North,Office Supplies,Pen Set ,14244,-351.0,6.0,Online
+1197,17-01-25,Arun,South,Furniture,Sofa ,19977,,1.0,Online
+1198,14-01-25,Ravi,South,Furniture,Chair  ,10550,-4866.0,4.0,Offline
+1199,25/01/2025,,East,Technology,Mobile phone,40044,4702.0,6.0,Online
+1200,25/01/2025,Ravi,North,Technology,Mobile phone ,7610,3349.0,10.0,Online
+1201,13/01/2025,Kiran,South,Office Supplies,Notebook ,7931,,6.0,Offline
+1202,20/01/2025,Suman,West,Furniture,Sofa,24884,,,Online
+1203,08-01-25,Sunil,North,Furniture,Chair,10909,7387.0,2.0,Online
+1204,15-01-25,Meena,East,Furniture,Table ,52873,,,Offline
+1205,19-01-25,Kiran,West,Technology,Laptop  ,24671,-751.0,1.0,Offline
+1206,22-01-25,Suman,West,Office Supplies,Pen Set  ,6981,8083.0,,Online
+1207,20/01/2025,Kiran,East,Office Supplies,Marker  ,21631,,,Online
+1208,02-01-25,Neha,South,Office Supplies,Pen Set,56142,,,Online
+1209,21-01-25,Ajay kumar,South,Furniture,Sofa,40955,,6.0,Online
+1210,01/01/2025,Pooja,North,Furniture,Sofa ,13060,1170.0,,Online
+1211,29/01/2025,Meena,North,Office Supplies,Notebook,46957,-2577.0,,Online
+1212,03-01-25,Ravi,North,Technology,Headphones ,12109,,,Offline
+1213,24/01/2025,Sunil,West,Technology,Laptop  ,23999,,,Online
+1214,26/01/2025,Sunil,South,Furniture,Table  ,9556,,,Online
+1215,30-01-25,Sunil,North,Furniture,Chair  ,53326,,7.0,Online
+1216,12/01/2025,Ravi,North,Furniture,Sofa,47725,,9.0,Online
+1217,19-01-25,Sunil,East,Furniture,Chair  ,54256,,2.0,Online
+1218,03-01-25,Ajay kumar,East,Technology,Tablet,47022,,9.0,Online
+1219,09/01/2025,Ravi,North,Office Supplies,Notebook ,27156,,,Online
+1220,29-01-25,Ravi,South,Furniture,Sofa  ,5730,,,Offline
+1221,01-01-25,Ravi,South,Furniture,Sofa ,4797,,8.0,Online
+1222,14/01/2025,Ramesh,South,Furniture,Sofa ,55743,,,Online
+1223,25-01-25,Pooja,West,Furniture,Table  ,21210,,,Online
+1224,04-01-25,Kiran,East,Office Supplies,Pen Set,53880,-4212.0,6.0,Offline
+1225,01-01-25,Arun,West,Office Supplies,Marker,58308,,8.0,Online
+1226,30/01/2025,Meena,North,Technology,Tablet  ,26402,,10.0,Offline
+1227,30-01-25,Ravi,South,Technology,Tablet ,32329,-642.0,,Offline
+1228,27-01-25,Ramesh,North,Furniture,Table ,19724,1269.0,,Online
+1229,01-01-25,Ajay kumar,South,Office Supplies,Notebook ,45791,,5.0,Online
+1230,11/01/2025,Ravi,East,Office Supplies,Pen Set,49760,1600.0,9.0,Online
+1231,30-01-25,Ravi,West,Technology,Tablet ,12917,,2.0,Online
+1232,22-01-25,,South,Furniture,Table  ,25342,,,Online
+1233,21/01/2025,Arun,South,Technology,Laptop  ,33647,1897.0,8.0,Online
+1234,18-01-25,Kiran,West,Office Supplies,Marker,27271,,10.0,Offline
+1235,14/01/2025,Pooja,South,Furniture,Table  ,28167,,,Online
+1236,16-01-25,Kiran,South,Furniture,Table,51593,,,Offline
+1237,25/01/2025,Meena,South,Furniture,Chair  ,50590,,5.0,Offline
+1238,04-01-25,Meena,East,Office Supplies,Marker,16083,,,Online
+1239,20-01-25,Sunil,North,Furniture,Table  ,44794,5255.0,,Offline
+1240,03/01/2025,,East,Furniture,Chair,51981,,,Online
+1241,06-01-25,Arun,North,Technology,Tablet,35560,6887.0,,Online
+1242,23/01/2025,Neha,North,Furniture,Sofa ,20362,,4.0,Offline
+1243,27/01/2025,Kiran,East,Furniture,Chair,36731,7033.0,,Online
+1244,04/01/2025,Suman,North,Technology,Mobile phone,12729,-2168.0,1.0,Offline
+1245,29/01/2025,Ravi,West,Furniture,Table ,19909,,,Online
+1246,25/01/2025,Sunil,North,Technology,Tablet ,53873,2526.0,6.0,Online
+1247,24/01/2025,Neha,North,Technology,Tablet,7256,304.0,7.0,Offline
+1248,08/01/2025,Suman,East,Technology,Headphones,49679,5304.0,6.0,Online
+1249,22/01/2025,Meena,South,Office Supplies,Notebook ,4021,1624.0,10.0,Online
+1250,03/01/2025,Arun,West,Technology,Headphones  ,45365,2517.0,,Online
+1251,26/01/2025,Sunil,West,Technology,Tablet,57644,,4.0,Online
+1252,02/01/2025,Ajay kumar,North,Technology,Tablet  ,3915,,2.0,Offline
+1253,29/01/2025,Sunil,North,Office Supplies,Marker  ,54933,-4614.0,,Online
+1254,29-01-25,Ajay kumar,North,Technology,Headphones,11274,,2.0,Offline
+1255,12/01/2025,Ramesh,North,Technology,Mobile phone ,38301,,1.0,Online
+1256,24/01/2025,Suman,East,Office Supplies,Marker  ,55599,-344.0,7.0,Online
+1257,27-01-25,,East,Furniture,Sofa ,11279,6884.0,,Online
+1258,25-01-25,Suman,North,Furniture,Table ,57933,,1.0,Online
+1259,29/01/2025,,West,Technology,Tablet  ,34995,2168.0,6.0,Online
+1260,21/01/2025,Meena,South,Furniture,Sofa ,27639,,9.0,Online
+1261,26-01-25,,East,Office Supplies,Pen Set  ,12738,5936.0,,Offline
+1262,05/01/2025,Ajay kumar,South,Furniture,Sofa  ,8786,,,Offline
+1263,17/01/2025,Arun,North,Technology,Headphones  ,22852,2829.0,4.0,Offline
+1264,29-01-25,Ramesh,South,Office Supplies,Notebook ,34683,-2163.0,9.0,Offline
+1265,07/01/2025,Neha,East,Technology,Mobile phone,4762,3011.0,4.0,Online
+1266,17-01-25,Arun,East,Furniture,Chair ,21300,,,Offline
+1267,18/01/2025,Pooja,West,Office Supplies,Marker,28201,,9.0,Online
+1268,14/01/2025,Ajay kumar,West,Technology,Mobile phone  ,10401,-3160.0,,Offline
+1269,19-01-25,Ajay kumar,North,Technology,Tablet  ,26542,-3264.0,,Online
+1270,26-01-25,Neha,North,Furniture,Sofa,53816,2845.0,,Online
+1271,06-01-25,Pooja,North,Office Supplies,Marker ,43274,,10.0,Offline
+1272,01/01/2025,Suman,West,Technology,Tablet ,30118,,10.0,Online
+1273,27/01/2025,Suman,North,Furniture,Sofa,26682,,,Online
+1274,24/01/2025,Pooja,West,Office Supplies,Pen Set ,39862,,,Offline
+1275,16-01-25,Ajay kumar,East,Furniture,Chair ,45914,,,Online
+1276,03/01/2025,Neha,West,Office Supplies,Marker ,40282,,8.0,Offline
+1277,13-01-25,Arun,West,Furniture,Chair,6449,,,Online
+1278,21-01-25,Meena,North,Technology,Tablet  ,15412,,7.0,Offline
+1279,11/01/2025,Arun,South,Furniture,Table  ,39160,-1129.0,9.0,Offline
+1280,28/01/2025,Neha,North,Office Supplies,Pen Set ,59012,504.0,9.0,Offline
+1281,13/01/2025,Suman,East,Technology,Laptop ,7837,6428.0,,Offline
+1282,13/01/2025,Neha,East,Furniture,Table ,15139,-4084.0,8.0,Online
+1283,25/01/2025,Ramesh,South,Office Supplies,Marker,4095,6509.0,,Online
+1284,26-01-25,Arun,East,Office Supplies,Marker  ,21957,1579.0,,Offline
+1285,02/01/2025,Kiran,West,Office Supplies,Notebook ,31992,3051.0,,Online
+1286,29-01-25,,West,Office Supplies,Pen Set ,26161,-1300.0,3.0,Online
+1287,05-01-25,Meena,West,Office Supplies,Notebook  ,7011,,4.0,Online
+1288,22-01-25,Ravi,East,Technology,Headphones  ,55789,,4.0,Offline
+1289,07-01-25,,South,Technology,Tablet,28574,721.0,,Offline
+1290,23-01-25,Ajay kumar,South,Technology,Tablet,50925,,,Online
+1291,28/01/2025,Arun,East,Technology,Laptop,45782,8250.0,,Online
+1292,23-01-25,Ajay kumar,North,Technology,Tablet  ,9122,,6.0,Offline
+1293,10/01/2025,Neha,South,Office Supplies,Notebook ,26316,7173.0,,Offline
+1294,07-01-25,Neha,West,Furniture,Table,10958,,,Offline
+1295,22/01/2025,Ajay kumar,East,Furniture,Sofa  ,2372,,,Online
+1296,16/01/2025,Meena,East,Office Supplies,Pen Set,34451,299.0,,Offline
+1297,07/01/2025,Sunil,North,Furniture,Sofa ,34017,-4889.0,,Online
+1298,12/01/2025,Ravi,East,Office Supplies,Notebook,52018,-4897.0,,Offline
+1299,27/01/2025,Pooja,East,Technology,Headphones  ,45857,,,Online
+1300,11-01-25,Meena,South,Technology,Mobile phone ,31939,-2252.0,,Offline
+1301,14-01-25,Ravi,North,Furniture,Chair ,9024,,4.0,Online
+1302,14/01/2025,,South,Technology,Laptop,17172,8198.0,,Online
+1303,24/01/2025,Suman,West,Furniture,Table ,41443,9311.0,6.0,Offline
+1304,16/01/2025,Pooja,South,Office Supplies,Marker  ,5105,,6.0,Offline
+1305,01-01-25,Ajay kumar,West,Technology,Laptop  ,591,-1340.0,,Offline
+1306,04-01-25,Ramesh,East,Technology,Tablet  ,1463,,,Offline
+1307,13-01-25,Neha,West,Furniture,Table ,18633,,,Offline
+1308,27/01/2025,,West,Office Supplies,Notebook  ,44677,,9.0,Online
+1309,12/01/2025,Sunil,West,Technology,Laptop ,32120,712.0,,Offline
+1310,10/01/2025,Ravi,North,Technology,Laptop  ,14602,9181.0,3.0,Offline
+1311,22-01-25,,North,Technology,Headphones  ,9442,575.0,,Offline
+1312,03/01/2025,Pooja,South,Furniture,Table,9804,,5.0,Offline
+1313,11-01-25,Suman,West,Technology,Headphones ,27007,-3291.0,10.0,Offline
+1314,03/01/2025,Arun,North,Technology,Laptop  ,33960,-663.0,10.0,Online
+1315,29-01-25,Arun,North,Furniture,Table,54774,4903.0,,Offline
+1316,03/01/2025,Neha,East,Technology,Headphones,10022,-1309.0,2.0,Offline
+1317,11-01-25,Arun,East,Office Supplies,Notebook,47742,,3.0,Offline
+1318,16/01/2025,Kiran,North,Office Supplies,Notebook  ,42340,-2068.0,3.0,Offline
+1319,11-01-25,Suman,North,Technology,Mobile phone,50792,758.0,,Online
+1320,10-01-25,Sunil,East,Furniture,Chair,59151,3924.0,8.0,Offline
+1321,14/01/2025,Sunil,South,Office Supplies,Notebook,50572,,1.0,Online
+1322,01/01/2025,,East,Furniture,Sofa ,19248,,,Online
+1323,26/01/2025,Ramesh,North,Technology,Tablet  ,3509,-3580.0,6.0,Online
+1324,12-01-25,Ajay kumar,North,Furniture,Table ,17412,,5.0,Online
+1325,21/01/2025,,North,Technology,Mobile phone,52042,,,Offline
+1326,01/01/2025,Suman,East,Office Supplies,Marker,26740,275.0,6.0,Online
+1327,09-01-25,Ajay kumar,West,Technology,Laptop ,17380,8592.0,8.0,Online
+1328,01-01-25,Ravi,West,Office Supplies,Notebook,52372,-1817.0,,Offline
+1329,09/01/2025,Neha,East,Technology,Mobile phone ,27293,8845.0,,Online
+1330,15-01-25,Ajay kumar,East,Technology,Laptop ,49139,,4.0,Offline
+1331,29-01-25,Kiran,West,Technology,Tablet,39201,,,Online
+1332,08/01/2025,Ajay kumar,South,Furniture,Chair,57493,-4282.0,9.0,Offline
+1333,02/01/2025,Sunil,West,Technology,Mobile phone ,34583,,,Offline
+1334,22-01-25,Suman,South,Office Supplies,Pen Set ,35330,-1713.0,,Online
+1335,31-01-25,Neha,North,Technology,Headphones,8728,7796.0,,Offline
+1336,17-01-25,Sunil,North,Furniture,Table ,53014,,2.0,Online
+1337,22/01/2025,Pooja,West,Technology,Headphones,44441,,,Online
+1338,02-01-25,Kiran,West,Furniture,Table,23174,53.0,,Offline
+1339,17/01/2025,Arun,East,Furniture,Chair ,49876,,1.0,Offline
+1340,24-01-25,Pooja,North,Office Supplies,Marker,3073,,,Offline
+1341,28/01/2025,Ajay kumar,East,Furniture,Table  ,52783,,8.0,Online
+1342,04-01-25,Ravi,South,Furniture,Sofa,20781,6728.0,,Offline
+1343,15/01/2025,,South,Technology,Mobile phone,12200,3112.0,2.0,Offline
+1344,28/01/2025,Ajay kumar,South,Office Supplies,Pen Set  ,17000,4877.0,,Offline
+1345,12/01/2025,Neha,South,Furniture,Table ,21790,,5.0,Online
+1346,29-01-25,Sunil,West,Technology,Laptop,28019,,,Online
+1347,31-01-25,Ravi,East,Furniture,Table,36595,-3954.0,,Offline
+1348,31-01-25,Meena,North,Technology,Tablet  ,59247,1184.0,,Offline
+1349,17/01/2025,Kiran,South,Furniture,Table  ,51818,,,Offline
+1350,15/01/2025,Neha,North,Furniture,Chair ,11470,,6.0,Online
+1351,25-01-25,Ravi,South,Office Supplies,Notebook  ,49402,-2368.0,,Online
+1352,22-01-25,Sunil,West,Furniture,Chair ,41920,5006.0,7.0,Offline
+1353,29/01/2025,,South,Technology,Tablet,35655,,1.0,Offline
+1354,26-01-25,,South,Office Supplies,Marker ,59202,3154.0,,Offline
+1355,02/01/2025,Arun,North,Office Supplies,Pen Set  ,32265,,,Offline
+1356,14-01-25,Sunil,South,Office Supplies,Notebook,52439,,,Offline
+1357,05-01-25,Ramesh,West,Technology,Tablet,57420,-1713.0,10.0,Offline
+1358,27/01/2025,Meena,West,Furniture,Chair ,47276,,10.0,Online
+1359,30-01-25,Ravi,South,Office Supplies,Pen Set,34577,,,Offline
+1360,11-01-25,Meena,South,Office Supplies,Notebook  ,21904,,7.0,Online
+1361,13-01-25,Meena,West,Office Supplies,Notebook  ,32117,,4.0,Offline
+1362,02/01/2025,Kiran,West,Furniture,Chair ,40437,,9.0,Online
+1363,18-01-25,Ajay kumar,West,Technology,Mobile phone ,43327,2343.0,,Online
+1364,30/01/2025,Pooja,South,Technology,Mobile phone  ,16046,7183.0,,Online
+1365,29/01/2025,Sunil,East,Furniture,Chair,41308,-4483.0,4.0,Offline
+1366,08/01/2025,Sunil,North,Furniture,Table,16613,,,Online
+1367,20-01-25,Meena,East,Technology,Mobile phone ,49816,-2967.0,,Online
+1368,10/01/2025,Sunil,South,Office Supplies,Notebook,24857,-3528.0,1.0,Offline
+1369,14/01/2025,Ramesh,West,Technology,Mobile phone,8715,103.0,4.0,Online
+1370,03-01-25,Neha,South,Furniture,Table ,22972,3775.0,,Offline
+1371,16-01-25,,North,Office Supplies,Notebook ,56220,9807.0,9.0,Online
+1372,07/01/2025,Ajay kumar,East,Office Supplies,Pen Set  ,11240,,7.0,Online
+1373,07-01-25,Kiran,North,Furniture,Table,14349,,10.0,Online
+1374,26/01/2025,Neha,West,Technology,Headphones  ,28497,,,Offline
+1375,11/01/2025,,East,Technology,Laptop ,28197,,6.0,Offline
+1376,30-01-25,Ajay kumar,East,Furniture,Table  ,27731,2144.0,1.0,Online
+1377,27/01/2025,Kiran,North,Office Supplies,Notebook ,6335,,1.0,Online
+1378,18-01-25,Neha,East,Technology,Laptop,25039,,,Online
+1379,02-01-25,Sunil,South,Office Supplies,Pen Set,5933,-1620.0,,Online
+1380,27-01-25,Pooja,East,Technology,Mobile phone  ,6688,,,Offline
+1381,07/01/2025,Suman,South,Furniture,Table  ,24333,-3271.0,,Offline
+1382,10-01-25,Meena,South,Technology,Tablet,53437,,5.0,Online
+1383,26-01-25,Suman,North,Technology,Headphones ,9769,1670.0,8.0,Online
+1384,17-01-25,Sunil,North,Technology,Tablet ,10265,4085.0,4.0,Offline
+1385,01/01/2025,Sunil,East,Office Supplies,Marker  ,48575,-851.0,9.0,Offline
+1386,27-01-25,Kiran,East,Office Supplies,Pen Set,59859,7702.0,4.0,Online
+1387,01/01/2025,Pooja,North,Office Supplies,Notebook  ,59938,,5.0,Online
+1388,09/01/2025,Pooja,East,Technology,Mobile phone  ,17376,7322.0,3.0,Online
+1389,01/01/2025,Neha,North,Furniture,Chair ,17774,2419.0,,Offline
+1390,24-01-25,Suman,North,Technology,Tablet ,26202,3714.0,6.0,Offline
+1391,03/01/2025,,West,Furniture,Sofa  ,25903,,,Offline
+1392,30-01-25,Meena,South,Technology,Tablet,25223,3431.0,5.0,Online
+1393,03/01/2025,Kiran,North,Furniture,Sofa,13784,,3.0,Online
+1394,09-01-25,,East,Furniture,Chair,30700,194.0,,Online
+1395,06-01-25,Ajay kumar,South,Office Supplies,Notebook,6871,2358.0,1.0,Online
+1396,15/01/2025,Pooja,East,Technology,Tablet  ,29479,1768.0,4.0,Offline
+1397,06/01/2025,Neha,East,Furniture,Sofa,36341,9407.0,,Online
+1398,28/01/2025,Arun,South,Furniture,Table  ,3938,,,Online
+1399,19/01/2025,Ramesh,East,Furniture,Table,54525,3916.0,9.0,Offline
+1400,13-01-25,Neha,South,Furniture,Chair ,6749,,10.0,Online
+1401,14/01/2025,Ajay kumar,West,Technology,Laptop ,23814,3699.0,10.0,Online
+1402,31/01/2025,Ajay kumar,West,Technology,Tablet,12084,,,Online
+1403,11/01/2025,,North,Furniture,Table ,57657,,3.0,Online
+1404,11-01-25,Suman,South,Office Supplies,Marker,16340,,,Online
+1405,07-01-25,Ravi,East,Furniture,Table ,32799,,5.0,Offline
+1406,05-01-25,,East,Technology,Tablet,23710,320.0,,Online
+1407,24/01/2025,Meena,South,Technology,Tablet,58303,5253.0,2.0,Online
+1408,16-01-25,Sunil,South,Office Supplies,Notebook,1942,,2.0,Online
+1409,15-01-25,Kiran,West,Technology,Laptop,12677,,,Offline
+1410,31/01/2025,Ajay kumar,East,Office Supplies,Notebook  ,28361,6575.0,4.0,Offline
+1411,27/01/2025,Ravi,South,Office Supplies,Marker ,43088,8216.0,7.0,Offline
+1412,01/01/2025,Pooja,South,Technology,Laptop  ,28753,,,Online
+1413,30/01/2025,Neha,South,Furniture,Table ,5977,3792.0,,Online
+1414,19-01-25,Ramesh,South,Technology,Laptop  ,1798,,,Offline
+1415,18/01/2025,Sunil,East,Technology,Headphones,37682,-3511.0,,Offline
+1416,14/01/2025,Neha,South,Furniture,Chair  ,3169,,7.0,Offline
+1417,20-01-25,Pooja,West,Furniture,Table,27946,,,Online
+1418,17-01-25,Meena,South,Technology,Laptop,2483,,,Online
+1419,28/01/2025,Meena,North,Office Supplies,Notebook,11715,5948.0,,Online
+1420,20/01/2025,,South,Office Supplies,Pen Set,23340,,9.0,Online
+1421,19-01-25,,East,Office Supplies,Notebook ,25092,,,Offline
+1422,10/01/2025,Ajay kumar,North,Office Supplies,Marker ,24761,,,Offline
+1423,27-01-25,Pooja,North,Office Supplies,Notebook,28925,,3.0,Online
+1424,04/01/2025,Arun,West,Office Supplies,Notebook,25755,-3494.0,,Offline
+1425,28/01/2025,,South,Office Supplies,Notebook,21249,-4170.0,,Offline
+1426,08/01/2025,Sunil,West,Furniture,Sofa  ,18252,,,Online
+1427,07/01/2025,Suman,South,Furniture,Chair ,9489,,4.0,Offline
+1428,01/01/2025,Sunil,North,Furniture,Chair ,1086,6371.0,3.0,Online
+1429,18/01/2025,,North,Technology,Mobile phone,10136,,,Offline
+1430,12/01/2025,Ajay kumar,East,Office Supplies,Marker  ,18349,,2.0,Online
+1431,11/01/2025,Sunil,East,Furniture,Sofa  ,10106,4747.0,,Offline
+1432,25-01-25,Arun,North,Office Supplies,Notebook  ,1925,,,Offline
+1433,25-01-25,Ajay kumar,North,Furniture,Chair,54240,-1618.0,9.0,Offline
+1434,09/01/2025,Arun,North,Furniture,Table  ,48094,,,Online
+1435,20-01-25,Arun,North,Office Supplies,Pen Set  ,50752,5845.0,4.0,Offline
+1436,02-01-25,Suman,North,Technology,Headphones,22982,-703.0,10.0,Offline
+1437,31-01-25,Sunil,East,Technology,Headphones ,29492,6344.0,,Offline
+1438,08-01-25,Ramesh,South,Office Supplies,Marker ,10622,-2707.0,2.0,Offline
+1439,25/01/2025,Ramesh,North,Furniture,Sofa ,20448,,5.0,Online
+1440,30/01/2025,Ajay kumar,South,Furniture,Table ,49006,,10.0,Offline
+1441,04-01-25,,East,Office Supplies,Marker ,8985,,5.0,Online
+1442,23/01/2025,Suman,North,Technology,Headphones,13244,,5.0,Offline
+1443,09/01/2025,Arun,West,Furniture,Chair ,29896,2115.0,9.0,Online
+1444,16/01/2025,Ramesh,South,Technology,Headphones  ,7514,,,Offline
+1445,16-01-25,Sunil,West,Office Supplies,Pen Set  ,5939,1560.0,,Offline
+1446,22-01-25,Neha,West,Furniture,Sofa,26297,1819.0,,Online
+1447,08/01/2025,Ajay kumar,North,Furniture,Table,3847,1470.0,,Offline
+1448,11/01/2025,Neha,South,Office Supplies,Notebook,49342,4622.0,9.0,Offline
+1449,03/01/2025,Suman,South,Technology,Tablet ,5618,2999.0,,Online
+1450,04/01/2025,Arun,South,Office Supplies,Marker,44674,,9.0,Offline
+1451,17/01/2025,Pooja,South,Furniture,Chair  ,43950,1545.0,5.0,Online
+1452,25-01-25,Kiran,North,Technology,Mobile phone,48905,4853.0,,Online
+1453,20/01/2025,Neha,North,Technology,Tablet,4226,,,Online
+1454,25/01/2025,Pooja,West,Technology,Laptop,9544,,4.0,Offline
+1455,09-01-25,Sunil,North,Furniture,Table,48294,,2.0,Online
+1456,05/01/2025,Meena,South,Furniture,Chair  ,7421,9967.0,,Offline
+1457,31-01-25,Meena,East,Technology,Mobile phone  ,53368,6244.0,9.0,Online
+1458,14/01/2025,Kiran,West,Office Supplies,Notebook  ,26631,7024.0,,Online
+1459,10/01/2025,Ajay kumar,West,Office Supplies,Pen Set  ,47740,,2.0,Online
+1460,12/01/2025,Sunil,East,Technology,Tablet ,46259,,,Offline
+1461,14/01/2025,Ajay kumar,West,Technology,Mobile phone ,18701,3802.0,6.0,Online
+1462,13/01/2025,,East,Furniture,Chair ,12332,-1225.0,1.0,Online
+1463,31-01-25,Sunil,South,Furniture,Table ,55126,9557.0,5.0,Offline
+1464,16-01-25,Pooja,North,Office Supplies,Pen Set,44434,5233.0,,Offline
+1465,11/01/2025,Arun,East,Office Supplies,Pen Set ,28196,5793.0,,Offline
+1466,14-01-25,Neha,North,Technology,Headphones  ,59812,,,Online
+1467,09-01-25,,East,Technology,Laptop ,32329,8848.0,,Offline
+1468,24-01-25,Ramesh,South,Furniture,Table  ,17546,,7.0,Offline
+1469,13-01-25,Suman,West,Furniture,Chair ,11219,1432.0,,Online
+1470,02/01/2025,Meena,North,Furniture,Table  ,19644,2326.0,,Online
+1471,31-01-25,Kiran,North,Office Supplies,Notebook  ,27460,,,Offline
+1472,29/01/2025,Ramesh,East,Technology,Tablet ,23349,659.0,1.0,Online
+1473,03/01/2025,Ravi,West,Technology,Headphones ,30249,1116.0,,Online
+1474,22-01-25,Suman,North,Furniture,Chair ,12535,,,Online
+1475,03-01-25,Meena,West,Furniture,Chair  ,22351,1716.0,5.0,Offline
+1476,05/01/2025,Pooja,East,Office Supplies,Pen Set  ,615,,3.0,Offline
+1477,30-01-25,Ravi,West,Office Supplies,Marker  ,37865,-2194.0,,Online
+1478,01-01-25,Ajay kumar,West,Technology,Headphones,12868,,10.0,Online
+1479,10/01/2025,Neha,North,Furniture,Sofa ,19793,,3.0,Offline
+1480,05-01-25,,South,Office Supplies,Notebook ,26126,7725.0,3.0,Online
+1481,25-01-25,Arun,West,Furniture,Chair,22224,-4694.0,,Online
+1482,06-01-25,Pooja,South,Office Supplies,Marker  ,9897,,2.0,Offline
+1483,09/01/2025,Suman,East,Furniture,Chair  ,42736,1432.0,,Online
+1484,24-01-25,Meena,East,Furniture,Chair  ,17048,7407.0,7.0,Offline
+1485,21-01-25,Kiran,East,Technology,Tablet,23378,9348.0,1.0,Offline
+1486,01/01/2025,Meena,East,Technology,Tablet ,42069,,2.0,Offline
+1487,23-01-25,Ajay kumar,West,Office Supplies,Marker  ,55720,,5.0,Online
+1488,05-01-25,Arun,West,Office Supplies,Pen Set  ,30127,4384.0,9.0,Offline
+1489,20-01-25,Meena,East,Furniture,Sofa  ,38711,-293.0,,Online
+1490,10/01/2025,Suman,East,Office Supplies,Marker  ,30029,2248.0,,Offline
+1491,12/01/2025,Kiran,West,Technology,Laptop ,2017,9942.0,4.0,Online
+1492,07-01-25,Arun,West,Technology,Headphones  ,13501,238.0,,Offline
+1493,15/01/2025,Sunil,South,Furniture,Table,51426,,,Online
+1494,25-01-25,Ramesh,South,Furniture,Sofa ,15958,-4724.0,,Offline
+1495,20-01-25,Suman,South,Technology,Tablet,48782,,9.0,Online
+1496,19-01-25,Ramesh,South,Furniture,Sofa,25703,,,Online
+1497,09-01-25,Pooja,North,Furniture,Chair  ,48841,464.0,,Online
+1498,25-01-25,Suman,East,Technology,Headphones ,1038,8061.0,,Online
+1499,31/01/2025,,West,Technology,Mobile phone,7986,5498.0,1.0,Offline
+1500,10/01/2025,Neha,North,Office Supplies,Pen Set  ,15576,5748.0,,Offline
+1501,14/01/2025,Meena,East,Furniture,Table ,48753,-424.0,,Online
+1502,20-01-25,,North,Office Supplies,Pen Set,7236,,2.0,Online
+1503,25-01-25,Suman,South,Furniture,Sofa,8713,,,Offline
+1504,09/01/2025,Suman,North,Office Supplies,Notebook ,50087,,10.0,Offline
+1505,02/01/2025,Pooja,West,Furniture,Table ,27646,,7.0,Offline
+1506,24-01-25,Pooja,East,Technology,Mobile phone ,56581,1931.0,,Offline
+1507,31-01-25,Ramesh,North,Technology,Laptop  ,33877,,,Online
+1508,20/01/2025,,West,Office Supplies,Marker,1814,,,Offline
+1509,23/01/2025,Ajay kumar,North,Furniture,Table,55681,6809.0,2.0,Offline
+1510,30-01-25,Suman,South,Office Supplies,Pen Set  ,42980,6781.0,9.0,Offline
+1511,24/01/2025,Neha,West,Office Supplies,Marker,52113,,,Online
+1512,13/01/2025,Meena,South,Furniture,Chair ,19204,,,Online
+1513,24-01-25,Ramesh,West,Technology,Mobile phone,36488,8039.0,,Offline
+1514,10-01-25,,West,Technology,Tablet,56019,6308.0,9.0,Offline
+1515,19-01-25,Suman,South,Furniture,Table ,53299,,,Online
+1516,25-01-25,Ramesh,West,Technology,Laptop  ,40468,-3673.0,,Online
+1517,10-01-25,Arun,South,Furniture,Chair  ,35659,,,Offline
+1518,17/01/2025,Ajay kumar,South,Office Supplies,Pen Set ,55731,,6.0,Online
+1519,27/01/2025,Neha,West,Technology,Headphones ,3039,9724.0,1.0,Online
+1520,17-01-25,Neha,East,Technology,Headphones  ,21701,9812.0,3.0,Online
+1521,31/01/2025,Neha,North,Office Supplies,Pen Set,39960,2887.0,7.0,Offline
+1522,11-01-25,Kiran,East,Office Supplies,Notebook ,4272,1016.0,,Offline
+1523,23-01-25,Meena,South,Office Supplies,Marker ,23263,4690.0,,Offline
+1524,21/01/2025,Ramesh,North,Furniture,Chair  ,15976,-509.0,,Online
+1525,03-01-25,Sunil,West,Office Supplies,Marker  ,30862,,10.0,Offline
+1526,29-01-25,Suman,West,Office Supplies,Notebook  ,36361,2392.0,7.0,Offline
+1527,10/01/2025,Kiran,North,Technology,Headphones,37759,,4.0,Offline
+1528,16-01-25,Ajay kumar,South,Technology,Tablet,37495,7854.0,,Offline
+1529,23/01/2025,Ajay kumar,South,Technology,Laptop  ,38334,,1.0,Online
+1530,30-01-25,Neha,North,Office Supplies,Marker,56430,,6.0,Online
+1531,14/01/2025,Meena,South,Furniture,Chair,33354,2062.0,10.0,Online
+1532,25-01-25,Suman,North,Furniture,Sofa  ,3008,9931.0,6.0,Offline
+1533,09-01-25,Arun,East,Furniture,Table,58589,-519.0,2.0,Offline
+1534,05-01-25,Suman,North,Technology,Headphones ,29816,,7.0,Online
+1535,12/01/2025,Meena,South,Furniture,Chair,35052,,7.0,Offline
+1536,15-01-25,Ravi,West,Office Supplies,Notebook,10335,-127.0,6.0,Online
+1537,18-01-25,Kiran,South,Technology,Headphones,18223,,10.0,Offline
+1538,05/01/2025,Ramesh,West,Technology,Laptop,8821,399.0,,Offline
+1539,29/01/2025,Meena,West,Technology,Laptop  ,48997,,6.0,Offline
+1540,25-01-25,Suman,South,Furniture,Chair,29442,-734.0,,Offline
+1541,01/01/2025,Ajay kumar,West,Office Supplies,Marker  ,44091,,,Online
+1542,20-01-25,,North,Technology,Headphones  ,3867,,,Offline
+1543,12-01-25,Suman,West,Office Supplies,Pen Set  ,9028,,2.0,Online
+1544,02-01-25,Arun,East,Furniture,Chair,19589,,4.0,Offline
+1545,17-01-25,Pooja,North,Office Supplies,Marker ,10472,8810.0,,Online
+1546,08-01-25,Ajay kumar,South,Technology,Tablet  ,53013,2353.0,,Offline
+1547,24-01-25,,North,Technology,Headphones  ,39816,-1625.0,,Online
+1548,06-01-25,Kiran,North,Furniture,Table  ,838,2393.0,,Offline
+1549,04/01/2025,Sunil,West,Office Supplies,Notebook,40258,-4623.0,,Online
+1550,13-01-25,Meena,West,Technology,Laptop  ,50656,5945.0,5.0,Online
+1551,05-01-25,Arun,West,Furniture,Table,19058,,,Offline
+1552,16-01-25,Meena,South,Technology,Mobile phone ,42582,-3200.0,,Online
+1553,09/01/2025,Pooja,East,Furniture,Table ,19302,,,Offline
+1554,12/01/2025,Kiran,North,Office Supplies,Marker  ,16230,,2.0,Online
+1555,02/01/2025,,North,Furniture,Chair ,56454,6747.0,,Offline
+1556,16/01/2025,Meena,South,Technology,Laptop ,11059,813.0,,Offline
+1557,13-01-25,Kiran,East,Technology,Headphones  ,14840,8182.0,,Online
+1558,26-01-25,Arun,West,Technology,Laptop ,18431,,,Offline
+1559,22-01-25,Ajay kumar,South,Technology,Headphones  ,11393,2115.0,6.0,Offline
+1560,20-01-25,Meena,West,Furniture,Table ,29278,1955.0,,Offline
+1561,24-01-25,Suman,North,Technology,Mobile phone  ,34368,-3274.0,6.0,Offline
+1562,14-01-25,Meena,South,Technology,Tablet  ,14638,-2794.0,9.0,Offline
+1563,17/01/2025,Sunil,West,Office Supplies,Marker  ,41709,,,Offline
+1564,19-01-25,Kiran,East,Office Supplies,Notebook,30658,8748.0,1.0,Offline
+1565,04-01-25,Arun,West,Furniture,Table,32277,,,Online
+1566,27-01-25,Neha,East,Furniture,Table,50921,,7.0,Online
+1567,12/01/2025,Arun,East,Technology,Laptop  ,59751,-3815.0,6.0,Online
+1568,21/01/2025,Suman,East,Furniture,Table ,19273,,,Offline
+1569,21-01-25,Ravi,West,Office Supplies,Pen Set  ,33184,-3863.0,,Offline
+1570,18/01/2025,Pooja,East,Technology,Mobile phone ,29624,6030.0,10.0,Online
+1571,01/01/2025,Meena,North,Office Supplies,Marker  ,15469,,9.0,Online
+1572,04/01/2025,Suman,South,Office Supplies,Marker ,31736,,,Offline
+1573,19/01/2025,Suman,West,Furniture,Sofa  ,29024,857.0,,Online
+1574,30/01/2025,Neha,West,Technology,Tablet,3975,-108.0,2.0,Offline
+1575,08-01-25,Neha,East,Technology,Laptop  ,27999,6531.0,,Online
+1576,15-01-25,Arun,North,Technology,Tablet ,5594,,,Offline
+1577,13/01/2025,Neha,North,Technology,Mobile phone,20398,,5.0,Online
+1578,11/01/2025,Suman,North,Furniture,Chair  ,59235,4976.0,1.0,Online
+1579,14/01/2025,Ramesh,North,Furniture,Sofa,59427,-1725.0,,Offline
+1580,24-01-25,Pooja,East,Office Supplies,Marker ,30935,4027.0,2.0,Offline
+1581,21/01/2025,Kiran,West,Furniture,Sofa,14826,1382.0,2.0,Online
+1582,29-01-25,Sunil,South,Technology,Laptop  ,48666,9078.0,3.0,Offline
+1583,02/01/2025,,West,Office Supplies,Marker,5476,22.0,,Offline
+1584,28/01/2025,Neha,South,Furniture,Chair  ,18597,8122.0,10.0,Online
+1585,17-01-25,Kiran,South,Furniture,Table  ,40679,,,Online
+1586,24-01-25,Meena,East,Office Supplies,Marker ,20195,4222.0,6.0,Offline
+1587,13-01-25,Kiran,North,Technology,Mobile phone  ,51333,,8.0,Online
+1588,19-01-25,Kiran,East,Technology,Headphones,57953,,,Online
+1589,19-01-25,,West,Technology,Mobile phone  ,6118,,8.0,Offline
+1590,30-01-25,Meena,East,Office Supplies,Pen Set  ,37600,-1366.0,6.0,Offline
+1591,25/01/2025,Pooja,East,Office Supplies,Pen Set ,32693,,8.0,Online
+1592,22-01-25,Arun,North,Furniture,Chair,32027,-4821.0,4.0,Online
+1593,10/01/2025,,West,Furniture,Sofa,9880,2731.0,,Offline
+1594,26-01-25,Arun,East,Furniture,Table,17624,,,Online
+1595,07/01/2025,Ravi,South,Furniture,Sofa,8202,,,Offline
+1596,10/01/2025,Kiran,West,Office Supplies,Notebook,46144,,10.0,Online
+1597,03/01/2025,Ajay kumar,North,Office Supplies,Marker  ,40508,-670.0,6.0,Offline
+1598,02/01/2025,Ajay kumar,East,Office Supplies,Pen Set,58552,6797.0,1.0,Online
+1599,22/01/2025,Arun,North,Technology,Mobile phone,27210,,7.0,Offline
+1600,26-01-25,Sunil,North,Office Supplies,Notebook ,5611,,,Online
+1601,19/01/2025,Sunil,West,Office Supplies,Marker  ,37863,7890.0,9.0,Online
+1602,03-01-25,Arun,East,Technology,Headphones,3314,,,Offline
+1603,23/01/2025,Neha,South,Technology,Laptop ,30803,,1.0,Offline
+1604,15/01/2025,Ajay kumar,West,Furniture,Chair ,34862,5005.0,,Offline
+1605,08-01-25,Kiran,West,Technology,Tablet ,1923,,8.0,Offline
+1606,21/01/2025,Arun,East,Office Supplies,Pen Set,38404,,9.0,Offline
+1607,17-01-25,Sunil,South,Office Supplies,Notebook ,7002,,2.0,Offline
+1608,07/01/2025,Ravi,East,Office Supplies,Marker  ,3892,,5.0,Online
+1609,30/01/2025,Ramesh,North,Office Supplies,Marker,56024,-2171.0,,Offline
+1610,16-01-25,Pooja,West,Technology,Headphones  ,8825,-4067.0,7.0,Offline
+1611,18/01/2025,,West,Furniture,Chair,14380,,,Offline
+1612,20/01/2025,Arun,West,Furniture,Sofa  ,29187,2278.0,,Online
+1613,28/01/2025,Pooja,North,Furniture,Table,2845,-430.0,6.0,Offline
+1614,27-01-25,Ravi,East,Furniture,Chair  ,6589,,,Online
+1615,23-01-25,Meena,East,Furniture,Sofa,42450,,,Online
+1616,13-01-25,Meena,North,Office Supplies,Notebook,7996,3508.0,,Offline
+1617,30/01/2025,Suman,East,Furniture,Table,6183,5726.0,,Offline
+1618,22/01/2025,Neha,North,Office Supplies,Marker ,37348,254.0,7.0,Offline
+1619,11/01/2025,Arun,West,Furniture,Sofa,9744,,,Online
+1620,04/01/2025,Sunil,North,Office Supplies,Notebook,30551,-601.0,7.0,Online
+1621,14-01-25,Arun,East,Office Supplies,Pen Set,8367,4998.0,8.0,Online
+1622,19-01-25,Ajay kumar,West,Furniture,Sofa,39881,,,Online
+1623,26/01/2025,Neha,East,Furniture,Chair ,34671,,4.0,Online
+1624,23/01/2025,,East,Technology,Tablet ,48662,,,Offline
+1625,11-01-25,Meena,South,Technology,Headphones,24788,,,Offline
+1626,12/01/2025,,East,Office Supplies,Notebook  ,59779,,,Online
+1627,05-01-25,Suman,West,Office Supplies,Notebook ,2318,9100.0,8.0,Online
+1628,09/01/2025,Ravi,South,Office Supplies,Pen Set,37793,,,Offline
+1629,04-01-25,Suman,East,Office Supplies,Marker,57874,,4.0,Online
+1630,28/01/2025,Ravi,South,Furniture,Sofa ,13686,1778.0,2.0,Online
+1631,18-01-25,Ravi,South,Furniture,Chair ,59585,3326.0,,Offline
+1632,03/01/2025,Meena,South,Technology,Headphones,12078,389.0,,Offline
+1633,03/01/2025,Kiran,North,Office Supplies,Marker ,21355,-3867.0,,Offline
+1634,30-01-25,,East,Technology,Tablet ,22043,8664.0,10.0,Offline
+1635,06-01-25,Pooja,West,Office Supplies,Marker  ,28732,-1963.0,,Online
+1636,09-01-25,Ravi,South,Office Supplies,Pen Set  ,34069,5661.0,,Offline
+1637,30-01-25,Ajay kumar,South,Technology,Mobile phone ,53457,,4.0,Online
+1638,12-01-25,Ajay kumar,East,Office Supplies,Marker  ,46522,-3920.0,7.0,Offline
+1639,17-01-25,Ravi,North,Office Supplies,Marker,12738,,10.0,Online
+1640,13-01-25,Neha,East,Furniture,Table,16837,1355.0,9.0,Online
+1641,26/01/2025,Suman,South,Office Supplies,Notebook ,39074,4605.0,9.0,Offline
+1642,12-01-25,Pooja,West,Office Supplies,Notebook,32358,8629.0,4.0,Online
+1643,05/01/2025,Pooja,West,Office Supplies,Marker,55373,,,Offline
+1644,25-01-25,Arun,South,Office Supplies,Notebook,2545,-3950.0,,Online
+1645,18/01/2025,Ramesh,East,Furniture,Sofa  ,23502,,,Online
+1646,11/01/2025,,East,Technology,Headphones,12763,111.0,3.0,Offline
+1647,16-01-25,Suman,North,Furniture,Table  ,47663,-1748.0,,Online
+1648,03/01/2025,Arun,West,Office Supplies,Marker  ,12688,3381.0,,Online
+1649,26/01/2025,Sunil,East,Office Supplies,Pen Set  ,28500,8404.0,,Online
+1650,14/01/2025,Meena,North,Furniture,Sofa,33140,485.0,,Offline
+1651,07/01/2025,Ramesh,North,Furniture,Chair ,15745,6068.0,10.0,Offline
+1652,05-01-25,Arun,South,Technology,Headphones ,16768,8612.0,,Offline
+1653,09-01-25,Ravi,South,Technology,Mobile phone  ,59822,6618.0,,Offline
+1654,05/01/2025,Arun,West,Office Supplies,Pen Set,10176,7409.0,,Online
+1655,29/01/2025,Sunil,South,Furniture,Table  ,39059,,6.0,Offline
+1656,15-01-25,Sunil,West,Furniture,Sofa,50817,,4.0,Online
+1657,30/01/2025,Ramesh,North,Furniture,Table,42273,,8.0,Offline
+1658,26-01-25,Ramesh,North,Office Supplies,Notebook,6929,-625.0,,Offline
+1659,09/01/2025,Neha,South,Technology,Laptop ,10116,9490.0,3.0,Online
+1660,17-01-25,Meena,North,Office Supplies,Notebook  ,18254,8876.0,,Online
+1661,26/01/2025,Neha,West,Technology,Headphones,57215,,,Offline
+1662,14-01-25,Kiran,East,Technology,Laptop ,53137,1140.0,,Offline
+1663,08-01-25,Neha,East,Office Supplies,Notebook,57215,4082.0,,Offline
+1664,18/01/2025,Pooja,South,Office Supplies,Notebook,45905,3953.0,3.0,Offline
+1665,21/01/2025,Suman,South,Office Supplies,Marker,8119,-3822.0,,Online
+1666,15-01-25,Kiran,West,Furniture,Chair  ,40720,-2161.0,,Online
+1667,06/01/2025,Neha,North,Technology,Tablet ,30867,,,Online
+1668,11-01-25,Ajay kumar,North,Office Supplies,Marker ,5885,8053.0,5.0,Online
+1669,17/01/2025,Ravi,West,Technology,Tablet  ,9614,,,Offline
+1670,19-01-25,Sunil,South,Furniture,Table  ,19907,1759.0,1.0,Online
+1671,08-01-25,Kiran,North,Furniture,Chair,22533,,6.0,Online
+1672,31-01-25,Arun,West,Technology,Tablet ,12321,,,Offline
+1673,23/01/2025,,East,Technology,Headphones,14407,,,Offline
+1674,06/01/2025,Meena,North,Technology,Mobile phone ,25604,6392.0,,Offline
+1675,23-01-25,Arun,West,Technology,Mobile phone,4229,,,Offline
+1676,23-01-25,Ajay kumar,West,Office Supplies,Marker,4387,750.0,3.0,Offline
+1677,27/01/2025,Ajay kumar,East,Furniture,Table  ,54055,,7.0,Offline
+1678,01-01-25,Sunil,North,Office Supplies,Marker ,50800,,,Offline
+1679,07-01-25,Arun,East,Furniture,Table ,58578,,3.0,Offline
+1680,20/01/2025,Sunil,North,Furniture,Sofa ,18941,,1.0,Online
+1681,15-01-25,Neha,North,Furniture,Table ,30885,,,Online
+1682,04/01/2025,Kiran,North,Technology,Mobile phone,48815,5738.0,,Offline
+1683,03/01/2025,Ajay kumar,South,Technology,Mobile phone ,20439,9553.0,5.0,Offline
+1684,23/01/2025,Pooja,East,Office Supplies,Marker ,28484,,,Offline
+1685,14-01-25,Suman,North,Technology,Tablet  ,49357,-2985.0,1.0,Offline
+1686,16-01-25,Suman,South,Technology,Mobile phone,16638,873.0,2.0,Online
+1687,03/01/2025,Ajay kumar,North,Furniture,Chair  ,53754,-4286.0,,Online
+1688,17/01/2025,Ramesh,West,Technology,Headphones ,55604,,9.0,Offline
+1689,04/01/2025,Ramesh,South,Office Supplies,Marker  ,3673,9721.0,,Online
+1690,22/01/2025,Ajay kumar,North,Furniture,Sofa  ,45115,5749.0,,Offline
+1691,13-01-25,Neha,North,Office Supplies,Pen Set  ,38482,3874.0,,Offline
+1692,15/01/2025,Sunil,South,Office Supplies,Pen Set,24271,,,Online
+1693,31-01-25,,North,Furniture,Table,50375,4097.0,,Online
+1694,10-01-25,Ramesh,North,Furniture,Chair ,32763,2344.0,,Offline
+1695,28-01-25,Suman,East,Furniture,Table,49974,,1.0,Offline
+1696,08/01/2025,Suman,West,Office Supplies,Pen Set,11917,,,Online
+1697,02/01/2025,Meena,East,Office Supplies,Pen Set  ,14665,6248.0,9.0,Online
+1698,09-01-25,,East,Office Supplies,Notebook ,38692,,9.0,Online
+1699,28/01/2025,Neha,East,Technology,Laptop,4336,,,Offline
+1700,10/01/2025,Meena,South,Technology,Mobile phone  ,2866,7448.0,,Offline
+1701,21/01/2025,Suman,North,Furniture,Chair ,1501,5287.0,,Offline
+1702,28/01/2025,,North,Technology,Tablet  ,16301,8483.0,2.0,Online
+1703,05/01/2025,Pooja,East,Furniture,Chair,33855,1731.0,,Offline
+1704,21/01/2025,Sunil,North,Furniture,Table,40226,7623.0,2.0,Offline
+1705,16/01/2025,,West,Technology,Headphones,22617,,,Online
+1706,01/01/2025,Ravi,North,Furniture,Sofa ,44164,,,Offline
+1707,27/01/2025,Kiran,West,Technology,Mobile phone ,57305,5738.0,,Offline
+1708,13-01-25,,West,Technology,Tablet  ,54137,,,Offline
+1709,24-01-25,Ajay kumar,East,Furniture,Sofa ,14138,,,Offline
+1710,10-01-25,Pooja,West,Furniture,Sofa  ,36145,,,Online
+1711,20-01-25,Kiran,East,Technology,Mobile phone  ,56653,1933.0,,Offline
+1712,08-01-25,Sunil,West,Technology,Laptop ,53291,,6.0,Online
+1713,05-01-25,Ravi,North,Furniture,Table,6417,,7.0,Offline
+1714,08/01/2025,Ajay kumar,North,Technology,Tablet,15925,8536.0,,Online
+1715,26-01-25,Ravi,West,Office Supplies,Marker ,2264,,,Offline
+1716,20-01-25,Pooja,West,Office Supplies,Pen Set ,26586,2443.0,4.0,Offline
+1717,25/01/2025,Ravi,West,Furniture,Sofa  ,10303,8942.0,,Online
+1718,22-01-25,Sunil,South,Furniture,Chair  ,26154,4057.0,,Offline
+1719,30/01/2025,Kiran,West,Technology,Laptop,4904,,2.0,Online
+1720,18/01/2025,Meena,West,Furniture,Chair,38906,,3.0,Online
+1721,10-01-25,Ravi,South,Office Supplies,Notebook ,5036,,2.0,Online
+1722,21-01-25,Meena,East,Furniture,Chair ,46698,,,Offline
+1723,29/01/2025,,East,Furniture,Chair ,56703,118.0,,Offline
+1724,11/01/2025,Ramesh,East,Furniture,Table,30753,-3946.0,,Offline
+1725,17/01/2025,Neha,West,Office Supplies,Marker  ,7148,,5.0,Online
+1726,02/01/2025,Ravi,South,Technology,Tablet  ,14353,7722.0,,Online
+1727,14-01-25,Sunil,South,Office Supplies,Pen Set  ,20782,,5.0,Online
+1728,10/01/2025,Suman,South,Technology,Tablet,3220,,10.0,Online
+1729,25/01/2025,Arun,East,Technology,Laptop,32281,,1.0,Offline
+1730,17/01/2025,,South,Furniture,Sofa,37467,7223.0,,Offline
+1731,12-01-25,Suman,South,Office Supplies,Marker,35646,8729.0,6.0,Online
+1732,09/01/2025,Meena,East,Office Supplies,Marker,18225,,4.0,Offline
+1733,30-01-25,Ajay kumar,North,Office Supplies,Notebook ,2342,,,Offline
+1734,17-01-25,Pooja,West,Technology,Laptop ,33033,7748.0,9.0,Online
+1735,10-01-25,Arun,South,Office Supplies,Pen Set  ,49429,2411.0,,Online
+1736,12/01/2025,Sunil,South,Technology,Mobile phone,49816,-395.0,1.0,Offline
+1737,02-01-25,Suman,North,Technology,Mobile phone ,38212,1860.0,,Offline
+1738,04-01-25,Pooja,North,Office Supplies,Marker ,31419,,6.0,Offline
+1739,31-01-25,Meena,North,Furniture,Sofa  ,2187,,4.0,Online
+1740,20/01/2025,Ramesh,North,Technology,Laptop ,55550,,,Online
+1741,20-01-25,Ajay kumar,West,Technology,Tablet  ,31825,,,Offline
+1742,19/01/2025,Suman,West,Technology,Tablet  ,15152,,6.0,Online
+1743,15/01/2025,Kiran,North,Furniture,Table  ,32594,2602.0,5.0,Online
+1744,12/01/2025,Ravi,West,Furniture,Table ,25912,,6.0,Offline
+1745,29/01/2025,Meena,North,Furniture,Table  ,26645,2914.0,10.0,Online
+1746,09-01-25,Ravi,West,Technology,Headphones  ,17406,,3.0,Offline
+1747,24/01/2025,Suman,West,Furniture,Chair,18403,-1241.0,,Online
+1748,02-01-25,Arun,West,Furniture,Chair  ,39146,,2.0,Offline
+1749,28-01-25,Pooja,North,Office Supplies,Marker  ,14182,9323.0,6.0,Offline
+1750,23/01/2025,,South,Furniture,Chair ,1134,,4.0,Online
+1751,25/01/2025,Meena,West,Furniture,Chair ,13243,,,Online
+1752,01-01-25,Arun,North,Furniture,Sofa  ,54071,,9.0,Online
+1753,16-01-25,Meena,East,Office Supplies,Marker ,27832,3342.0,,Online
+1754,14-01-25,Ajay kumar,East,Office Supplies,Pen Set,56568,-3990.0,9.0,Offline
+1755,09/01/2025,Ravi,West,Furniture,Sofa  ,5019,,,Offline
+1756,06-01-25,Sunil,East,Office Supplies,Marker  ,52029,,,Offline
+1757,15/01/2025,Arun,East,Technology,Laptop ,57717,5067.0,,Online
+1758,03/01/2025,Arun,East,Office Supplies,Marker ,10282,1611.0,,Online
+1759,28-01-25,Sunil,South,Furniture,Chair,55654,9531.0,,Offline
+1760,20/01/2025,Sunil,West,Technology,Laptop ,1193,6927.0,6.0,Online
+1761,18/01/2025,Pooja,South,Office Supplies,Marker ,54799,,3.0,Online
+1762,31/01/2025,Meena,South,Technology,Laptop ,57562,4060.0,,Offline
+1763,24/01/2025,Neha,West,Office Supplies,Notebook,57717,-3228.0,7.0,Online
+1764,10-01-25,Kiran,North,Furniture,Chair ,48603,7681.0,,Offline
+1765,26-01-25,Sunil,North,Technology,Laptop ,37178,-654.0,7.0,Online
+1766,14-01-25,,South,Furniture,Table  ,6239,,2.0,Offline
+1767,15/01/2025,Meena,East,Technology,Mobile phone  ,17419,,4.0,Offline
+1768,20-01-25,Suman,West,Technology,Mobile phone  ,18286,6466.0,1.0,Offline
+1769,18-01-25,Neha,West,Office Supplies,Notebook ,26957,-2677.0,,Offline
+1770,08/01/2025,Ravi,South,Technology,Headphones ,23752,,9.0,Offline
+1771,20/01/2025,Arun,South,Furniture,Sofa,47540,,,Offline
+1772,21/01/2025,Suman,South,Furniture,Chair  ,25677,-2761.0,,Online
+1773,09-01-25,Suman,East,Furniture,Table  ,50816,6622.0,,Online
+1774,24/01/2025,Kiran,South,Office Supplies,Pen Set ,857,,,Offline
+1775,31/01/2025,Meena,West,Technology,Laptop  ,45876,,7.0,Online
+1776,25/01/2025,Suman,South,Technology,Tablet  ,5626,7933.0,9.0,Offline
+1777,24/01/2025,Sunil,East,Technology,Headphones ,10781,,8.0,Online
+1778,31/01/2025,Arun,East,Office Supplies,Notebook,39532,,3.0,Offline
+1779,04/01/2025,Ramesh,West,Furniture,Sofa  ,37528,7275.0,2.0,Online
+1780,11-01-25,Meena,South,Furniture,Sofa ,1200,-2593.0,7.0,Online
+1781,02/01/2025,Kiran,North,Furniture,Sofa ,36884,,,Offline
+1782,30-01-25,,North,Technology,Tablet ,59459,5453.0,7.0,Online
+1783,29/01/2025,Kiran,West,Technology,Mobile phone ,54873,1667.0,,Offline
+1784,12-01-25,Neha,East,Technology,Laptop ,29828,3204.0,,Offline
+1785,13-01-25,Neha,South,Furniture,Chair  ,7894,-2817.0,,Online
+1786,10/01/2025,,West,Furniture,Chair,45116,1524.0,,Online
+1787,24/01/2025,Suman,East,Technology,Tablet ,53534,537.0,10.0,Online
+1788,12-01-25,Kiran,South,Technology,Headphones ,34762,,,Offline
+1789,26-01-25,Ravi,South,Office Supplies,Pen Set,37591,-3566.0,,Offline
+1790,04-01-25,Ajay kumar,East,Office Supplies,Marker  ,39044,-1832.0,2.0,Online
+1791,19-01-25,Ramesh,South,Technology,Headphones ,33647,7319.0,,Offline
+1792,22-01-25,Arun,South,Furniture,Chair,30368,,3.0,Online
+1793,31-01-25,Meena,West,Office Supplies,Notebook ,24931,,7.0,Offline
+1794,21-01-25,Sunil,South,Furniture,Sofa ,9741,,,Offline
+1795,10/01/2025,Arun,West,Technology,Tablet  ,53671,,6.0,Online
+1796,23/01/2025,,West,Furniture,Table,42730,,,Offline
+1797,19/01/2025,Pooja,South,Technology,Mobile phone  ,57780,-989.0,1.0,Online
+1798,01/01/2025,,North,Furniture,Chair ,1143,9291.0,9.0,Online
+1799,20/01/2025,Sunil,West,Furniture,Chair  ,14252,7678.0,,Offline
+1800,28-01-25,Pooja,West,Technology,Tablet ,59405,,,Online
+1801,24-01-25,Pooja,South,Furniture,Sofa,38367,2789.0,,Offline
+1802,28/01/2025,Ajay kumar,West,Technology,Laptop,25885,1328.0,3.0,Offline
+1803,15/01/2025,Neha,East,Technology,Mobile phone,50233,,,Offline
+1804,19/01/2025,Neha,South,Office Supplies,Marker ,35830,,2.0,Online
+1805,25/01/2025,Suman,North,Technology,Headphones  ,23731,,,Online
+1806,26-01-25,Kiran,South,Office Supplies,Marker  ,20093,,3.0,Offline
+1807,01/01/2025,Ravi,North,Furniture,Table,8870,,,Offline
+1808,28/01/2025,Ramesh,East,Furniture,Chair,36981,,,Offline
+1809,15-01-25,Suman,East,Technology,Tablet ,31404,4070.0,10.0,Online
+1810,20-01-25,Arun,North,Technology,Laptop,54126,,,Online
+1811,24/01/2025,Ajay kumar,North,Furniture,Sofa  ,4158,,8.0,Offline
+1812,02/01/2025,Suman,East,Office Supplies,Pen Set  ,10634,,,Offline
+1813,20/01/2025,Ajay kumar,North,Office Supplies,Pen Set ,27204,,,Offline
+1814,23/01/2025,Kiran,West,Furniture,Table  ,29932,,5.0,Online
+1815,26-01-25,Arun,East,Technology,Headphones,26341,,,Online
+1816,23-01-25,Ajay kumar,North,Technology,Mobile phone  ,48455,,1.0,Offline
+1817,17/01/2025,Meena,South,Furniture,Table ,19187,,8.0,Online
+1818,18-01-25,Suman,South,Furniture,Chair  ,38069,-4291.0,5.0,Online
+1819,30/01/2025,Ravi,South,Furniture,Chair  ,10690,-4078.0,1.0,Offline
+1820,14-01-25,Suman,East,Furniture,Sofa  ,13517,,,Offline
+1821,30-01-25,Ravi,South,Technology,Mobile phone  ,50944,,3.0,Offline
+1822,04/01/2025,Meena,West,Office Supplies,Notebook ,39411,5949.0,,Offline
+1823,31/01/2025,Ramesh,South,Office Supplies,Notebook ,17673,1864.0,9.0,Offline
+1824,23/01/2025,Ramesh,South,Technology,Tablet  ,48973,-1077.0,,Online
+1825,06/01/2025,Ajay kumar,East,Technology,Laptop ,24459,9482.0,,Offline
+1826,11/01/2025,Neha,West,Office Supplies,Pen Set,45025,3123.0,,Online
+1827,28/01/2025,Sunil,West,Technology,Mobile phone  ,57195,6254.0,,Offline
+1828,18-01-25,Pooja,West,Furniture,Sofa,35767,,5.0,Online
+1829,12/01/2025,Pooja,West,Furniture,Table ,55600,2230.0,,Online
+1830,28/01/2025,Sunil,South,Office Supplies,Notebook,28372,,,Offline
+1831,20-01-25,Ramesh,South,Office Supplies,Pen Set,9066,,,Online
+1832,02/01/2025,Meena,East,Furniture,Chair,43377,-2533.0,,Online
+1833,23/01/2025,Ajay kumar,West,Office Supplies,Marker  ,40311,2122.0,,Offline
+1834,10-01-25,Neha,South,Office Supplies,Pen Set ,15203,,,Offline
+1835,30-01-25,Pooja,East,Technology,Laptop,44083,494.0,5.0,Offline
+1836,15/01/2025,Arun,East,Furniture,Chair ,23838,-755.0,,Online
+1837,23-01-25,Pooja,West,Technology,Mobile phone,14087,-3224.0,5.0,Online
+1838,17/01/2025,Ajay kumar,South,Office Supplies,Notebook  ,6181,,,Online
+1839,05-01-25,,South,Office Supplies,Marker  ,50509,,,Online
+1840,21-01-25,Suman,East,Furniture,Chair,2093,,,Offline
+1841,24/01/2025,Suman,West,Technology,Mobile phone  ,36781,6961.0,,Online
+1842,04/01/2025,Ravi,East,Technology,Laptop  ,11506,360.0,9.0,Offline
+1843,15/01/2025,Ramesh,West,Technology,Headphones ,54979,,3.0,Online
+1844,15-01-25,Pooja,North,Furniture,Chair,49723,,7.0,Online
+1845,30/01/2025,,North,Office Supplies,Pen Set,8769,,8.0,Online
+1846,31-01-25,Neha,North,Technology,Laptop  ,51663,,,Offline
+1847,29/01/2025,Ramesh,West,Office Supplies,Pen Set  ,15096,,1.0,Online
+1848,31-01-25,Ramesh,North,Furniture,Chair,5769,,,Online
+1849,30-01-25,Arun,South,Furniture,Chair ,40825,962.0,,Offline
+1850,11/01/2025,,South,Furniture,Table  ,41687,,8.0,Online
+1851,20-01-25,Arun,South,Technology,Headphones  ,8445,,,Offline
+1852,08/01/2025,Neha,South,Office Supplies,Marker  ,45206,3236.0,10.0,Offline
+1853,18/01/2025,Neha,South,Office Supplies,Notebook ,28706,,,Online
+1854,04/01/2025,Suman,North,Furniture,Table  ,43125,,9.0,Offline
+1855,22/01/2025,Sunil,West,Furniture,Chair  ,3859,3365.0,3.0,Online
+1856,05/01/2025,Neha,South,Technology,Mobile phone ,29905,,2.0,Offline
+1857,02/01/2025,Ravi,West,Office Supplies,Marker ,14543,6435.0,,Online
+1858,02/01/2025,Kiran,South,Technology,Mobile phone  ,19162,-3638.0,9.0,Offline
+1859,14-01-25,Arun,North,Office Supplies,Pen Set,53722,1561.0,,Online
+1860,15/01/2025,Ajay kumar,North,Technology,Mobile phone  ,28344,,,Online
+1861,01-01-25,Ramesh,North,Office Supplies,Marker,56716,-2672.0,1.0,Offline
+1862,07/01/2025,Arun,North,Furniture,Sofa ,6150,6730.0,,Offline
+1863,23-01-25,,South,Technology,Laptop,45827,4584.0,,Online
+1864,07-01-25,Pooja,South,Technology,Tablet,14213,,8.0,Online
+1865,07-01-25,Arun,East,Technology,Headphones ,7527,3422.0,3.0,Online
+1866,15-01-25,Neha,East,Technology,Headphones,33129,-3849.0,,Online
+1867,01/01/2025,Pooja,North,Furniture,Table ,25358,4598.0,,Offline
+1868,29-01-25,Ramesh,North,Furniture,Chair  ,57509,5800.0,8.0,Online
+1869,26/01/2025,Pooja,West,Furniture,Table,11860,,5.0,Offline
+1870,02-01-25,Suman,West,Technology,Headphones ,34035,9518.0,,Online
+1871,02/01/2025,Pooja,West,Technology,Mobile phone  ,51548,,6.0,Offline
+1872,26/01/2025,Meena,South,Furniture,Chair ,961,,9.0,Offline
+1873,02/01/2025,Arun,East,Furniture,Sofa,1857,,,Offline
+1874,07-01-25,Sunil,West,Office Supplies,Notebook  ,10535,,,Offline
+1875,26-01-25,,East,Furniture,Table,6423,2299.0,,Offline
+1876,31-01-25,Suman,East,Technology,Headphones,23902,6581.0,,Offline
+1877,31/01/2025,Arun,North,Office Supplies,Pen Set  ,17502,,,Online
+1878,07/01/2025,Meena,North,Furniture,Chair ,11032,,,Online
+1879,10-01-25,,East,Office Supplies,Pen Set  ,48606,5775.0,,Online
+1880,30/01/2025,Arun,North,Technology,Laptop  ,51390,,4.0,Offline
+1881,12/01/2025,Kiran,South,Office Supplies,Marker  ,30917,-362.0,6.0,Offline
+1882,31-01-25,Ajay kumar,East,Technology,Headphones,38014,-3973.0,2.0,Offline
+1883,19-01-25,Suman,North,Furniture,Chair,9685,-4807.0,3.0,Offline
+1884,09-01-25,Suman,West,Office Supplies,Pen Set ,9490,9845.0,9.0,Offline
+1885,12-01-25,,West,Technology,Headphones ,54537,,9.0,Offline
+1886,16-01-25,Sunil,East,Furniture,Table ,14383,-360.0,,Online
+1887,03/01/2025,Ajay kumar,North,Office Supplies,Pen Set ,24374,9660.0,,Online
+1888,20/01/2025,Meena,East,Furniture,Table,14725,,2.0,Offline
+1889,05-01-25,Arun,West,Office Supplies,Pen Set  ,34236,5527.0,,Offline
+1890,03/01/2025,Neha,East,Technology,Laptop ,8095,-1933.0,7.0,Online
+1891,23-01-25,Ravi,North,Furniture,Sofa,26612,,6.0,Offline
+1892,06/01/2025,,South,Office Supplies,Notebook  ,28929,,,Offline
+1893,26/01/2025,Kiran,West,Office Supplies,Notebook ,26262,3568.0,10.0,Offline
+1894,08-01-25,Neha,East,Furniture,Table  ,19347,,9.0,Offline
+1895,19/01/2025,Ajay kumar,South,Office Supplies,Notebook,52133,3148.0,,Offline
+1896,06/01/2025,Ajay kumar,South,Technology,Mobile phone,23568,1785.0,10.0,Online
+1897,14/01/2025,Neha,North,Furniture,Chair ,11235,,7.0,Online
+1898,08-01-25,Kiran,West,Technology,Mobile phone ,4862,-721.0,,Online
+1899,24/01/2025,Ramesh,West,Furniture,Table,37694,,,Offline
+1900,21/01/2025,Neha,East,Technology,Tablet  ,50845,-571.0,,Offline
+1901,04-01-25,Suman,West,Furniture,Sofa ,43818,,5.0,Offline
+1902,14/01/2025,Neha,North,Technology,Tablet,31993,,,Offline
+1903,05/01/2025,Ravi,South,Furniture,Table  ,34808,,,Offline
+1904,03/01/2025,Arun,East,Technology,Laptop,59163,,10.0,Offline
+1905,11/01/2025,Meena,West,Technology,Mobile phone  ,59788,244.0,3.0,Offline
+1906,17/01/2025,Kiran,West,Furniture,Sofa ,4567,8863.0,6.0,Offline
+1907,19-01-25,Neha,East,Office Supplies,Pen Set ,27708,,2.0,Online
+1908,24-01-25,,West,Technology,Mobile phone,54952,-4320.0,,Online
+1909,10-01-25,Ajay kumar,East,Office Supplies,Marker,25587,6142.0,,Online
+1910,14-01-25,Sunil,East,Technology,Headphones,10147,1278.0,,Offline
+1911,02-01-25,Ravi,South,Office Supplies,Marker ,13467,,1.0,Offline
+1912,06/01/2025,Kiran,East,Furniture,Chair  ,35174,1744.0,,Offline
+1913,29-01-25,Pooja,North,Office Supplies,Pen Set ,34161,,8.0,Offline
+1914,21-01-25,Ravi,East,Office Supplies,Pen Set  ,24645,,7.0,Online
+1915,14-01-25,Arun,East,Office Supplies,Marker,47515,,7.0,Offline
+1916,03-01-25,Suman,West,Office Supplies,Pen Set,51824,-2636.0,9.0,Offline
+1917,20/01/2025,Ravi,East,Office Supplies,Notebook,45665,892.0,8.0,Offline
+1918,30/01/2025,Ajay kumar,North,Furniture,Sofa,17759,,6.0,Offline
+1919,29/01/2025,Pooja,South,Furniture,Table  ,56376,1773.0,1.0,Offline
+1920,18/01/2025,Arun,East,Furniture,Chair,29148,7733.0,4.0,Offline
+1921,28-01-25,Ramesh,South,Office Supplies,Marker,47074,,4.0,Online
+1922,13-01-25,Pooja,North,Furniture,Chair,38541,,7.0,Offline
+1923,22/01/2025,Sunil,South,Technology,Laptop,7163,,,Offline
+1924,20-01-25,Ajay kumar,North,Technology,Laptop,48209,257.0,5.0,Online
+1925,23-01-25,Kiran,South,Office Supplies,Notebook ,47802,,3.0,Online
+1926,07-01-25,Meena,South,Technology,Mobile phone ,25475,-2072.0,9.0,Online
+1927,03/01/2025,Ajay kumar,East,Office Supplies,Notebook  ,4778,2597.0,,Offline
+1928,01-01-25,Ramesh,North,Furniture,Table,30348,2242.0,4.0,Offline
+1929,31/01/2025,Neha,East,Technology,Tablet,1534,,1.0,Online
+1930,04/01/2025,Pooja,South,Office Supplies,Pen Set ,35384,,4.0,Offline
+1931,24-01-25,Meena,South,Office Supplies,Notebook ,42562,2601.0,8.0,Online
+1932,07-01-25,Sunil,North,Technology,Mobile phone  ,15488,1247.0,7.0,Offline
+1933,10/01/2025,Neha,North,Office Supplies,Notebook  ,28586,1602.0,1.0,Online
+1934,08/01/2025,Kiran,North,Furniture,Table,34198,,,Offline
+1935,11/01/2025,Sunil,North,Technology,Tablet,22915,,3.0,Offline
+1936,27/01/2025,Arun,East,Office Supplies,Pen Set ,34539,,,Offline
+1937,27-01-25,Kiran,North,Furniture,Sofa ,45278,,5.0,Offline
+1938,30-01-25,Sunil,South,Office Supplies,Notebook,1251,,7.0,Online
+1939,31/01/2025,Pooja,West,Office Supplies,Notebook ,14657,,5.0,Offline
+1940,08-01-25,Kiran,North,Office Supplies,Notebook ,9245,,5.0,Offline
+1941,30/01/2025,Kiran,South,Technology,Mobile phone ,28728,,,Online
+1942,09-01-25,Suman,West,Furniture,Table  ,31986,,3.0,Online
+1943,11/01/2025,,North,Furniture,Chair ,37774,7855.0,4.0,Online
+1944,18/01/2025,Meena,East,Furniture,Table ,41916,1268.0,7.0,Online
+1945,21-01-25,Sunil,South,Furniture,Chair,37982,346.0,,Online
+1946,18-01-25,Ravi,North,Furniture,Table ,37790,,,Offline
+1947,04/01/2025,,South,Furniture,Table,55701,4460.0,7.0,Offline
+1948,10/01/2025,Suman,South,Office Supplies,Notebook,45383,,,Offline
+1949,03/01/2025,Suman,South,Technology,Laptop,27873,8397.0,,Offline
+1950,23/01/2025,Arun,East,Technology,Laptop,2065,725.0,1.0,Online
+1951,21/01/2025,Meena,East,Furniture,Sofa  ,49200,,7.0,Offline
+1952,19/01/2025,Ajay kumar,West,Office Supplies,Notebook ,43729,,,Online
+1953,14-01-25,Ramesh,North,Furniture,Sofa,37729,,,Online
+1954,22/01/2025,Ajay kumar,North,Office Supplies,Marker  ,36064,,,Online
+1955,16-01-25,Ravi,South,Furniture,Chair  ,33508,,,Online
+1956,28/01/2025,,South,Furniture,Chair  ,40026,,,Online
+1957,22-01-25,Ramesh,East,Office Supplies,Marker,17624,1668.0,6.0,Offline
+1958,07-01-25,,North,Office Supplies,Notebook ,40927,8701.0,2.0,Online
+1959,04-01-25,Sunil,North,Technology,Headphones  ,43361,2068.0,,Offline
+1960,16/01/2025,Sunil,South,Furniture,Table,2691,169.0,,Online
+1961,01/01/2025,Meena,West,Furniture,Chair,11568,,,Online
+1962,30-01-25,Ajay kumar,West,Technology,Tablet ,15486,,,Offline
+1963,09/01/2025,,East,Technology,Headphones ,32606,1910.0,,Online
+1964,07-01-25,Neha,East,Furniture,Sofa  ,53695,8801.0,7.0,Online
+1965,27/01/2025,Kiran,North,Office Supplies,Pen Set ,49676,-1410.0,3.0,Offline
+1966,18-01-25,Arun,East,Furniture,Chair,32528,7464.0,,Online
+1967,24-01-25,Ravi,South,Furniture,Chair ,578,,,Offline
+1968,04-01-25,Ravi,North,Office Supplies,Pen Set ,36317,244.0,2.0,Online
+1969,12/01/2025,Ravi,West,Office Supplies,Marker ,45802,7465.0,,Online
+1970,02/01/2025,Sunil,South,Office Supplies,Pen Set ,25043,,,Online
+1971,18-01-25,Pooja,South,Technology,Tablet ,27633,-2117.0,,Offline
+1972,09/01/2025,Ramesh,South,Technology,Tablet  ,6868,4756.0,,Online
+1973,29-01-25,Meena,West,Furniture,Chair ,17205,2292.0,,Offline
+1974,24-01-25,Ramesh,North,Technology,Laptop,43827,551.0,10.0,Online
+1975,04-01-25,Suman,North,Office Supplies,Pen Set  ,16675,2049.0,,Offline
+1976,19-01-25,Meena,South,Furniture,Sofa  ,11408,,8.0,Offline
+1977,25/01/2025,Ravi,East,Furniture,Chair  ,20480,6568.0,5.0,Online
+1978,17-01-25,Pooja,South,Office Supplies,Marker ,28609,,4.0,Offline
+1979,18/01/2025,Neha,South,Technology,Mobile phone ,10971,,,Offline
+1980,01/01/2025,Arun,North,Office Supplies,Marker  ,47979,648.0,7.0,Online
+1981,27/01/2025,,North,Furniture,Table  ,17570,2147.0,,Online
+1982,08/01/2025,Ajay kumar,East,Technology,Mobile phone  ,6431,5382.0,4.0,Offline
+1983,21/01/2025,Ravi,West,Office Supplies,Marker,2138,,8.0,Online
+1984,13-01-25,Ramesh,East,Technology,Mobile phone,9506,2179.0,3.0,Online
+1985,02/01/2025,Suman,South,Furniture,Sofa  ,11553,,3.0,Offline
+1986,31-01-25,,East,Furniture,Sofa  ,47958,,,Offline
+1987,02-01-25,Ajay kumar,East,Furniture,Table,11398,,8.0,Online
+1988,06/01/2025,Suman,North,Furniture,Table,18863,9955.0,,Online
+1989,30/01/2025,Ravi,South,Office Supplies,Notebook  ,50569,,2.0,Online
+1990,08/01/2025,Neha,East,Technology,Mobile phone  ,22154,,4.0,Online
+1991,17-01-25,Ajay kumar,West,Office Supplies,Pen Set ,58619,165.0,,Online
+1992,07/01/2025,,East,Furniture,Sofa  ,25706,,8.0,Online
+1993,15/01/2025,Ajay kumar,North,Office Supplies,Pen Set  ,17037,,,Online
+1994,14/01/2025,,East,Furniture,Chair  ,27991,-2005.0,,Offline
+1995,19-01-25,Suman,East,Office Supplies,Notebook,30484,106.0,,Online
+1996,14/01/2025,Neha,South,Technology,Laptop  ,58872,,7.0,Online
+1997,03/01/2025,,North,Furniture,Chair  ,32833,,8.0,Offline
+1998,18/01/2025,Ravi,South,Technology,Mobile phone,58151,3550.0,,Offline
+1999,01-01-25,Ajay kumar,North,Office Supplies,Marker ,18461,,6.0,Online
+2000,17/01/2025,Kiran,North,Technology,Tablet,3821,,4.0,Offline
